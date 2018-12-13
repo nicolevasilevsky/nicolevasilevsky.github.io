@@ -34,7 +34,7 @@
 
 -	**Nicole A. Vasilevsky**, Matthew H. Brush, Holly Paddock, Laura Ponting, Shreejoy J. Tripathy, Gregory M. LaRocca, Melissa A. Haendel (2013) On the reproducibility of science: Unique Identification of Research Resources in the Biomedical Literature. PeerJ. https://peerj.com/articles/148/ 
 
-_	Terry Meehan*, **Nicole A. Vasilevsky***, Christopher J. Mungall, Melissa A. Haendel, Judith A. Blake, Alexander D. Diehl (2013) Ontology based molecular signatures for immune cell types via gene expression analysis. BMC Bioinformatics 14:263. *These authors contributed equally to the work.
+-	Terry Meehan*, **Nicole A. Vasilevsky***, Christopher J. Mungall, Melissa A. Haendel, Judith A. Blake, Alexander D. Diehl (2013) Ontology based molecular signatures for immune cell types via gene expression analysis. BMC Bioinformatics 14:263. *These authors contributed equally to the work.
 
 - Vasilevsky NA, Johnson T, Corday K, Torniai C, Brush M, Segerdell E, Wilson M, Shaffer C and Haendel M. (2012) Research Resources: Curating the new eagle-i discovery system. Database, Vol. 2012, Article ID bar067.
 
