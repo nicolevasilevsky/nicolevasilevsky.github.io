@@ -1,7 +1,75 @@
-## 2018
+- Sebastian Köhler, Leigh Carmody, **Nicole Vasilevsky**, Julius O B Jacobsen, Daniel Danis, Jean-Philippe Gourdine, Michael Gargano, Nomi L Harris, Nicolas Matentzoglu, Julie A McMurry, David Osumi-Sutherland, Valentina Cipriani, James P Balhoff, Tom Conlin, Hannah Blau, Gareth Baynam, Richard Palmer, Dylan Gratian, Hugh Dawkins, Michael Segal, Anna C Jansen, Ahmed Muaz, Willie H Chang, Jenna Bergerson, Stanley J F Laulederkind, Zafer Yüksel, Sergi Beltran, Alexandra F Freeman, Panagiotis I Sergouniotis, Daniel Durkin, Andrea L Storm, Marc Hanauer, Michael Brudno, Susan M Bello, Murat Sincan, Kayli Rageth, Matthew T Wheeler,  Renske Oegema, Halima Lourghi, Maria G Della Rocca, Rachel Thompson, Francisco Castellanos, James Priest, Charlotte Cunningham-Rundles, Ayushi Hegde, Ruth C Lovering, Catherine Hajek, Annie Olry, Luigi Notarangelo, Morgan Similuk, Xingmin A Zhang, David Gómez-Andrés, Hanns Lochmüller, Hélène Dollfus, Sergio Rosenzweig, Shruti Marwaha, Ana Rath, Kathleen Sullivan, Cynthia Smith, Joshua D Milner, Dorothée Leroux, Cornelius F Boerkoel, Amy Klion, Melody C Carter, Tudor Groza, Damian Smedley, Melissa A Haendel, Chris Mungall, Peter N Robinson. Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources. 22 November 2018. Nucleic Acids Research, gky1105, https://doi.org/10.1093/nar/gky1105
 
-Add pub
+- Craig D. Newgard, MD, MPH; Cynthia D. Morris, PhD, MPH; Lindsey Smith, MPP; Jennifer N. B. Cook, GCPH; Donald M. Yealy, MD; Sean Collins, MD, MS; James F. Holmes, MD, MPH; Nathan Kuppermann, MD, MPH; Lynne D. Richardson, MD; Stephen Kimmel, MD, MSCE; Lance B. Becker, MD; Jane D. Scott, ScD, MSN; Robert A. Lowe, MD, MPH; Clifton W. Callaway, MD, PhD; L. Kris Gowen, PhD, EdM; Jill Baren, MD, MS; Alan B. Storrow, MD; **Nicole Vasilevsky, PhD**; Marijane White, MSLIS; Adrienne Zell, PhD. The First National Institutes of Health Institutional Training Program in Emergency Care Research: Productivity and Outcomes. Ann Emerg Med. 2018 Aug 2. pii: S0196-0644(18)30549-3. doi: 10.1016/j.annemergmed.2018.06.018.
 
-## 2017 
+- International Society for Biocuration (2018) Biocuration: Distilling data into knowledge. PLoS Biol 16(4): e2002846. https://doi.org/10.1371/journal.pbio.2002846
 
-Add pubs
+- Michael Bada, **Nicole Vasilevsky**, William A Baumgartner, Jr, Melissa Haendel, Lawrence E Hunter. Gold-standard ontology-based anatomical annotation in the CRAFT Corpus. Database, Volume 2017, 1 January 2017, bax087, https://academic.oup.com/database/article/doi/10.1093/database/bax087/4780291 
+
+- **Vasilevsky NA**, Minnier J, Haendel MA, Champieux RE. (2017) Reproducible and reusable research: Are journal data sharing policies meeting the mark? PeerJ 5:e3208; DOI 10.7717/peerj.3208 (Preprint available at: https://doi.org/10.7287/peerj.preprints.2588v1)
+
+-	Christopher J. Mungall, Julie A. McMurry, Sebastian Köhler, James P. Balhoff, Charles Borromeo, Matthew Brush, Seth Carbon, Tom Conlin, Nathan Dunn, Mark Engelstad, Erin Foster, J.P. Gourdine, Julius O.B. Jacobsen, Dan Keith, Bryan Laraway, Suzanna E. Lewis, Jeremy NguyenXuan, Kent Shefchek, **Nicole Vasilevsky**, Zhou Yuan, Nicole Washington, Harry Hochheiser, Tudor Groza, Damian Smedley, Peter N. Robinson, and Melissa A. Haendel. (2017) The Monarch Initiative: an integrative data and analytic platform connecting phenotypes to genotypes across species. Nucleic Acids Res. 2017 Jan 4;45(D1):D712-D722. doi: 10.1093/nar/gkw1128
+
+-	Sebastian Köhler, **Nicole A. Vasilevsky**, Mark Engelstad, Erin Foster, Julie McMurry, Ségolène Aymé, Gareth Baynam, Susan M. Bello, Cornelius F. Boerkoel, Kym M. Boycott, Michael Brudno, Orion J. Buske, Patrick F. Chinnery, Valentina Cipriani, Laureen E. Connell, Hugh J.S. Dawkins, Laura E. DeMare, Andrew D. Devereau, Bert B.A. de Vries, Helen V. Firth, Kathleen Freson, Daniel Greene, Ada Hamosh, Ingo Helbig, Courtney Hum, Johanna A. Jähn, Roger James, Roland Krause, Stanley J.F. Laulederkind, Hanns Lochmüller, Gholson J. Lyon, Soichi Ogishima, Annie Olry, Willem H. Ouwehand, Nikolas Pontikos, Ana Rath, Franz Schaefer, Richard H. Scott, Michael Segal, Panagiotis I. Sergouniotis, Richard Sever, Cynthia L. Smith, Volker Straub, Rachel Thompson, Catherine Turner, Ernest Turro, Marijcke W.M. Veltman, Tom Vulliamy, Jing Yu, Julie von Ziegenweidt, Andreas Zankl, Stephan Züchner, Tomasz Zemojtel, Julius O.B. Jacobsen, Tudor Groza, Damian Smedley, Christopher J. Mungall, Melissa Haendel, and Peter N. Robinson. The Human Phenotype Ontology in 2017. Nucl. Acids Res. first published online November 28, 2016 doi:10.1093/nar/gkw1039
+
+-	Wang Q, S Abdul S, Almeida L, Ananiadou S, Balderas-Martínez YI, Batista-Navarro R, Campos D, Chilton L, Chou HJ, Contreras G, Cooper L, Dai HJ, Ferrell B, Fluck J, Gama-Castro S, George N, Gkoutos G, Irin AK, Jensen LJ, Jimenez S, Jue TR, Keseler I, Madan S, Matos S, McQuilton P, Milacic M, Mort M, Natarajan J, Pafilis E, Pereira E, Rao S, Rinaldi F, Rothfels K, Salgado D, Silva RM, Singh O, Stefancsik R, Su CH, Subramani S, Tadepally HD, Tsaprouni L, **Vasilevsky N**, Wang X, Chatr-Aryamontri A, Laulederkind SJ, Matis-Mitchell S, McEntyre J, Orchard S, Pundir S, Rodriguez-Esteban R, Van Auken K, Lu Z, Schaeffer M, Wu CH, Hirschman L, Arighi CN. Overview of the interactive task in BioCreative V. Database (Oxford). 2016 Sep 1;2016. pii: baw119. Print 2016.
+
+-	Julie A. McMurry, Sebastian Köhler, Nicole L. Washington, James P. Balhoff, Charles Borromeo, Matthew Brush, Seth Carbon, Tom Conlin, Nathan Dunn, Mark Engelstad, Erin Foster, Jean-Philippe Gourdine, Julius O.B. Jacobsen, Daniel Keith, Bryan Laraway, Jeremy Nguyen Xuan, Kent Shefchek, **Nicole A. Vasilevsky**, Zhou Yuan, Suzanna E. Lewis, Harry Hochheiser, Tudor Groza, Damian Smedley, Peter N. Robinson, Christopher J. Mungall,   Melissa A. Haendel. Navigating the Phenotype Frontier: The Monarch Initiative. GENETICS August 1, 2016 vol. 203 no. 4 1491-1495; DOI: 10.1534/genetics.116.188870
+
+- Diehl AD, Meehan TF, Bradford YM, Brush MH, Dahdul WM, Dougall DS, He Y, Osumi-Sutherland D, Ruttenberg A, Sarntivijai S, Van Slyke CE, **Vasilevsky NA**, Haendel MA, Blake JA, Mungall CJ. The Cell Ontology 2016: enhanced content, modularization, and ontology interoperability. J Biomed Semantics. 2016 Jul 4;7(1):44. doi: 10.1186/s13326-016-0088-7.
+
+-	Babette Haven, Elysia Heilig, Cristine Donham, Michael Settles, **Nicole Vasilevsky**, Katherine Owen, Reproducibility Project: Cancer Biology. Registered report: A chromatin-mediated reversible drug-tolerant state in cancer cell subpopulations (2016) eLife 2016;5:e09462
+
+-	Vita R, **Vasilevsky N**, Bandrowski A, Haendel M, Sette A, Peters B. (2016) Reproducibility and Conflicts in Immune Epitope Data. Immunology. 2016 Mar;147(3):349-54. doi: 10.1111/imm.12566. 
+
+-	Bone WP, Washington NL, Buske OJ, Adams DR, Davis J, Draper D, Flynn ED, Girdea M, Godfrey R, Golas G, Groden C, Jacobsen J, Köhler S, Lee EM, Links AE, Markello TC, Mungall CJ, Nehrebecky M, Robinson PN, Sincan M, Soldatos AG, Tifft CJ, Toro C, Trang H, Valkanas E, **Vasilevsky N**, Wahl C, Wolfe LA, Boerkoel CF, Brudno M, Haendel MA, Gahl WA, Smedley D. Computational evaluation of exome sequence data using human and model organism phenotypes improves diagnostic efficiency. Genetics in medicine: official journal of the American College of Medical Genetics, 2015 Nov 12. doi: 10.1038/gim.2015.137.
+
+-	Tudor Groza, Sebastian Köhler, Dawid Moldenhauer, **Nicole Vasilevsky**, Gareth Baynam, Tomasz Zemojtel, Lynn Marie Schriml, Warren Alden Kibbe, Paul Schofield, Tim Beck, Drashtti Vasant, Anthony J Brookes, Andreas Zankl, Nicole L Washington, Christopher J Mungall, Suzanna E Lewis, Melissa Haendel, Helen Parkinson, Peter N Robinson. The Human Phenotype Ontology: Semantic unification of common and rare disease. The American Journal of Human Genetics (2015), http://dx.doi.org/10.1016/j.ajhg.2015.05.020.
+
+- Haendel MA, **Vasilevsky N**, Brush M, Hochheiser HS, Jacobsen J, Oellrich A, Mungall CJ, Washington N, Köhler S, Lewis SE, Robinson PN, Smedley D. Disease insights through cross-species phenotype comparisons. Mamm Genome. 2015 Jun 20. PMID: 26092691.
+
+-	Bandrowski A, Brush M, Grethe JS, Haendel MA, Kennedy DN, Hill S, Hof PR, Martone ME, Pols M, Tan S, Washington N, Zudilova-Seinstra E, **Vasilevsky N**. The Resource Identification Initiative: A cultural shift in publishing [version 2; referees: 2 approved] F1000Research 2015, 4:134 (doi: 10.12688/f1000research.6555.2) http://f1000research.com/articles/4-134/v2
+
+-	**Nicole Vasilevsky**, Morgan Schafer, Deanne Tibbitts, Kirsten Wright and Heather Zwickey. Curriculum Development of a Research Laboratory Methodology Course for Complementary and Integrative Medicine Students. (2015) Medical Science Educator. DOI:10.1007/s40670-015-0113-y
+
+-	**Nicole A. Vasilevsky**, Matthew H. Brush, Holly Paddock, Laura Ponting, Shreejoy J. Tripathy, Gregory M. LaRocca, Melissa A. Haendel (2013) On the reproducibility of science: Unique Identification of Research Resources in the Biomedical Literature. PeerJ. https://peerj.com/articles/148/ 
+
+_	Terry Meehan*, **Nicole A. Vasilevsky***, Christopher J. Mungall, Melissa A. Haendel, Judith A. Blake, Alexander D. Diehl (2013) Ontology based molecular signatures for immune cell types via gene expression analysis. BMC Bioinformatics 14:263. *These authors contributed equally to the work.
+
+•	Vasilevsky NA, Johnson T, Corday K, Torniai C, Brush M, Segerdell E, Wilson M, Shaffer C and Haendel M. (2012) Research Resources: Curating the new eagle-i discovery system. Database, Vol. 2012, Article ID bar067.
+•	Contribution: I performed biocuration for the eagle-i Network and co-wrote the manuscript.
+•	Citations: 31
+•	Journal impact factor: 3.29
+•	Torniai, C, Brush, M, Vasilevsky, N, Segerdell, E, Wison, M, Johnson, T, Corday, K, Shaffer, C, and Haendel, M. (2011) Developing an application ontology for biomedical resource annotation and retrieval: Challenges and lessons learned. International Conference on Biomedical Ontology 2011; July 26–30, 2011; Buffalo, NY.
+•	Contribution: I performed biocuration for the eagle-i Network.
+•	Citations: 20
+•	Journal impact factor: N/A (conference paper)
+•	Vasilevsky NA, Ruby CE, Hurlin PJ, Weinberg AD. OX40 engagement stabilizes Mxd4 and Mnt protein levels in antigen-stimulated T cells leading to an increase in cell survival. Eur J Immunol. 2011 Apr; 41(4):1024-34. Eur J Immunol. 2011 Apr;41(4):1024-34. 
+•	Contribution: I performed the majority of the experiments and wrote the manuscript.
+•	Citations: 8
+•	Journal impact factor: 4.227
+
+Non-peer-reviewed
+•	Nicole A. Vasilevsky, Erin D. Foster, Mark E. Engelstad, Leigh Carmody, Matt Might, Chip Chambers, Hugh J. S. Dawkins, Janine Lewis, Maria G. Della Rocca, Michelle Snyder, Cornelius F. Boerkoel, Ana Rath, Sharon F. Terry, Alastair Kent, Beverly Searle, Gareth Baynam, Erik Jones, Pam Gavin, Michael Bamshad, Jessica Chong, Tudor Groza, David Adams, Adam C. Resnick, Allison P. Heath, Chris Mungall, Ingrid A. Holm, Kayli Rageth, Catherine A. Brownstein, Kent Shefchek, Julie A. McMurry, Peter N. Robinson, Sebastian Köhler & Melissa A. Haendel. Plain-language medical vocabulary for precision diagnosis. Nature Genetics 50, 474–476 (2018). (Preprint available at: http://doi.org/10.5281/zenodo.1168737)
+o	Contribution: I led the curation effort to add layperson synonyms to the Human Phenotype Ontology.
+o	Citations: 3
+o	Journal impact factor: 27.959
+•	Ted Laderas, Nicole Vasilevsky, Bjorn Pederson, Melissa Haendel, Shannon McWeeney, David Dorr (2017): Teaching data science fundamentals through realistic synthetic clinical cardiovascular data. BioRxiv preprint: doi: https://doi.org/10.1101/232611
+o	Contribution: I assisted with coordination of the workshop.
+o	Journal impact factor: N/A (preprint)
+•	Vasilevsky N, Engelstad M, Foster E, Mungall C, Robinson P, Köhler S, Haendel M.  2016.  IT402: Enhancing the Human Phenotype Ontology for Use by the Layperson. International Conference on Biomedical Ontology and BioCreative (Conference paper, ICBO BioCreative 2016). http://ceur-ws.org/Vol-1747/IT402_ICBO2016.pdf 
+o	Contribution: I led the curation effort to add layperson synonyms to the Human Phenotype Ontology. 
+o	Citations: 2
+o	Journal impact factor: N/A (conference paper)
+•	Nicole Vasilevsky, Jackie Wirz, Robin Champieux, Todd Hannon, Bryan Laraway, Kyle Banerjee, Chris Shaffer, Melissa Haendel. "Lions, Tigers, and Gummi Bears: Springing Towards Effective Engagement with Research Data Management" (2014). Scholar Archive. Paper 3571. http://digitalcommons.ohsu.edu/etd/3571
+o	Contribution: I co-developed the curriculum and co-taught this workshop, and contributed to writing the manuscript.
+o	Citations: 2
+o	Journal impact factor: N/A (white paper)
+•	Haendel MA, Torniai C, Vasilevsky N, Hoffmann S, Bourges-Waldegg D. eagle-i: ontology-driven federated search and data entry tools for discovering biomedical research resources. (2013) International Conference on Biomedical Ontology; July 7-13, 2013; Montreal, Canada.
+o	Contribution: I performed biocuration for the eagle-i Network.
+o	Citations: 1
+o	Journal impact factor: N/A (conference paper)
+•	Haendel MA, Vasilevsky NA, and Wirz JA. (2012) Dealing with Data: A case study on information and data management literacy. PLoS Biol 10(5): e1001339. doi:10.1371/journal.pbio.1001339.
+o	Contribution: I co-wrote the manuscript.
+o	Citations: 58
+o	Journal impact factor: 9.797
