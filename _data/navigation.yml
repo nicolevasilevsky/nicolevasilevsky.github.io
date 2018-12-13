@@ -2,14 +2,14 @@
 - title: Home
   url: /
 
+- title: CV
+  url: /cv/
+  
 - title: Publications
   url: /publications/
 
 - title: Presentations
   url: /presentations/
-
-- title: CV
-  url: /cv/
 
 - title: Workshops
   url: /workshops/
