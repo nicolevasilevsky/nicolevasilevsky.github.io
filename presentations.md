@@ -1,4 +1,3 @@
-## Invited talks:
 
 - LOINC2HPO: Improving Translational Informatics by Standardizing EHR Phenotypic Data Using the Human Phenotype Ontology. Keynote address at Rocky Bioinformatics 2018, Snowmass, CO, December 07, 2018.
 - Phenotype Ontology workshop report. International Conference on Biological Ontology, Corvallis, OR, August 08, 2018.
@@ -27,9 +26,7 @@
 - The semantic web is changing research and library science. Oregon Library Association Annual Meeting, Bend, OR. 27 April 2012
 - The role of Mad4, Mnt and c-Myc proteins in OX40 stimulated T cells. American Association of Immunologists Annual Meeting, Seattle, WA, 12 May 2009
 - he role of Mad4, Mnt and c-Myc proteins in OX40 stimulated T cells. Tumor Vaccine and Cell Therapy Working Group, University of Washington, Seattle, WA, 08 May 2009
-
-## Other talks:
-- [Making (structured) sense of the data and teaching others how to do it too](https://figshare.com/articles/Making_structured_sense_of_the_data_and_teaching_others_how_to_do_it_too/6203390). Faculty talk for the Department of Medical Informatics and Clinical Epidemiology at Oregon Health & Science University. April 26, 2018,  
+- [Making (structured) sense of the data and teaching others how to do it too](https://figshare.com/articles/Making_structured_sense_of_the_data_and_teaching_others_how_to_do_it_too/6203390). Faculty talk for the Department of Medical Informatics and Clinical Epidemiology at Oregon Health & Science University. April 26, 2018
 - Data Management Open House.  OHSU, October 2013.
 - Let Me Hear Your Data Talk: Connecting the Library to OHSU’s Data Needs. OHSU Library, 2013.
 - Data Wrangling workshop. OHSU, Portland, OR. May 2014.
