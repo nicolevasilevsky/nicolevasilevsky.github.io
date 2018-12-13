@@ -1,6 +1,6 @@
 ## **Publications**
 
-### Publications
+### new header
 
 - Sebastian Köhler, Leigh Carmody, Nicole Vasilevsky, et al. **Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources.** 22 November 2018. Nucleic Acids Research, gky1105, https://doi.org/10.1093/nar/gky1105  
 
