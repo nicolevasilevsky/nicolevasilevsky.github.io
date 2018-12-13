@@ -9,9 +9,10 @@ My research focuses on development and use of semantic technologies to facilitat
 
 ### Biocuration projects
 - [Monarch Inititative](https://monarchinitiative.org/): a system that allows for cross-species disease discovery
+- [Gabriella Miller Kids First Data Resource](https://kidsfirstdrc.org/): a data resource portal containing data about pediatric cancers and structural abnormalities
 - [Applying layperson synonyms to the Human Phenotype Ontology](https://phenotypr.com/)
 - Extracting phenotype information from lab tests in Electronic Health Records (EHRs): [LOINC2HPO project](https://github.com/TheJacksonLaboratory/loinc2hpoAnnotation)
-- [N-Lighten](http://alaska.dev.eagle-i.net/)
+- [N-Lighten](http://alaska.dev.eagle-i.net/): an educational resource discovery tool
 
 ### Ontology development
 - [Human Phenotype Ontology](https://hpo.jax.org/app/)
