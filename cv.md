@@ -7,38 +7,26 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1996 - 2000`
+__Reed College, Portland, OR, USA__
+BA, Biology
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2002 - 2009`
+__Oregon Health & Science University, Portland, OR, USA__
+PhD, Cell Biology
 
-## Awards
 
-`2012`
-Name of Award, Organization 
+## Select Publications
 
-## Publications
+A list is also available [online](https://scholar.google.com/citations?user=RiPIoR4AAAAJ&hl=en&oi=ao)
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Peer reviewed
 
-### Journals
+`2018`
+Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources, Nucleic Acids Research, gky1105, 
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
+`2018`
+The First National Institutes of Health Institutional Training Program in Emergency Care Research: Productivity and Outcomes. Ann Emerg Med. 2018 Aug 2.
 
 
 ## Presentations
@@ -50,16 +38,16 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Research Assistant Professor__, Oregon Health & Science University 
 
-- Task
-- Task
+- Biocurator
+- Biomedical ontology developer
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`Current`
+__Assistant Professor__, National University of Natural Medicine
 
-- Task
-- Task
+- Member, Institional Review Board
+- Former instructor for Immunology (NS 322), Lab Methods (RES 720)
 
 
 
