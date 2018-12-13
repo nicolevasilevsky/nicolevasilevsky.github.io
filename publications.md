@@ -1,3 +1,5 @@
+**Publications**
+
 - Sebastian Köhler, Leigh Carmody, Nicole Vasilevsky, et al. **Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources.** 22 November 2018. Nucleic Acids Research, gky1105, https://doi.org/10.1093/nar/gky1105  
 
 - Craig D. Newgard, MD... Nicole Vasilevsky, PhD; Marijane White, MSLIS; Adrienne Zell, PhD. **The First National Institutes of Health Institutional Training Program in Emergency Care Research: Productivity and Outcomes.** Ann Emerg Med. 2018 Aug 2. pii: S0196-0644(18)30549-3. doi: 10.1016/j.annemergmed.2018.06.018.  
