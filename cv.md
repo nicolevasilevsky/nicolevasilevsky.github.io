@@ -50,7 +50,7 @@ __Research Assistant Professor__, Oregon Health & Science University
 __Assistant Professor__, National University of Natural Medicine
 
 - Member, Institional Review Board
-- Former instructor for Immunology (NS 322), Lab Methods (RES 720)
+- Former instructor for Immunology (NS 322), Lab Methods (RES 620)
 
 
 
