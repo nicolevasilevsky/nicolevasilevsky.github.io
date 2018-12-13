@@ -35,7 +35,7 @@ Plain-language medical vocabulary for precision diagnosis, Nature GeneticsÂ 50,Â
 ## Presentations
 
 `2018`
-LOINC2HPO: Improving Translational Informatics by Standardizing EHR Phenotypic Data Using the Human Phenotype Ontology, Keynote address at Rocky Bioinformatics 2018, Snowmass, CO, December 07, 2018.<a href="https://figshare.com/articles/LOINC2HPO_Improving_Translational_Informatics_by_Standardizing_EHR_Phenotypic_Data_Using_the_Human_Phenotype_Ontology/7439195">Link to Presentation</a>
+LOINC2HPO: Improving Translational Informatics by Standardizing EHR Phenotypic Data Using the Human Phenotype Ontology, Keynote address at Rocky Bioinformatics 2018, Snowmass, CO, December 07, 2018. <a href="https://figshare.com/articles/LOINC2HPO_Improving_Translational_Informatics_by_Standardizing_EHR_Phenotypic_Data_Using_the_Human_Phenotype_Ontology/7439195">Link to Presentation</a>
 
 
 ## Occupation
