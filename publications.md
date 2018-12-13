@@ -36,40 +36,23 @@
 
 _	Terry Meehan*, **Nicole A. Vasilevsky***, Christopher J. Mungall, Melissa A. Haendel, Judith A. Blake, Alexander D. Diehl (2013) Ontology based molecular signatures for immune cell types via gene expression analysis. BMC Bioinformatics 14:263. *These authors contributed equally to the work.
 
-•	Vasilevsky NA, Johnson T, Corday K, Torniai C, Brush M, Segerdell E, Wilson M, Shaffer C and Haendel M. (2012) Research Resources: Curating the new eagle-i discovery system. Database, Vol. 2012, Article ID bar067.
-•	Contribution: I performed biocuration for the eagle-i Network and co-wrote the manuscript.
-•	Citations: 31
-•	Journal impact factor: 3.29
-•	Torniai, C, Brush, M, Vasilevsky, N, Segerdell, E, Wison, M, Johnson, T, Corday, K, Shaffer, C, and Haendel, M. (2011) Developing an application ontology for biomedical resource annotation and retrieval: Challenges and lessons learned. International Conference on Biomedical Ontology 2011; July 26–30, 2011; Buffalo, NY.
-•	Contribution: I performed biocuration for the eagle-i Network.
-•	Citations: 20
-•	Journal impact factor: N/A (conference paper)
-•	Vasilevsky NA, Ruby CE, Hurlin PJ, Weinberg AD. OX40 engagement stabilizes Mxd4 and Mnt protein levels in antigen-stimulated T cells leading to an increase in cell survival. Eur J Immunol. 2011 Apr; 41(4):1024-34. Eur J Immunol. 2011 Apr;41(4):1024-34. 
-•	Contribution: I performed the majority of the experiments and wrote the manuscript.
-•	Citations: 8
-•	Journal impact factor: 4.227
+- Vasilevsky NA, Johnson T, Corday K, Torniai C, Brush M, Segerdell E, Wilson M, Shaffer C and Haendel M. (2012) Research Resources: Curating the new eagle-i discovery system. Database, Vol. 2012, Article ID bar067.
 
-Non-peer-reviewed
-•	Nicole A. Vasilevsky, Erin D. Foster, Mark E. Engelstad, Leigh Carmody, Matt Might, Chip Chambers, Hugh J. S. Dawkins, Janine Lewis, Maria G. Della Rocca, Michelle Snyder, Cornelius F. Boerkoel, Ana Rath, Sharon F. Terry, Alastair Kent, Beverly Searle, Gareth Baynam, Erik Jones, Pam Gavin, Michael Bamshad, Jessica Chong, Tudor Groza, David Adams, Adam C. Resnick, Allison P. Heath, Chris Mungall, Ingrid A. Holm, Kayli Rageth, Catherine A. Brownstein, Kent Shefchek, Julie A. McMurry, Peter N. Robinson, Sebastian Köhler & Melissa A. Haendel. Plain-language medical vocabulary for precision diagnosis. Nature Genetics 50, 474–476 (2018). (Preprint available at: http://doi.org/10.5281/zenodo.1168737)
-o	Contribution: I led the curation effort to add layperson synonyms to the Human Phenotype Ontology.
-o	Citations: 3
-o	Journal impact factor: 27.959
-•	Ted Laderas, Nicole Vasilevsky, Bjorn Pederson, Melissa Haendel, Shannon McWeeney, David Dorr (2017): Teaching data science fundamentals through realistic synthetic clinical cardiovascular data. BioRxiv preprint: doi: https://doi.org/10.1101/232611
-o	Contribution: I assisted with coordination of the workshop.
-o	Journal impact factor: N/A (preprint)
-•	Vasilevsky N, Engelstad M, Foster E, Mungall C, Robinson P, Köhler S, Haendel M.  2016.  IT402: Enhancing the Human Phenotype Ontology for Use by the Layperson. International Conference on Biomedical Ontology and BioCreative (Conference paper, ICBO BioCreative 2016). http://ceur-ws.org/Vol-1747/IT402_ICBO2016.pdf 
-o	Contribution: I led the curation effort to add layperson synonyms to the Human Phenotype Ontology. 
-o	Citations: 2
-o	Journal impact factor: N/A (conference paper)
-•	Nicole Vasilevsky, Jackie Wirz, Robin Champieux, Todd Hannon, Bryan Laraway, Kyle Banerjee, Chris Shaffer, Melissa Haendel. "Lions, Tigers, and Gummi Bears: Springing Towards Effective Engagement with Research Data Management" (2014). Scholar Archive. Paper 3571. http://digitalcommons.ohsu.edu/etd/3571
-o	Contribution: I co-developed the curriculum and co-taught this workshop, and contributed to writing the manuscript.
-o	Citations: 2
-o	Journal impact factor: N/A (white paper)
-•	Haendel MA, Torniai C, Vasilevsky N, Hoffmann S, Bourges-Waldegg D. eagle-i: ontology-driven federated search and data entry tools for discovering biomedical research resources. (2013) International Conference on Biomedical Ontology; July 7-13, 2013; Montreal, Canada.
-o	Contribution: I performed biocuration for the eagle-i Network.
-o	Citations: 1
-o	Journal impact factor: N/A (conference paper)
-•	Haendel MA, Vasilevsky NA, and Wirz JA. (2012) Dealing with Data: A case study on information and data management literacy. PLoS Biol 10(5): e1001339. doi:10.1371/journal.pbio.1001339.
-o	Contribution: I co-wrote the manuscript.
-o	Citations: 58
-o	Journal impact factor: 9.797
+- Torniai, C, Brush, M, Vasilevsky, N, Segerdell, E, Wison, M, Johnson, T, Corday, K, Shaffer, C, and Haendel, M. (2011) Developing an application ontology for biomedical resource annotation and retrieval: Challenges and lessons learned. International Conference on Biomedical Ontology 2011; July 26–30, 2011; Buffalo, NY.
+
+- Vasilevsky NA, Ruby CE, Hurlin PJ, Weinberg AD. OX40 engagement stabilizes Mxd4 and Mnt protein levels in antigen-stimulated T cells leading to an increase in cell survival. Eur J Immunol. 2011 Apr; 41(4):1024-34. Eur J Immunol. 2011 Apr;41(4):1024-34. 
+
+
+## Non-peer-reviewed
+- 	Nicole A. Vasilevsky, Erin D. Foster, Mark E. Engelstad, Leigh Carmody, Matt Might, Chip Chambers, Hugh J. S. Dawkins, Janine Lewis, Maria G. Della Rocca, Michelle Snyder, Cornelius F. Boerkoel, Ana Rath, Sharon F. Terry, Alastair Kent, Beverly Searle, Gareth Baynam, Erik Jones, Pam Gavin, Michael Bamshad, Jessica Chong, Tudor Groza, David Adams, Adam C. Resnick, Allison P. Heath, Chris Mungall, Ingrid A. Holm, Kayli Rageth, Catherine A. Brownstein, Kent Shefchek, Julie A. McMurry, Peter N. Robinson, Sebastian Köhler & Melissa A. Haendel. Plain-language medical vocabulary for precision diagnosis. Nature Genetics 50, 474–476 (2018). (Preprint available at: http://doi.org/10.5281/zenodo.1168737)
+
+_	Ted Laderas, Nicole Vasilevsky, Bjorn Pederson, Melissa Haendel, Shannon McWeeney, David Dorr (2017): Teaching data science fundamentals through realistic synthetic clinical cardiovascular data. BioRxiv preprint: doi: https://doi.org/10.1101/232611
+
+_	Vasilevsky N, Engelstad M, Foster E, Mungall C, Robinson P, Köhler S, Haendel M.  2016.  IT402: Enhancing the Human Phenotype Ontology for Use by the Layperson. International Conference on Biomedical Ontology and BioCreative (Conference paper, ICBO BioCreative 2016). http://ceur-ws.org/Vol-1747/IT402_ICBO2016.pdf 
+
+_	Nicole Vasilevsky, Jackie Wirz, Robin Champieux, Todd Hannon, Bryan Laraway, Kyle Banerjee, Chris Shaffer, Melissa Haendel. "Lions, Tigers, and Gummi Bears: Springing Towards Effective Engagement with Research Data Management" (2014). Scholar Archive. Paper 3571. http://digitalcommons.ohsu.edu/etd/3571
+
+- Haendel MA, Torniai C, Vasilevsky N, Hoffmann S, Bourges-Waldegg D. eagle-i: ontology-driven federated search and data entry tools for discovering biomedical research resources. (2013) International Conference on Biomedical Ontology; July 7-13, 2013; Montreal, Canada.
+
+- Haendel MA, Vasilevsky NA, and Wirz JA. (2012) Dealing with Data: A case study on information and data management literacy. PLoS Biol 10(5): e1001339. doi:10.1371/journal.pbio.1001339.
+
