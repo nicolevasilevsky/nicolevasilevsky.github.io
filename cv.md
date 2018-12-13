@@ -23,16 +23,19 @@ A list is also available [online](https://scholar.google.com/citations?user=RiPI
 ### Peer reviewed
 
 `2018`
-Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources, Nucleic Acids Research, gky1105, 
+Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources, Nucleic Acids Research, gky1105 
 
 `2018`
 The First National Institutes of Health Institutional Training Program in Emergency Care Research: Productivity and Outcomes. Ann Emerg Med. 2018 Aug 2.
 
+### Other publications
+`2018`
+Plain-language medical vocabulary for precision diagnosis, Nature Genetics 50, 474–476 (2018)
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2018`
+LOINC2HPO: Improving Translational Informatics by Standardizing EHR Phenotypic Data Using the Human Phenotype Ontology, Keynote address at Rocky Bioinformatics 2018, Snowmass, CO, December 07, 2018.<a href="https://figshare.com/articles/LOINC2HPO_Improving_Translational_Informatics_by_Standardizing_EHR_Phenotypic_Data_Using_the_Human_Phenotype_Ontology/7439195">Link to Presentation</a>
 
 
 ## Occupation
@@ -41,7 +44,7 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 __Research Assistant Professor__, Oregon Health & Science University 
 
 - Biocurator
-- Biomedical ontology developer
+- Biomedical ontologist
 
 `Current`
 __Assistant Professor__, National University of Natural Medicine
