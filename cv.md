@@ -23,14 +23,14 @@ A list is also available [online](https://scholar.google.com/citations?user=RiPI
 ### Peer reviewed
 
 `2018`
-Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources, Nucleic Acids Research, gky1105 
+Sebastian Köhler, Leigh Carmody, **Nicole Vasilevsky**, et al., Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources, Nucleic Acids Research, gky1105 
 
 `2018`
-The First National Institutes of Health Institutional Training Program in Emergency Care Research: Productivity and Outcomes. Ann Emerg Med. 2018 Aug 2.
+Craig D. Newgard, et al., The First National Institutes of Health Institutional Training Program in Emergency Care Research: Productivity and Outcomes. Ann Emerg Med. 2018 Aug 2.
 
 ### Other publications
 `2018`
-Plain-language medical vocabulary for precision diagnosis, Nature Genetics 50, 474–476 (2018)
+**Nicole A. Vasilevsky**, et al, Plain-language medical vocabulary for precision diagnosis, Nature Genetics 50, 474–476 (2018)
 
 ## Presentations
 
