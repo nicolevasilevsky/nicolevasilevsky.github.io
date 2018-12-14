@@ -42,6 +42,7 @@ Bone WP, Washington NL, Buske OJ, Adams DR, Davis J, Draper D, Flynn ED, Girdea 
 
 `2015`
 Haendel MA, **Vasilevsky N**, Brush M, Hochheiser HS, Jacobsen J, Oellrich A, Mungall CJ, Washington N, Köhler S, Lewis SE, Robinson PN, Smedley D. Disease insights through cross-species phenotype comparisons. Mamm Genome. 2015 Jun 20. PMID: 26092691.
+
 `2015`
 Bandrowski A, Brush M, Grethe JS, Haendel MA, Kennedy DN, Hill S, Hof PR, Martone ME, Pols M, Tan S, Washington N, Zudilova-Seinstra E, **Vasilevsky N**. The Resource Identification Initiative: A cultural shift in publishing [version 2; referees: 2 approved] F1000Research 2015, 4:134 (doi: 10.12688/f1000research.6555.2) http://f1000research.com/articles/4-134/v2
 
