@@ -3,8 +3,6 @@ layout: page
 excerpt: "About Me..."
 ---
 
-_This website is currently under development_
-
 My research focuses on development and use of semantic technologies to facilitate new knowledge discovery and promote scientific reproducibility. I performs data biocuration, and develop ontologies and data standards for phenotypes, diseases and other biomedical domains with the goal of improving disease diagnostics and health outcomes. Additionally, I participate in educational efforts in data management best practices and data science.
 
 ## Current Interests and Projects:
