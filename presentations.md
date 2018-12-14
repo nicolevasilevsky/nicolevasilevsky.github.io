@@ -6,7 +6,7 @@ excerpt: "Presentations"
 
 - **LOINC2HPO: Improving Translational Informatics by Standardizing EHR Phenotypic Data Using the Human Phenotype Ontology**. Keynote address at Rocky Bioinformatics 2018, Snowmass, CO, December 07, 2018.
 - **Phenotype Ontology workshop report**. International Conference on Biological Ontology, Corvallis, OR, August 08, 2018.
-- Phenotype Ontologies Traversing All The Organisms (POTATO) workshop, Workshop at the International Conference on Biological Ontology, Corvallis, OR, August 06-07, 2018.
+- **Phenotype Ontologies Traversing All The Organisms (POTATO) workshop**, Workshop at the International Conference on Biological Ontology, Corvallis, OR, August 06-07, 2018.
 - **[The Human Phenotype Ontology]**(https://figshare.com/articles/Human_Phenotype_Ontology/6510257). Invited talk at the Sickle Cell Disease Ontology Workshop, Cape Town, South Africa, June 04, 2018.
 - **[A comprehensive disease ontology for human disease curation]**(https://doi.org/10.6084/m9.figshare.6141551.v1). Presentation at Biocuration 2018 conference, Shanghai, China, April 10, 2018. Figshare: 
 - **[Careers in Biocuration: An overview of the current status, challenges and goals in the biocuration field]**(https://doi.org/10.6084/m9.figshare.6146429.v1). Workshop at Biocuration 2018 conference, Shanghai, China, April 09, 2018. 
