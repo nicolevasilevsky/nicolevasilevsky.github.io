@@ -9,6 +9,9 @@ excerpt: "Recent Workshops"
 
 - **Phenotype Ontologies Traversing All The Organisms (POTATO) workshop**, Workshop at the International Conference on Biological Ontology, Corvallis, OR, August 06-07, 2018. [Link here](http://icbo2018.cgrb.oregonstate.edu/node/29)
 
+- **Data Management 101.** OHSU Program in Molecular and Cellular Biology Retreat, Welches, OR. 20 September 2013. 
+
+- **Data Wrangling workshop.** OHSU, Portland, OR. May 2014.
 
 # Guest Lectures
 
