@@ -4,42 +4,35 @@ title: Workshops
 excerpt: "Recent Workshops"
 ---
 
+## Ontologies
+
 - **Monarch Disease Ontology workshop**, Co-organizer, Broad Institute, Cambridge, MA, November 27-28.
-
-- **Managing Translational Informatics Projects**, Co-instructor, Workshop at Oregon Health & Science University, September 21, 2018. [Link here](https://data2health.github.io/mtip-tutorial/).
-
 - **Ontology 101: A how-to guide to create, manage, and release an OBO ontology**, Co-instructor, Workshop at International Conference on Biological Ontology, Corvallis, OR, August 07, 2018. [Link here.](http://icbo2018.cgrb.oregonstate.edu/node/19)
-
 - **Phenotype Ontologies Traversing All The Organisms (POTATO) workshop**, Workshop at the International Conference on Biological Ontology, Corvallis, OR, August 06-07, 2018. [Link here](http://icbo2018.cgrb.oregonstate.edu/node/29)
 
-- **Data Management 101.** OHSU Program in Molecular and Cellular Biology Retreat, Welches, OR. 20 September 2013. 
+## Project Management
 
-- **Data Wrangling workshop.** OHSU, Portland, OR. May 2014.
-
-- **OHSU Library Data Science Institute**, Instructor and Lead Organizer, White Stag Building, Portland, Oregon. November 6-8, 2017. [Link here](https://ohsulibrary-datascienceinstitute.github.io/)
-
-- **Data and Donuts**, Oregon Health & Science Universit, July 25, 2017.
-
-- **BD2K Clinical Risk Prediction Workshop**, Oregon Health & Science University, May 15-16, 2017.
-
-- **OHSU Library Research Project Workshops**, Research Data Management Best Practices, March 2017.  [Link here](http://www.ohsu.edu/xd/education/library/Research-Project-Workshops.cfm)
-
+- **Managing Translational Informatics Projects**, Co-instructor, Workshop at Oregon Health & Science University, September 21, 2018. [Link here](https://data2health.github.io/mtip-tutorial/).
 - **GitHub Tutorial**, Oregon Health & Science University Library Staff, February 08, 2017. 
 
+## Data Science and Data Management
+
+- **OHSU Library Data Science Institute**, Instructor and Lead Organizer, White Stag Building, Portland, Oregon. November 6-8, 2017. [Link here](https://ohsulibrary-datascienceinstitute.github.io/)
+- **Data and Donuts**, Oregon Health & Science Universit, July 25, 2017.
+- **BD2K Clinical Risk Prediction Workshop**, Oregon Health & Science University, May 15-16, 2017.
+- **OHSU Library Research Project Workshops**, Research Data Management Best Practices, March 2017.  [Link here](http://www.ohsu.edu/xd/education/library/Research-Project-Workshops.cfm)
 - **Data and Donuts West**, Oregon Health & Science University, July 21, 2016.
-
 - **Data and Donuts**, Oregon Health & Science University, June 28-29, 2016. [Link here](https://dmice.ohsu.edu/bd2k/skillscourse/DonutsSchedule.html)
-
 - **Advanced Data After Dark**, Oregon Health & Science University, May 23-26, 2016. [Link here](https://dmice.ohsu.edu/bd2k/skillscourse/May2016Schedule.html)
-
 - **Data After Dark**, Oregon Health & Science University, January 13-14, 2016. [Link here](https://dmice.ohsu.edu/bd2k/skillscourse/Jan2016Schedule.html)
-
 - **BD2K Skills Course**, Oregon Health & Science University, July 2015.
-
 - **FOLIO Data Management Training**, Oregon Health & Science University, 21 March 2015.
+- **Data Wrangling workshop.** OHSU, Portland, OR. May 2014.
+- **Data Management 101.** OHSU Program in Molecular and Cellular Biology Retreat, Welches, OR. 20 September 2013. 
+
+## eagle-i Netowrk Training
 
 - **eagle-i Network Training**, Harvard University, Boston, MA, 25-27 July 2012.
-
 - **eagle-i Network Curation Training**, Harvard University, Boston, MA, December 15-16, 2011.
 
 # Guest Lectures
