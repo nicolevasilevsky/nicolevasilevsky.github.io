@@ -1,5 +1,6 @@
 ---
 layout: resume
+Title: Current research
 ---
 
 My research focuses on development and application of semantic technologies to facilitate new knowledge discovery and promote scientific reproducibility. I develop biomedical ontologies and data standards for phenotypes, diseases and other biomedical domains with the goal of improving disease diagnostics and health outcomes. Given the international focus of this work, I have extensive expertise in working collaboratively on dynamic and dispersed teams and have contributed to a number of consortia and projects.  Other areas of my work include developing methods and best practices with respect to data integration and data quality. I have made significant contributions to science in the area of scientific reproducibility including demonstrating a lack of uniquely identifying information in methods sections in publications as well as an evaluation of current journal data sharing policies.
