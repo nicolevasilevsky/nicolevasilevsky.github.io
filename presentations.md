@@ -40,8 +40,6 @@ excerpt: "Presentations"
 
 - **Research Efficiency & Reproducibility: Leveraging Research Resources.** Elsevier webinar. April 2014.
 
-- **Data Management 101.** OHSU Program in Molecular and Cellular Biology Retreat, Welches, OR. 20 September 2013. 
-
 - **On the reproducibility of science: Unique Identification of Research Resources in the Biomedical Literature.** OHSU Research Week. OHSU, Portland, OR. May 2013. 
 
 - **Data Management.** SPARC Conference Portland, OR. 03 and 04 May 2013
@@ -63,7 +61,5 @@ excerpt: "Presentations"
 - **Data Management Open House.**  OHSU, October 2013.
 
 - **Let Me Hear Your Data Talk: Connecting the Library to OHSU’s Data Needs.** OHSU Library, 2013.
-
-- **Data Wrangling workshop.** OHSU, Portland, OR. May 2014.
 
 - **The role of Mad4, Mnt and c-Myc proteins in OX40 stimulated T cells.** Shriners Research Center, Shriners Hospital for Crippled Children, Portland, OR. 17 April 2009
