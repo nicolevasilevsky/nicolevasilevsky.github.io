@@ -1,6 +1,6 @@
 ---
 layout: page
-title: workshops
+title: Workshops
 excerpt: "Recent Workshops"
 ---
 
