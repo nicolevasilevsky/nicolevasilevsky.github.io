@@ -16,13 +16,9 @@ excerpt: "Presentations"
 - **[A comprehensive disease ontology for human disease curation](https://doi.org/10.6084/m9.figshare.6141551.v1)**. Presentation at Biocuration 2018 conference, Shanghai, China, April 10, 2018. 
 - **[A match made in heaven: domain expert meets CSV; gives birth to ontologies](https://doi.org/10.6084/m9.figshare.4968119.v1)**. csv,conf, v3, Portland, OR, May 03, 2017. 
 - **[Enhancing the Human Phenotype Ontology for Use by the Layperson](http://www.slideshare.net/NicoleVasilevsky/enhancing-the-human-phenotype-ontology-for-use-by-the-layperson-64669468)**. International Conference on Biomedical Ontology and BioCreative (ICBO BioCreative 2016), Corvallis, Oregon, August, 2016.  
+- **Updating and Extending the Concept Annotations of the CRAFT Corpus.** Biocuration 2016, Geneva, Switzerland. [v1; not peer reviewed]. F1000Research 2016, 5:709 (slide presentation) (doi: 10.7490/f1000research.1111753.1)
 - **The semantic web is changing research and library science.** Oregon Library Association Annual Meeting, Bend, OR. 27 April 2012
 - **[Making (structured) sense of the data and teaching others how to do it too](https://figshare.com/articles/Making_structured_sense_of_the_data_and_teaching_others_how_to_do_it_too/6203390)**. Faculty talk for the Department of Medical Informatics and Clinical Epidemiology at Oregon Health & Science University. April 26, 2018
-
-## Biocuration 
-
-- **[Careers in Biocuration: An overview of the current status, challenges and goals in the biocuration field](https://doi.org/10.6084/m9.figshare.6146429.v1)**. Workshop at Biocuration 2018 conference, Shanghai, China, April 09, 2018. 
-- **Updating and Extending the Concept Annotations of the CRAFT Corpus.** Biocuration 2016, Geneva, Switzerland. [v1; not peer reviewed]. F1000Research 2016, 5:709 (slide presentation) (doi: 10.7490/f1000research.1111753.1)
 
 ## Data Science Education and Training
 
