@@ -1,5 +1,6 @@
 ---
 layout: resume
+title: Currently2
 ---
 ## Currently
 
