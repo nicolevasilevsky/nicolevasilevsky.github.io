@@ -14,6 +14,8 @@ excerpt: "Recent Workshops"
 
 - **Managing Translational Informatics Projects**, Co-instructor, Workshop at Oregon Health & Science University, September 21, 2018. [Link here](https://data2health.github.io/mtip-tutorial/).
 - **GitHub Tutorial**, Oregon Health & Science University Library Staff, February 08, 2017. 
+- **Ontologies 101 Tutorial: Introduction to Protege**, Online tutorial. [Link here](https://ontology101tutorial.readthedocs.io/en/latest/)
+- **Ontologies 101**, Open Educational Resource. [Link here](https://github.com/OHSUBD2K/BDK14-Ontologies-101)
 
 ## Data Science and Data Management
 
