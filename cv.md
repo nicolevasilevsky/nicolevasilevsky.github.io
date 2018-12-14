@@ -3,7 +3,7 @@ layout: resume
 title: Currently
 ---
 
-I am a Research Associate Professor in the Translational and Integrative Sciences Lab at Oregon Health & Science University in Portland, Oregon. I have a joint appointment in the Oregon Clinical & Translational Research Institute and Department of Medical Informatics and Clinical Epidemiology. 
+I am a Research Associate Professor in the [Translational and Integrative Sciences Lab](https://tislab.org/) at Oregon Health & Science University in Portland, Oregon. I have a joint appointment in the Oregon Clinical & Translational Research Institute and Department of Medical Informatics and Clinical Epidemiology. 
 
 ## Education
 
