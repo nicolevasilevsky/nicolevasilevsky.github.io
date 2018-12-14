@@ -13,6 +13,50 @@ excerpt: "Recent Workshops"
 
 - **Data Wrangling workshop.** OHSU, Portland, OR. May 2014.
 
+- **OHSU Library Data Science Institute**, Instructor and Lead Organizer, White Stag Building, Portland, Oregon. November 6-8, 2017. [Link here](https://ohsulibrary-datascienceinstitute.github.io/)
+
+- **Data and Donuts**, Oregon Health & Science Universit, July 25, 2017.
+
+- **BD2K Clinical Risk Prediction Workshop**, Oregon Health & Science University, May 15-16, 2017.
+
+- **OHSU Library Research Project Workshops**, Research Data Management Best Practices, March 2017.  [Link here](http://www.ohsu.edu/xd/education/library/Research-Project-Workshops.cfm)
+
+- **GitHub Tutorial**, Oregon Health & Science University Library Staff, February 08, 2017. 
+
+- **Data and Donuts West**, Oregon Health & Science University, July 21, 2016.
+
+- **Data and Donuts**, Oregon Health & Science University, June 28-29, 2016. [Link here](https://dmice.ohsu.edu/bd2k/skillscourse/DonutsSchedule.html)
+
+- **Advanced Data After Dark**, Oregon Health & Science University, May 23-26, 2016. [Link here](https://dmice.ohsu.edu/bd2k/skillscourse/May2016Schedule.html)
+
+- January 13-14, 2016, Data After Dark, Oregon Health & Science University. https://dmice.ohsu.edu/bd2k/skillscourse/Jan2016Schedule.html 
+
+- July 2015, BD2K Skills Course, Oregon Health & Science University.
+
+- 21 March 2015, FOLIO Data Management Training; Oregon Health & Science University.
+
+- Winter 2012, Summer 2012, Fall 2012, Spring 2013, Summer 2013, Spring 2014, Summer 2014, Spring 2015, RES 620: Laboratory Methods, National College of Natural Medicine.
+
+- Summer 2011, Summer 2012, Summer 2103, Spring 2016, Winter 2017, RES 501: Immunology Journal Club, National College of Natural Medicine.
+
+- 25-27 July 2012, eagle-i Network Training, Harvard University, Boston, MA.
+
+- Spring 2011, RES 422: Conducting Clinical Research, National College of Natural Medicine.
+
+- December 15-16, 2011, eagle-i Network Curation Training, Harvard University, Boston, MA.
+
+- Summer 2010 and Fall 2009, BIT 101: Introduction to Bioscience Technology, Portland Community College.
+
 # Guest Lectures
 
-- **Introduction to Ontologies**, Guest Lecturer, Programming for Biology, Cold Spring Harbor Laboratories, Cold Spring Harbor, New York, October 26, 2019. [Link here](https://github.com/prog4biol/pfb2018/blob/master/workshops/Ontologies/IntroToOntologies_CSH_2018-10-28g.pdf)
+- **Introduction to Ontologies**, Programming for Biology, Cold Spring Harbor Laboratories, Cold Spring Harbor, New York, October 26, 2019. [Link here](https://github.com/prog4biol/pfb2018/blob/master/workshops/Ontologies/IntroToOntologies_CSH_2018-10-28g.pdf)
+
+- **MB599, Selected Topics** Oregon State University, May 03, 2018.
+
+- **Research Methods in Bioinformatics**, Oregon Health & Science University, February 04, 2016.
+
+# Courses
+
+- **NS322 Immunology**, National University of Natural Medicine, Winter 2017 and Winter 2018.
+
+- **RES 703: Integrative Microbiology**, National College of Natural Medicine. Spring, 2016.
