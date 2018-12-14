@@ -6,6 +6,7 @@ excerpt: "Recent Workshops"
 
 
 - **Ontology 101: A how-to guide to create, manage, and release an OBO ontology**, Co-instructor, Workshop at International Conference on Biological Ontology, Corvallis, OR, August 07, 2018. [Link here.](http://icbo2018.cgrb.oregonstate.edu/node/19)
+
 - **Phenotype Ontologies Traversing All The Organisms (POTATO) workshop**, Workshop at the International Conference on Biological Ontology, Corvallis, OR, August 06-07, 2018. [Link here](http://icbo2018.cgrb.oregonstate.edu/node/29)
 
 
