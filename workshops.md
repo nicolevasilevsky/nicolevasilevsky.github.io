@@ -30,15 +30,11 @@ excerpt: "Recent Workshops"
 
 - **Advanced Data After Dark**, Oregon Health & Science University, May 23-26, 2016. [Link here](https://dmice.ohsu.edu/bd2k/skillscourse/May2016Schedule.html)
 
-- January 13-14, 2016, Data After Dark, Oregon Health & Science University. https://dmice.ohsu.edu/bd2k/skillscourse/Jan2016Schedule.html 
+- **Data After Dark**, Oregon Health & Science University, January 13-14, 2016. [Link here](https://dmice.ohsu.edu/bd2k/skillscourse/Jan2016Schedule.html)
 
-- July 2015, BD2K Skills Course, Oregon Health & Science University.
+- **BD2K Skills Course**, Oregon Health & Science University, July 2015.
 
-- 21 March 2015, FOLIO Data Management Training; Oregon Health & Science University.
-
-- Winter 2012, Summer 2012, Fall 2012, Spring 2013, Summer 2013, Spring 2014, Summer 2014, Spring 2015, RES 620: Laboratory Methods, National College of Natural Medicine.
-
-- Summer 2011, Summer 2012, Summer 2103, Spring 2016, Winter 2017, RES 501: Immunology Journal Club, National College of Natural Medicine.
+- **FOLIO Data Management Training**, Oregon Health & Science University, 21 March 2015.
 
 - 25-27 July 2012, eagle-i Network Training, Harvard University, Boston, MA.
 
@@ -61,3 +57,7 @@ excerpt: "Recent Workshops"
 - **NS322 Immunology**, National University of Natural Medicine, Winter 2017 and Winter 2018.
 
 - **RES 703: Integrative Microbiology**, National College of Natural Medicine. Spring, 2016.
+
+- **RES 620: Laboratory Methods**, National College of Natural Medicine, Winter 2012, Summer 2012, Fall 2012, Spring 2013, Summer 2013, Spring 2014, Summer 2014, Spring 2015.
+
+- **RES 501: Immunology Journal Club**, National College of Natural Medicine, Summer 2011, Summer 2012, Summer 2103, Spring 2016, Winter 2017.
