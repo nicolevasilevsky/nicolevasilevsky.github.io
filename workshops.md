@@ -36,13 +36,9 @@ excerpt: "Recent Workshops"
 
 - **FOLIO Data Management Training**, Oregon Health & Science University, 21 March 2015.
 
-- 25-27 July 2012, eagle-i Network Training, Harvard University, Boston, MA.
+- **eagle-i Network Training**, Harvard University, Boston, MA, 25-27 July 2012.
 
-- Spring 2011, RES 422: Conducting Clinical Research, National College of Natural Medicine.
-
-- December 15-16, 2011, eagle-i Network Curation Training, Harvard University, Boston, MA.
-
-- Summer 2010 and Fall 2009, BIT 101: Introduction to Bioscience Technology, Portland Community College.
+- **eagle-i Network Curation Training**, Harvard University, Boston, MA, December 15-16, 2011.
 
 # Guest Lectures
 
@@ -61,3 +57,8 @@ excerpt: "Recent Workshops"
 - **RES 620: Laboratory Methods**, National College of Natural Medicine, Winter 2012, Summer 2012, Fall 2012, Spring 2013, Summer 2013, Spring 2014, Summer 2014, Spring 2015.
 
 - **RES 501: Immunology Journal Club**, National College of Natural Medicine, Summer 2011, Summer 2012, Summer 2103, Spring 2016, Winter 2017.
+
+- **RES 422**: Conducting Clinical Research, National College of Natural Medicine, Spring 2011.
+
+- **BIT 101: Introduction to Bioscience Technology**, Portland Community College, Summer 2010 and Fall 2009.
+
