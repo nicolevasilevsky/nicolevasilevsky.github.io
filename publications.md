@@ -45,7 +45,7 @@
 - Vasilevsky NA, Ruby CE, Hurlin PJ, Weinberg AD. **OX40 engagement stabilizes Mxd4 and Mnt protein levels in antigen-stimulated T cells leading to an increase in cell survival.** Eur J Immunol. 2011 Apr; 41(4):1024-34. Eur J Immunol. 2011 Apr;41(4):1024-34. 
 
 
-## Non-peer-reviewed
+**Other publications**
 
 - 	Nicole A. Vasilevsky, et al. **Plain-language medical vocabulary for precision diagnosis**. Nature Genetics 50, 474–476 (2018). (Preprint available at: http://doi.org/10.5281/zenodo.1168737)  
 
