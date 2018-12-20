@@ -15,6 +15,30 @@ BA, Biology
 __Oregon Health & Science University, Portland, OR, USA__
 PhD, Cell Biology
 
+## Professional Experience
+
+`Current`
+__Research Assistant Professor__, Oregon Health & Science University  
+
+- Biocurator
+- Biomedical ontologist
+
+`Current`
+__Assistant Professor__, National University of Natural Medicine
+
+- Member, Institional Review Board
+- Instructor, Immunology (NS 322), Integrative Microbiology (RES 703), Laboratory Methods (RES 620), Immunology Journal Club (RES 501), Conducting Clinical Research (RES 422)
+
+`2009-2010`
+__Post-doctoral Research Fellow__, Legacy Health Research 
+
+- Research on angiogenesis in murine model
+- Identification of novel biomarkers in human breast cancer specimens
+
+`2009-2010`
+__Part-time Faculty__, Portland Community College, Bioscience Technology
+
+- Instructor, Introduction to Bioscience Technology (BIT 101)
 
 ## Select Publications
 
@@ -60,32 +84,6 @@ Bandrowski A, Brush M, Grethe JS, Haendel MA, Kennedy DN, Hill S, Hof PR, Marton
 
 `2015`
 **Creating Sustainable Communities in Open Data Resources: The eagle-i and VIVO Semantic Data Tools in Action**. Association of College and Research Libraries Conference, Portland, OR. March 2015.<a href="http://www.slideshare.net/rhmcdonald/creating-sustainable-communities-in-open-data-resources-the-eaglei-and-vivo-semantic-data-tools-in-action">Link to Presentation</a>
-
-## Occupation
-
-`Current`
-__Research Assistant Professor__, Oregon Health & Science University 
-
-- Biocurator
-- Biomedical ontologist
-
-`Current`
-__Assistant Professor__, National University of Natural Medicine
-
-- Member, Institional Review Board
-- Instructor, Immunology (NS 322), Integrative Microbiology (RES 703), Laboratory Methods (RES 620), Immunology Journal Club (RES 501), Conducting Clinical Research (RES 422)
-
-`2009-2010`
-__Post-doctoral Research Fellow__, Legacy Health Research 
-
-- Research on angiogenesis in murine model
-- Identification of novel biomarkers in human breast cancer specimens
-
-`2009-2010`
-__Part-time Faculty__, Portland Community College, Bioscience Technology
-
-- Instructor, Introduction to Bioscience Technology (BIT 101)
-
 
 <!-- ### Footer
 
