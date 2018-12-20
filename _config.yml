@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: Nicole Vasilevsky
+title: Nicole A. Vasilevsky
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Nicole Vasilevsky
+  name: Nicole A. Vasilevsky
   avatar: Nicole_HighRes.jpg
-  bio: "Research Assistant Professor"
+  bio: "Research Assistant Professor, Oregon Health & Science University"
   email: vasilevs@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: n_vasilevsky
