@@ -82,7 +82,7 @@ __Post-doctoral Research Fellow__, Legacy Health Research
 - Identification of novel biomarkers in human breast cancer specimens
 
 `2009-2010`
-__Part-time faculty__, Portland Community College, Bioscience Technology
+__Part-time Faculty__, Portland Community College, Bioscience Technology
 
 - Instructor, Introduction to Bioscience Technology (BIT 101)
 
