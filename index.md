@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-My research focuses on development and use of semantic technologies to facilitate new knowledge discovery and promote scientific reproducibility. I performs data biocuration, and develop ontologies and data standards for phenotypes, diseases and other biomedical domains with the goal of improving disease diagnostics and health outcomes. Additionally, I participate in educational efforts in data management best practices and data science.
+My research focuses on development and use of semantic technologies to facilitate new knowledge discovery and promote scientific reproducibility. I performs biocuration, and develop biomedical ontologies and data standards for phenotypes, diseases and other biomedical domains with the goal of improving disease diagnostics and health outcomes. Additionally, I participate in educational efforts in data management best practices and data science.
 
 ## Current Interests and Projects:
 
@@ -20,10 +20,11 @@ My research focuses on development and use of semantic technologies to facilitat
 - [Cell Ontology](https://github.com/obophenotype/cell-ontology)
 - [Phenotype and Trait Ontology](https://github.com/pato-ontology/pato)
 - [Envioronmental Exposure Ontology](https://github.com/EnvironmentOntology/environmental-exposure-ontology)
+- [Unified Phenotype Ontology (uPheno)](https://github.com/obophenotype/upheno)
 
 ### Education and Teaching
 - [OHSU Library Data Science Institute](https://ohsulibrary-datascienceinstitute.github.io/)
 - [BD2K Open Educational Resources for Data Science](https://github.com/OHSUBD2K/)
 - [BD2K Data Science skills courses](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/research/bd2k.cfm)
-- Ontologies 101
+- Ontologies 101 (see [Workshops page](https://nicolevasilevsky.github.io/workshops/))
 
