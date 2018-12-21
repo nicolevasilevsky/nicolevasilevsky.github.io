@@ -59,7 +59,7 @@ For a complete list, see [Presentations tab](https://nicolevasilevsky.github.io/
 
 ## Teaching
 
-See [Workshops tab](https://nicolevasilevsky.github.io/workshops/)
+See [Teaching tab](https://nicolevasilevsky.github.io/teaching/)
 
 ## Service  
 
