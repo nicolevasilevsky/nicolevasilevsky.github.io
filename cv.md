@@ -4,12 +4,12 @@ title: Currently
 ---
 Research Assistant Professor, [Department of Medical Informatics and Clinical Epidemiology](https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/)
 
-Biocurator and Ontologist, [Translational and Integrative Sciences Lab](https://tislab.org/)
-[Oregon Clinical & Translational Research Institute](https://www.ohsu.edu/xd/research/centers-institutes/octri/index.cfm)
-[Oregon Health & Science University](https://www.ohsu.edu/xd/)
-3181 SW Sam Jackson Park Road SN4N
-Portland, OR 97239
-vasilevs@ohsu.edu
+Biocurator and Ontologist, [Translational and Integrative Sciences Lab](https://tislab.org/)  
+[Oregon Clinical & Translational Research Institute](https://www.ohsu.edu/xd/research/centers-institutes/octri/index.cfm)  
+[Oregon Health & Science University](https://www.ohsu.edu/xd/)  
+3181 SW Sam Jackson Park Road SN4N  
+Portland, OR 97239  
+vasilevs@ohsu.edu  
 
 ## Education
 
