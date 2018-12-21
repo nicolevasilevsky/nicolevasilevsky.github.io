@@ -71,7 +71,7 @@ Association of Biomolecular Resource Facilities
 `2010`
 American Association of Cancer Research  
 
-### Manuscript and Grant Review:  
+### Ad hoc Reviewer:  
 
 - Alternative Therapies in Health and Medicine
 - BMC Medical Informatics and Decision Making 
