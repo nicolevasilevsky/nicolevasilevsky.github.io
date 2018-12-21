@@ -33,13 +33,12 @@ __Research Assistant Professor__, Oregon Health & Science University
 __Assistant Professor__, National University of Natural Medicine
 
 - Member, Institional Review Board
-- Instructor, Immunology (NS 322), Integrative Microbiology (RES 703), Laboratory Methods (RES 620), Immunology Journal Club (RES 501), Conducting Clinical Research (RES 422)
 
 `2009-2010`
 __Post-doctoral Research Fellow__, Legacy Health Research 
 
-- Research on angiogenesis in murine model
-- Identification of novel biomarkers in human breast cancer specimens
+- Research on angiogenesis in murine cancer model
+- Investigation of novel biomarkers in human breast cancer specimens
 
 `2009-2010`
 __Part-time Faculty__, Portland Community College, Bioscience Technology
