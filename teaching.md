@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshops
-excerpt: "Recent Workshops"
+title: Teaching
+excerpt: "Teaching"
 ---
 
 ## Ontologies
