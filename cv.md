@@ -94,7 +94,7 @@ NNLM Pacific Northwest Region (PNR) funding proposal review
 - Science and Engineering Ethics
 - Abstract review for AMIA conference
 
-### Committees:
+### Committees:  
 
 ##### International/National 
 
