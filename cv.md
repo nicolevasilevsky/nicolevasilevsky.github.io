@@ -58,9 +58,9 @@ See [Presntations tab](https://nicolevasilevsky.github.io/presentations/)
 
 See [Workshops tab](https://nicolevasilevsky.github.io/workshops/)
 
-## Service
+## Service  
 
-#### Membership in Professional Societies:  
+### Membership in Professional Societies:  
 
 `2011-present`
 International Society for Biocuration  
@@ -71,12 +71,12 @@ Association of Biomolecular Resource Facilities
 `2010`
 American Association of Cancer Research  
 
-#### Granting Agency Review Work:  
+### Granting Agency Review Work:  
 
 `2018`
 NNLM Pacific Northwest Region (PNR) funding proposal review
 
-#### Editorial and Ad Hoc Review Activities:  
+### Editorial and Ad Hoc Review Activities:  
 
 - Alternative Therapies in Health and Medicine
 - BMC Medical Informatics and Decision Making 
