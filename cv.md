@@ -46,13 +46,13 @@ __Part-time Faculty__, Portland Community College, Bioscience Technology
 
 - Instructor, Introduction to Bioscience Technology (BIT 101)
 
-## Publications
+## Select Publications
 
-See [Publications tab](https://nicolevasilevsky.github.io/publications/)
+For a complete list, see [Publications tab](https://nicolevasilevsky.github.io/publications/)
 
-## Presentations
+## Select Presentations
 
-See [Presntations tab](https://nicolevasilevsky.github.io/presentations/)
+For a complete list, see[Presntations tab](https://nicolevasilevsky.github.io/presentations/)
 
 ## Teaching
 
