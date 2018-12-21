@@ -67,7 +67,7 @@ See [Teaching tab](https://nicolevasilevsky.github.io/teaching/)
 
 ## Service  
 
-### Professional Societies:  
+**Professional Societies:**
 
 `2011-present`
 International Society for Biocuration  
@@ -78,7 +78,7 @@ Association of Biomolecular Resource Facilities
 `2010`
 American Association of Cancer Research  
 
-### Ad hoc Reviewer:  
+**Ad hoc Reviewer:**  
 
 - Alternative Therapies in Health and Medicine
 - BMC Medical Informatics and Decision Making 
@@ -97,9 +97,9 @@ American Association of Cancer Research
 - Abstract review for AMIA conference
 - NNLM Pacific Northwest Region (PNR) funding proposal review
 
-### Committees:  
+**Committees:**
 
-##### International/National  
+##### International/National   
 
 `2018- present` 
 Semantic Architecture Advisory Committee, National Cancer Institute  
