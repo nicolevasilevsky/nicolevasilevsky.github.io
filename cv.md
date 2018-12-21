@@ -50,9 +50,13 @@ __Part-time Faculty__, Portland Community College, Bioscience Technology
 
 For a complete list, see [Publications tab](https://nicolevasilevsky.github.io/publications/)
 
+- Sebastian Köhler, Leigh Carmody, Nicole Vasilevsky, et al. **Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources.** 22 November 2018. Nucleic Acids Research, gky1105, https://doi.org/10.1093/nar/gky1105  
+- 	Nicole A. Vasilevsky, et al. **Plain-language medical vocabulary for precision diagnosis**. Nature Genetics 50, 474–476 (2018). (Preprint available at: http://doi.org/10.5281/zenodo.1168737)  
+-	Nicole A. Vasilevsky, Matthew H. Brush, Holly Paddock, Laura Ponting, Shreejoy J. Tripathy, Gregory M. LaRocca, Melissa A. Haendel (2013) **On the reproducibility of science: Unique Identification of Research Resources in the Biomedical Literature.** PeerJ. https://peerj.com/articles/148/ 
+
 ## Select Presentations
 
-For a complete list, see[Presntations tab](https://nicolevasilevsky.github.io/presentations/)
+For a complete list, see [Presentations tab](https://nicolevasilevsky.github.io/presentations/)
 
 ## Teaching
 
