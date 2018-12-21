@@ -71,12 +71,7 @@ Association of Biomolecular Resource Facilities
 `2010`
 American Association of Cancer Research  
 
-### Grant Review:  
-
-`2018`
-NNLM Pacific Northwest Region (PNR) funding proposal review
-
-### Manuscript Review:  
+### Manuscript and Grant Review:  
 
 - Alternative Therapies in Health and Medicine
 - BMC Medical Informatics and Decision Making 
@@ -93,6 +88,7 @@ NNLM Pacific Northwest Region (PNR) funding proposal review
 - PLoS One
 - Science and Engineering Ethics
 - Abstract review for AMIA conference
+- NNLM Pacific Northwest Region (PNR) funding proposal review
 
 ### Committees:  
 
