@@ -60,7 +60,7 @@ See [Workshops tab](https://nicolevasilevsky.github.io/workshops/)
 
 ## Service
 
-#### Membership in Professional Societies:
+#### Membership in Professional Societies:  
 
 `2011-present`
 International Society for Biocuration  
@@ -71,12 +71,12 @@ Association of Biomolecular Resource Facilities
 `2010`
 American Association of Cancer Research  
 
-#### Granting Agency Review Work:
+#### Granting Agency Review Work:  
 
 `2018`
 NNLM Pacific Northwest Region (PNR) funding proposal review
 
-#### Editorial and Ad Hoc Review Activities:
+#### Editorial and Ad Hoc Review Activities:  
 
 - Alternative Therapies in Health and Medicine
 - BMC Medical Informatics and Decision Making 
@@ -96,7 +96,7 @@ NNLM Pacific Northwest Region (PNR) funding proposal review
 
 ### Committees:  
 
-##### International/National 
+##### International/National  
 
 `2018- present` 
 Semantic Architecture Advisory Committee, National Cancer Institute  
@@ -123,12 +123,12 @@ NISO Bibliographic Roadmap
 `2014-2015`
 Logistics Committee, Force2015 Conference 
 
-##### Regional
+##### Regional  
 
 `2017-present` 
 Institutional Review Board committee, National University of Natural Medicine
 
-##### Departmental
+##### Departmental  
 
 `2016-2018` 
 Staff Development Committee, Oregon Health & Science University Library  
@@ -141,7 +141,7 @@ Research Data Stewardship Committee, Oregon Health & Science University Library
 `2012-2013`
 Library Communications Committee, Oregon Health & Science University Library  
 
-##### Community Service:
+##### Community Service:  
 
 `2013-2014`
 Chair, Overlook Neighborhood Association Board  
