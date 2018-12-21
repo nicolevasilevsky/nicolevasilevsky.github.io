@@ -48,19 +48,19 @@ __Part-time Faculty__, Portland Community College, Bioscience Technology
 
 ## Publications
 
-See [Publications](https://nicolevasilevsky.github.io/publications/)
+See [Publications tab](https://nicolevasilevsky.github.io/publications/)
 
 ## Presentations
 
-See [Presntations](https://nicolevasilevsky.github.io/presentations/)
+See [Presntations tab](https://nicolevasilevsky.github.io/presentations/)
 
 ## Teaching
 
-See [Workshops](https://nicolevasilevsky.github.io/workshops/)
+See [Workshops tab](https://nicolevasilevsky.github.io/workshops/)
 
 ## Service
 
-####  Membership in Professional Societies:
+Membership in Professional Societies:
 
 `2011-present`
 International Society for Biocuration
@@ -75,11 +75,13 @@ Association of Biomolecular Resource Facilities
 American Association of Cancer Research
 
 
-#### Granting Agency Review Work:
+Granting Agency Review Work:
+
 `2018`
 NNLM Pacific Northwest Region (PNR) funding proposal review
 
-#### Editorial and Ad Hoc Review Activities:
+Editorial and Ad Hoc Review Activities:
+
 - Alternative Therapies in Health and Medicine
 - BMC Medical Informatics and Decision Making 
 - BMJ
@@ -96,9 +98,10 @@ NNLM Pacific Northwest Region (PNR) funding proposal review
 - Science and Engineering Ethics
 - Abstract review for AMIA conference
 
-#### Committees:
+##### Committees:
 
-###### International/National
+##### International/National 
+
 `2018- present` 
 Semantic Architecture Advisory Committee, National Cancer Institute
 `2017-present` 
@@ -125,10 +128,12 @@ NISO Bibliographic Roadmap
 Logistics Committee, Force2015 Conference 
 
 ##### Regional
+
 `2017-present` 
 Institutional Review Board committee, National University of Natural Medicine
 
 ##### Departmental
+
 `2016-2018` 
 Staff Development Committee, Oregon Health & Science University Library
 `2015-2016`
@@ -141,6 +146,7 @@ Research Data Stewardship Committee, Oregon Health & Science University Library
 Library Communications Committee, Oregon Health & Science University Library
 
 ##### Community Service:
+
 `2013-2014`
 Chair, Overlook Neighborhood Association Board
 `2011- 2012`
