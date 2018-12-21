@@ -104,28 +104,40 @@ Editorial and Ad Hoc Review Activities:
 
 `2018- present` 
 Semantic Architecture Advisory Committee, National Cancer Institute
+
 `2017-present` 
 International Society for Biocuration, Executive Committee (Three year elected position)
+
 `2017-2019` 
 International Society for Biocuration, Executive Committee Secretary 
+
 `2017-2018` 
 International Society for Biocuration Awards Committee, Chair
+
 `2018` 
 Co-Chair, Galaxy Community Conference 
+
 `2017` 
-Planning committee, Galaxy Community Conference, 
+Planning committee, Galaxy Community Conference
+
 `2016-2018`
 Program committee, International Conference on Biomedical Ontology 
+
 `2017` 
 Outreach Committee Co-chair, Force2017 
+
 `2017-2018`
 Force11 Scholarly Communications Institute, Committee
+
 `2015-2016` 
 Program Co-Chair, Force2016 Conference 
+
 `2015-2016` 
 NISO Bibliographic Roadmap
+
 `2014-2015`
 Logistics Committee, Force2015 Conference 
+
 
 ##### Regional
 
@@ -136,23 +148,31 @@ Institutional Review Board committee, National University of Natural Medicine
 
 `2016-2018` 
 Staff Development Committee, Oregon Health & Science University Library
+
 `2015-2016`
 Web Redesign Committee, Oregon Health & Science University Library 
+
 `2014`
 Discovery Team, Oregon Health & Science University Library
+
 `2013-2014`
 Research Data Stewardship Committee, Oregon Health & Science University Library
+
 `2012-2013`
 Library Communications Committee, Oregon Health & Science University Library
+
 
 ##### Community Service:
 
 `2013-2014`
-Chair, Overlook Neighborhood Association Board
+Chair, Overlook Neighborhood Association Board 
+
 `2011- 2012`
 Volunteer, Event planning committee, Open Meadow 
+
 `2009-2011`
-Board member, Portland Community College Bioscience Technology Advisory Board           
+Board member, Portland Community College Bioscience Technology Advisory Board   
+
 `2008-2010`
 Volunteer, Oregon Bioscience Association 
 
