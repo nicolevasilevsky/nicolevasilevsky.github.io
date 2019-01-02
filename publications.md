@@ -49,6 +49,7 @@ excerpt: "Publications"
 
 ## Biomedical Ontologies and Bioinformatics
 
+- Matentzoglu, Nicolas;... Vasilevsky, Nicole;   Zhang, Xingmin A.;   Haendel, Melissa A. **Phenotype Ontologies Traversing All The Organisms (POTATO) workshop aims to reconcile logical definitions across species.** Zenodo. http://doi.org/10.5281/zenodo.2382757
 - Diehl AD, Meehan TF, Bradford YM, Brush MH, Dahdul WM, Dougall DS, He Y, Osumi-Sutherland D, Ruttenberg A, Sarntivijai S, Van Slyke CE, Vasilevsky NA, Haendel MA, Blake JA, Mungall CJ. **The Cell Ontology 2016: enhanced content, modularization, and ontology interoperability.** J Biomed Semantics. 2016 Jul 4;7(1):44. doi: 10.1186/s13326-016-0088-7.
 -	Terry Meehan*, Nicole A. Vasilevsky*, Christopher J. Mungall, Melissa A. Haendel, Judith A. Blake, Alexander D. Diehl (2013) **Ontology based molecular signatures for immune cell types via gene expression analysis**. BMC Bioinformatics 14:263. *These authors contributed equally to the work.
 
