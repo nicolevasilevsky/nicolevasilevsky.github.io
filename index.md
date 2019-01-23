@@ -11,7 +11,9 @@ My research focuses on development and use of semantic technologies to facilitat
 - [Monarch Inititative](https://monarchinitiative.org/): a system that allows for cross-species disease discovery
 - [Gabriella Miller Kids First Data Resource](https://kidsfirstdrc.org/): a data resource portal containing data about pediatric cancers and structural abnormalities
 - [Applying layperson synonyms to the Human Phenotype Ontology](https://phenotypr.com/)
-- Extracting phenotype information from lab tests in Electronic Health Records (EHRs): [LOINC2HPO project](https://github.com/TheJacksonLaboratory/loinc2hpoAnnotation)
+- [CD2H](https://ctsa.ncats.nih.gov/cd2h/workgroup/people-expertise-attribution/): a collaborative initiative to coordinate informatics efforts across the CTSA program.
+  - [LOINC2HPO project](https://github.com/TheJacksonLaboratory/loinc2hpoAnnotation): Extracting phenotype information from lab tests in Electronic Health Records (EHRs): 
+  - [People, Expertise & Attribution Workgroup](https://ctsa.ncats.nih.gov/cd2h/workgroup/people-expertise-attribution/): Creation of a computational representation of contributions
 - [N-Lighten](http://alaska.dev.eagle-i.net/): an educational resource discovery tool
 
 ### Ontology development
