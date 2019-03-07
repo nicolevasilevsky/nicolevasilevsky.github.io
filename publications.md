@@ -6,6 +6,7 @@ excerpt: "Publications"
 
 ## Semantic Phenotyping of Diseases
 
+- David B Resnik, Melissa Morales, Rachel Landrum, Min Shi, Jessica Minnier, Nicole A. Vasilevsky & Robin E. Champieux (2019) **Effect of Impact Factor and Discipline on Journal Data Sharing Policies, Accountability in Research**, DOI: 10.1080/08989621.2019.1591277. [Link here](https://www.tandfonline.com/doi/full/10.1080/08989621.2019.1591277)
 - Xingmin Aaron Zhang, Amy Yates, Nicole Vasilevsky, et al., **Semantic Integration of Clinical Laboratory Tests from Electronic Health Records for Deep Phenotyping and Biomarker Discovery**  bioRxiv 519231; doi: https://doi.org/10.1101/519231. [Link here](https://www.biorxiv.org/content/10.1101/519231v1.abstract)
 - Sebastian Köhler, Leigh Carmody, Nicole Vasilevsky, et al. **Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources.** 22 November 2018. Nucleic Acids Research, gky1105, https://doi.org/10.1093/nar/gky1105  
 - 	Nicole A. Vasilevsky, et al. **Plain-language medical vocabulary for precision diagnosis**. Nature Genetics 50, 474–476 (2018). (Preprint available at: http://doi.org/10.5281/zenodo.1168737)  
