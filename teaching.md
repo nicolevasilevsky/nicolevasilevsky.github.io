@@ -19,7 +19,7 @@ excerpt: "Teaching"
 
 ## Biocuration
 - **Equality, Diversity and Inclusion Worksop**. Workshop at Biocuration 2018 conference, Cambridge, UK, April 07-10, 2019.
-- **[Careers in Biocuration: An overview of the current status, challenges and goals in the biocuration field](https://doi.org/10.6084/m9.figshare.6146429.v1)**. Workshop at Biocuration 2018 conference, Shanghai, China, April 09, 2018. 
+- **Careers in Biocuration: An overview of the current status, challenges and goals in the biocuration field**. Workshop at Biocuration 2018 conference, Shanghai, China, April 09, 2018. Link [here](https://doi.org/10.6084/m9.figshare.6146429.v1)
 - **Data annotation and curation**, Open Educational Resource. [Link here](https://github.com/OHSUBD2K/BDK12-Data-annotation-and-curation)
 
 ## Data Science and Data Management
