@@ -5,6 +5,7 @@ excerpt: "Presentations"
 ---
 ## Semantic Phenotyping of Diseases
 
+- **uPheno 2: Framework for standardised representation of phenotypes across species** Poster presentation at Biocuration 2019, Cambridge, UK, April 2019. Slides [here](https://f1000research.com/posters/8-403)
 - **LOINC2HPO: Curation of Phenotype Data from the Electronic Health Records using the Human Phenotype Ontology** Talk at Biocuration 2019, Cambridge, UK, April 2019. Slides [here](https://f1000research.com/slides/8-383) and poster [here](https://f1000research.com/posters/8-382).
 - **LOINC2HPO: Improving Translational Informatics by Standardizing EHR Phenotypic Data Using the Human Phenotype Ontology**. Keynote address at Rocky Bioinformatics 2018, Snowmass, CO, December 07, 2018.
 - **[Empowering patients by increasing accessibility to clinical terminology](http://www.slideshare.net/NicoleVasilevsky/empowering-patients-by-increasing-accessibility-to-clinical-terminology)**. Medical Library Association Pacific Northwest Chapter meeting, Portland, OR, October 18, 2016.  
