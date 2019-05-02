@@ -6,7 +6,7 @@ excerpt: "Publications"
 
 ## Semantic Phenotyping of Diseases
 
-- Xingmin Aaron Zhang, Amy Yates, Nicole Vasilevsky, et al., **Semantic Integration of Clinical Laboratory Tests from Electronic Health Records for Deep Phenotyping and Biomarker Discovery**  bioRxiv 519231; doi: https://doi.org/10.1101/519231. [Link here](https://www.biorxiv.org/content/10.1101/519231v1.abstract)
+- Xingmin Aaron Zhang, Amy Yates, Nicole Vasilevsky, et al., **Semantic Integration of Clinical Laboratory Tests from Electronic Health Records for Deep Phenotyping and Biomarker Discovery**  npj Digital Medicinevolume 2, Article number: 32 (2019) [Preprint here](https://www.biorxiv.org/content/10.1101/519231v1.abstract) [Link to paper here](https://www.nature.com/articles/s41746-019-0110-4)
   - Contributions: [Data curation](https://www.ebi.ac.uk/ols/ontologies/cro/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FCREDIT_00000002) of LOINCs to Human Phenotype Ontology terms, which were used to create the mapping library and subsequent downstream analysis and [writing original draft](https://www.ebi.ac.uk/ols/ontologies/cro/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FCREDIT_00000013).
 - Sebastian Köhler, Leigh Carmody, Nicole Vasilevsky, et al. **Expansion of the Human Phenotype Ontology (HPO) knowledge base and resources.** 22 November 2018. Nucleic Acids Research, gky1105, https://doi.org/10.1093/nar/gky1105  
 - 	Nicole A. Vasilevsky, et al. **Plain-language medical vocabulary for precision diagnosis**. Nature Genetics 50, 474–476 (2018). (Preprint available at: http://doi.org/10.5281/zenodo.1168737)  
