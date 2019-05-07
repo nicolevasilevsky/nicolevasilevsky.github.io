@@ -13,7 +13,7 @@ My research focuses on development and use of semantic technologies to facilitat
 - [Applying layperson synonyms to the Human Phenotype Ontology](https://phenotypr.com/)
 - [CD2H](https://ctsa.ncats.nih.gov/cd2h/workgroup/people-expertise-attribution/): a collaborative initiative to coordinate informatics efforts across the CTSA program.
   - [LOINC2HPO project](https://github.com/TheJacksonLaboratory/loinc2hpoAnnotation): Extracting phenotype information from lab tests in Electronic Health Records (EHRs): 
-  - [People, Expertise & Attribution Workgroup](https://ctsa.ncats.nih.gov/cd2h/workgroup/people-expertise-attribution/): Creation of a computational representation of contributions
+  - [Architecting Attribution](https://github.com/data2health/architecting_attribution): Creation of a computational representation of contributions
 - [N-Lighten](http://alaska.dev.eagle-i.net/): an educational resource discovery tool
 
 ### Ontology development
