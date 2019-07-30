@@ -8,7 +8,7 @@ excerpt: "Presentations"
 - **uPheno 2: Framework for standardised representation of phenotypes across species** Poster presentation at Biocuration 2019, Cambridge, UK, April 2019. Slides [here](https://f1000research.com/posters/8-403)
 - **LOINC2HPO: Curation of Phenotype Data from the Electronic Health Records using the Human Phenotype Ontology** Talk at Biocuration 2019, Cambridge, UK, April 2019. Slides [here](https://f1000research.com/slides/8-383) and poster [here](https://f1000research.com/posters/8-382).
 - **LOINC2HPO: Improving Translational Informatics by Standardizing EHR Phenotypic Data Using the Human Phenotype Ontology**. Keynote address at Rocky Bioinformatics 2018, Snowmass, CO, December 07, 2018.
-- **[Empowering patients by increasing accessibility to clinical terminology](http://www.slideshare.net/NicoleVasilevsky/empowering-patients-by-increasing-accessibility-to-clinical-terminology)**. Medical Library Association Pacific Northwest Chapter meeting, Portland, OR, October 18, 2016.  
+- **Empowering patients by increasing accessibility to clinical terminology**. Medical Library Association Pacific Northwest Chapter meeting, Portland, OR, October 18, 2016. [Link here]((http://www.slideshare.net/NicoleVasilevsky/empowering-patients-by-increasing-accessibility-to-clinical-terminology))
 
 ## Biomedical Ontologies and Bioinformatics
 
@@ -25,23 +25,23 @@ excerpt: "Presentations"
 
 ## Data Science Education and Training
 
-- **[Teaching Data Science to Undergraduate Students](https://www.slideshare.net/NicoleVasilevsky/teaching-data-science-to-undergraduate-students)**. Presentation at From Evidence to Scholarship Conference, Reed College, Portland, OR. March 16, 2018.
-- **[Data Science Resources for Anyone, Anywhere: Development of Skills Courses and Open Educational Resources](https://doi.org/10.6084/m9.figshare.5056921.v1)**. Medical Library Association Conference, Seattle, WA, May 30, 2017.
-- **[Data Science Resources for Anyone, Anywhere](https://doi.org/10.6084/m9.figshare.4892030.v1)**. NN/LM Pacific Northwest Region Rendezvous webinar. April 19, 2017. 
-- **[Data science education resources for everyone](http://www.slideshare.net/NicoleVasilevsky/data-science-education-resources-for-everyone)**. Medical Library Association Pacific Northwest Chapter meeting in Portland, OR, October 18, 2016.
+- **Teaching Data Science to Undergraduate Students**. Presentation at From Evidence to Scholarship Conference, Reed College, Portland, OR. March 16, 2018. [Link here]((https://www.slideshare.net/NicoleVasilevsky/teaching-data-science-to-undergraduate-students))
+- **Data Science Resources for Anyone, Anywhere: Development of Skills Courses and Open Educational Resources**. Medical Library Association Conference, Seattle, WA, May 30, 2017. [Link here]((https://doi.org/10.6084/m9.figshare.5056921.v1))
+- **Data Science Resources for Anyone, Anywhere**. NN/LM Pacific Northwest Region Rendezvous webinar. April 19, 2017. [Link here]((https://doi.org/10.6084/m9.figshare.4892030.v1))
+- **Data science education resources for everyone**. Medical Library Association Pacific Northwest Chapter meeting in Portland, OR, October 18, 2016. [Link here]((http://www.slideshare.net/NicoleVasilevsky/data-science-education-resources-for-everyone))
 - **Educating Naturopathic Medicine Students in Basic Science Laboratory Skills and Data Analysis.** 2012 International Congress for Educators in Complementary and Integrative Medicine. Washington DC. 25 October 2012.
 
 ## Attribution and Representing Researcher Expertise
 
-- **[Creating Sustainable Communities in Open Data Resources: The eagle-i and VIVO Semantic Data Tools in Action](http://www.slideshare.net/rhmcdonald/creating-sustainable-communities-in-open-data-resources-the-eaglei-and-vivo-semantic-data-tools-in-action)**. Association of College and Research Libraries Conference, Portland, OR.  March 2015.
+- **Creating Sustainable Communities in Open Data Resources: The eagle-i and VIVO Semantic Data Tools in Action**. Association of College and Research Libraries Conference, Portland, OR.  March 2015. [Link here]((http://www.slideshare.net/rhmcdonald/creating-sustainable-communities-in-open-data-resources-the-eaglei-and-vivo-semantic-data-tools-in-action))
 - **eagle-i Software Demonstration.** Western Association of Core Directors. Portland, OR. 01 November 2012.
 
 ## Data Management, Data Standards and Altmetrics
 
-- **[Roles for Libraries in Providing Research Data Management Services](http://www.slideshare.net/NicoleVasilevsky/acrl-march2015-final)**. Association of College and Research Libraries Conference. March 2015. Portland, OR.  
+- **Roles for Libraries in Providing Research Data Management Services**. Association of College and Research Libraries Conference. March 2015. Portland, OR. [Link here]((http://www.slideshare.net/NicoleVasilevsky/acrl-march2015-final))
 - **The Role of Libraries in Data Management and Curation.** American Library Association conference, Las Vegas, NV. June 2014.
 - **Data Management.** SPARC Conference Portland, OR. 03 and 04 May 2013
-- **[Data and Information Management: Teaching Best Practices](http://iamse.org/conf/conf16/IAMSEVasilevsky2012.pdf)**. International Association of Medical Science Education Meeting, Portland, OR. 25 June 2012. 
+- **Data and Information Management: Teaching Best Practices**. International Association of Medical Science Education Meeting, Portland, OR. 25 June 2012. [Link here]((http://iamse.org/conf/conf16/IAMSEVasilevsky2012.pdf))
 - **Data Management Open House.**  OHSU, October 2013.
 - **Let Me Hear Your Data Talk: Connecting the Library to OHSU’s Data Needs.** OHSU Library, 2013.
 
