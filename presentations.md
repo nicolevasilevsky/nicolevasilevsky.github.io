@@ -19,7 +19,7 @@ excerpt: "Presentations"
 - **A comprehensive disease ontology for human disease curation**. Presentation at Biocuration 2018 conference, Shanghai, China, April 10, 2018. [Link here](https://doi.org/10.6084/m9.figshare.6141551.v1)
 - **A match made in heaven: domain expert meets CSV; gives birth to ontologies**. csv,conf, v3, Portland, OR, May 03, 2017. [Link here](https://doi.org/10.6084/m9.figshare.4968119.v1)
 - **Enhancing the Human Phenotype Ontology for Use by the Layperson**. International Conference on Biomedical Ontology and BioCreative (ICBO BioCreative 2016), Corvallis, Oregon, August, 2016. [Link here](http://www.slideshare.net/NicoleVasilevsky/enhancing-the-human-phenotype-ontology-for-use-by-the-layperson-64669468)
-- **Updating and Extending the Concept Annotations of the CRAFT Corpus.** Biocuration 2016, Geneva, Switzerland. [v1; not peer reviewed]. F1000Research 2016, 5:709 (slide presentation) (doi: 10.7490/f1000research.1111753.1)
+- **Updating and Extending the Concept Annotations of the CRAFT Corpus.** Biocuration 2016, Geneva, Switzerland. [v1; not peer reviewed]. F1000Research 2016, 5:709 (slide presentation) (doi: 10.7490/f1000research.1111753.1) [Link here](https://f1000research.com/slides/5-709)
 - **The semantic web is changing research and library science.** Oregon Library Association Annual Meeting, Bend, OR. 27 April 2012
 - **Making (structured) sense of the data and teaching others how to do it too**. Faculty talk for the Department of Medical Informatics and Clinical Epidemiology at Oregon Health & Science University. April 26, 2018. [Link here](https://figshare.com/articles/Making_structured_sense_of_the_data_and_teaching_others_how_to_do_it_too/6203390)
 
