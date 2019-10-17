@@ -101,13 +101,15 @@ American Association of Cancer Research
 
 ##### International/National   
 
+`2019- 2020`
+Scientific Committee, [Biocuration 2020 conference](https://www.jax.org/education-and-learning/education-calendar/2020/05-may/biocuration-2020-conference)  
 `2018- present` 
 Semantic Architecture Advisory Committee, National Cancer Institute  
 `2017-present` 
 International Society for Biocuration, Executive Committee (Three year elected position)  
-`2017-2019` 
+`2017-present` 
 International Society for Biocuration, Executive Committee Secretary  
-`2017-2018` 
+`2017-present` 
 International Society for Biocuration Awards Committee, Chair  
 `2018` 
 Co-Chair, Galaxy Community Conference  
