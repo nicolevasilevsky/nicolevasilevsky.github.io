@@ -10,6 +10,7 @@ My research focuses on development and use of semantic technologies to facilitat
 ### Biocuration projects
 - [Monarch Inititative](https://monarchinitiative.org/): a system that allows for cross-species disease discovery
 - [Gabriella Miller Kids First Data Resource](https://kidsfirstdrc.org/): a data resource portal containing data about pediatric cancers and structural abnormalities
+- [Center for Cancer Data Harmonization](https://today.oregonstate.edu/news/oregon-state-help-lead-effort-make-cancer-research-data-more-useful-and-accessible): The CCDH will work with the National Cancer Institute Cancer Research Data Commons to make cancer research data more useful and accessible.
 - [Applying layperson synonyms to the Human Phenotype Ontology](https://phenotypr.com/)
 - [CD2H](https://ctsa.ncats.nih.gov/cd2h/workgroup/people-expertise-attribution/): a collaborative initiative to coordinate informatics efforts across the CTSA program.
   - [LOINC2HPO project](https://github.com/TheJacksonLaboratory/loinc2hpoAnnotation): Extracting phenotype information from lab tests in Electronic Health Records (EHRs): 
@@ -19,11 +20,12 @@ My research focuses on development and use of semantic technologies to facilitat
 
 ### Ontology development
 - [Human Phenotype Ontology](https://hpo.jax.org/app/)
-- [Monarch Merged Disease Ontology (MONDO)](http://obofoundry.org/ontology/mondo.html)
+- [Monarch Disease Ontology (Mondo)](https://mondo.monarchinitiative.org/)
 - [Cell Ontology](https://github.com/obophenotype/cell-ontology)
 - [Phenotype and Trait Ontology](https://github.com/pato-ontology/pato)
 - [Envioronmental Exposure Ontology](https://github.com/EnvironmentOntology/environmental-exposure-ontology)
 - [Unified Phenotype Ontology (uPheno)](https://github.com/obophenotype/upheno)
+- [Contributor Role Ontology](https://data2health.github.io/contributor-role-ontology/)
 
 ### Education and Teaching
 - [OHSU Library Data Science Institute](https://ohsulibrary-datascienceinstitute.github.io/)
