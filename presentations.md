@@ -34,6 +34,7 @@ excerpt: "Presentations"
 
 ## Attribution and Representing Researcher Expertise
 
+- **CREDITLAND: How to enhance attribution to make more meaningful connections for everyone to their roles, work, & impact.** Force2019, Edinburgh, UK. October 2019. [Link here](https://digitalhub.northwestern.edu/files/d08374e9-0411-4450-a0d1-4979c69ed3e7)
 - **Creating Sustainable Communities in Open Data Resources: The eagle-i and VIVO Semantic Data Tools in Action**. Association of College and Research Libraries Conference, Portland, OR.  March 2015. [Link here](http://www.slideshare.net/rhmcdonald/creating-sustainable-communities-in-open-data-resources-the-eaglei-and-vivo-semantic-data-tools-in-action)
 - **eagle-i Software Demonstration.** Western Association of Core Directors. Portland, OR. 01 November 2012.
 
@@ -48,6 +49,7 @@ excerpt: "Presentations"
 
 ## Open Science and Scientific Reproducibility
 
+- **Evaluating scientific data licensing with the (Re)usable Data Project.** Force2019, Edinburgh, UK. October 2019. [Link here](https://zenodo.org/record/3497130#.XahHjJNKgl4)
 - **Research Efficiency & Reproducibility: Leveraging Research Resources.** Elsevier webinar. April 2014.
 - **On the reproducibility of science: Unique Identification of Research Resources in the Biomedical Literature.** OHSU Research Week. OHSU, Portland, OR. May 2013. 
 
