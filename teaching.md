@@ -6,7 +6,8 @@ excerpt: "Teaching"
 
 ## Ontologies
 
-- **Monarch Disease Ontology workshop**, Co-organizer, Broad Institute, Cambridge, MA, November 27-28.
+- **Introduction to Ontologies**. Computable Exposures Workshop, Oregon State University, September 09, 2019. [Link here](https://docs.google.com/presentation/d/1zyxh8PdPX__rqjntuQdJH0dgUOinv6QB/edit#slide=id.p1)
+- **Monarch Disease Ontology workshop**, Co-organizer, Broad Institute, Cambridge, MA, November 27-28, 2018.
 - **Ontology 101: A how-to guide to create, manage, and release an OBO ontology**, Co-instructor, Workshop at International Conference on Biological Ontology, Corvallis, OR, August 07, 2018. [Link here.](http://icbo2018.cgrb.oregonstate.edu/node/19)
 - **Phenotype Ontologies Traversing All The Organisms (POTATO) workshop**, Workshop at the International Conference on Biological Ontology, Corvallis, OR, August 06-07, 2018. [Link here](http://icbo2018.cgrb.oregonstate.edu/node/29)
 - **Ontologies 101 Tutorial: Introduction to Protege**, Online tutorial. [Link here](https://ontology101tutorial.readthedocs.io/en/latest/)
