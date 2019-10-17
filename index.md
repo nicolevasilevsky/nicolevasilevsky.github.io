@@ -31,5 +31,5 @@ My research focuses on development and use of semantic technologies to facilitat
 - [OHSU Library Data Science Institute](https://ohsulibrary-datascienceinstitute.github.io/)
 - [BD2K Open Educational Resources for Data Science](https://github.com/OHSUBD2K/)
 - [BD2K Data Science skills courses](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/research/bd2k.cfm)
-- Ontologies 101 (see [Workshops page](https://nicolevasilevsky.github.io/workshops/))
+- Ontologies 101 (see [Workshops page](https://nicolevasilevsky.github.io/teaching/))
 
