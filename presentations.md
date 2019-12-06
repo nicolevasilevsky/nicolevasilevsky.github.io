@@ -12,7 +12,7 @@ excerpt: "Presentations"
 
 ## Biomedical Ontologies and Bioinformatics
 
-- **Mondo Disease Ontology: harmonizing disease concepts around the world.** Poster presentation at Childhood Cancer Data Initiative Symposium 2019, Washington, DC, July 29, 2019. [Link here](https://figshare.com/articles/Mondo_Disease_Ontology_harmonizing_disease_concepts_around_the_world/8980037)
+- **Mondo Disease Ontology: harmonizing disease concepts around the world.** Poster presentation at Childhood Cancer Data Initiative Symposium 2019, Washington, DC, July 29, 2019 and Rocky Bioinformatics, Snowmass, CO, Dec 06, 2019. [Link here](https://figshare.com/articles/Mondo_Disease_Ontology_harmonizing_disease_concepts_around_the_world/8980037)
 - **Phenotype Ontology workshop report**. International Conference on Biological Ontology, Corvallis, OR, August 08, 2018.
 - **Phenotype Ontologies Traversing All The Organisms (POTATO) workshop**, Workshop at the International Conference on Biological Ontology, Corvallis, OR, August 06-07, 2018.
 - **The Human Phenotype Ontology**. Invited talk at the Sickle Cell Disease Ontology Workshop, Cape Town, South Africa, June 04, 2018. [Link here](https://figshare.com/articles/Human_Phenotype_Ontology/6510257)
@@ -34,6 +34,7 @@ excerpt: "Presentations"
 
 ## Attribution and Representing Researcher Expertise
 
+- **Giving credit where credit is due: How to make more meaningful connections between people and their roles, work, and impact.** Talk and poster presentation at Rocky Bioinformatics, Snowmass, CO, Dec 06, 2019. [Link here](https://figshare.com/articles/Giving_credit_where_credit_is_due_How_to_make_more_meaningful_connections_between_people_and_their_roles_work_and_impact/11338502)
 - **CREDITLAND: How to enhance attribution to make more meaningful connections for everyone to their roles, work, & impact.** Force2019, Edinburgh, UK. October 2019. [Link here](https://digitalhub.northwestern.edu/files/d08374e9-0411-4450-a0d1-4979c69ed3e7)
 - **Creating Sustainable Communities in Open Data Resources: The eagle-i and VIVO Semantic Data Tools in Action**. Association of College and Research Libraries Conference, Portland, OR.  March 2015. [Link here](http://www.slideshare.net/rhmcdonald/creating-sustainable-communities-in-open-data-resources-the-eaglei-and-vivo-semantic-data-tools-in-action)
 - **eagle-i Software Demonstration.** Western Association of Core Directors. Portland, OR. 01 November 2012.
