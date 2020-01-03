@@ -29,10 +29,10 @@ excerpt: "Publications"
 
 ## Attribution and Representing Researcher Expertise
 
-- Craig D. Newgard, MD... Nicole Vasilevsky, PhD; Marijane White, MSLIS; Adrienne Zell, PhD. **The First National Institutes of Health Institutional Training Program in Emergency Care Research: Productivity and Outcomes.** Ann Emerg Med. 2018 Aug 2. pii: S0196-0644(18)30549-3. doi: 10.1016/j.annemergmed.2018.06.018.  
-- Haendel MA, Torniai C, Vasilevsky N, Hoffmann S, Bourges-Waldegg D. **eagle-i: ontology-driven federated search and data entry tools for discovering biomedical research resources.** (2013) International Conference on Biomedical Ontology; July 7-13, 2013; Montreal, Canada.  
-- Vasilevsky NA, Johnson T, Corday K, Torniai C, Brush M, Segerdell E, Wilson M, Shaffer C and Haendel M. (2012) **Research Resources: Curating the new eagle-i discovery system.** Database, Vol. 2012, Article ID bar067.
-- Torniai, C, Brush, M, Vasilevsky, N, Segerdell, E, Wison, M, Johnson, T, Corday, K, Shaffer, C, and Haendel, M. (2011) **Developing an application ontology for biomedical resource annotation and retrieval: Challenges and lessons learned.** International Conference on Biomedical Ontology 2011; July 26–30, 2011; Buffalo, NY.
+- Craig D. Newgard, MD... Nicole Vasilevsky, PhD; Marijane White, MSLIS; Adrienne Zell, PhD. **The First National Institutes of Health Institutional Training Program in Emergency Care Research: Productivity and Outcomes.** Ann Emerg Med. 2018 Aug 2. pii: S0196-0644(18)30549-3. doi: 10.1016/j.annemergmed.2018.06.018. [Link here](https://www.annemergmed.com/article/S0196-0644(18)30549-3/fulltext) 
+- Haendel MA, Torniai C, Vasilevsky N, Hoffmann S, Bourges-Waldegg D. **eagle-i: ontology-driven federated search and data entry tools for discovering biomedical research resources.** (2013) International Conference on Biomedical Ontology; July 7-13, 2013; Montreal, Canada.  [Link here](http://ceur-ws.org/Vol-1060/icbo2013_submission_54.pdf) 
+- Vasilevsky NA, Johnson T, Corday K, Torniai C, Brush M, Segerdell E, Wilson M, Shaffer C and Haendel M. (2012) **Research Resources: Curating the new eagle-i discovery system.** Database, Vol. 2012, Article ID bar067. [Link here](https://academic.oup.com/database/article/doi/10.1093/database/bar067/430384) 
+- Torniai, C, Brush, M, Vasilevsky, N, Segerdell, E, Wison, M, Johnson, T, Corday, K, Shaffer, C, and Haendel, M. (2011) **Developing an application ontology for biomedical resource annotation and retrieval: Challenges and lessons learned.** International Conference on Biomedical Ontology 2011; July 26–30, 2011; Buffalo, NY. [Link here](http://ceur-ws.org/Vol-833/paper14.pdf) 
 
 ## Education and Training
 
