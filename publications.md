@@ -23,9 +23,9 @@ excerpt: "Publications"
 
 ## Biocuration 
 
-- International Society for Biocuration (2018) **Biocuration: Distilling data into knowledge**. PLoS Biol 16(4): e2002846. https://doi.org/10.1371/journal.pbio.2002846  
-- Michael Bada, Nicole Vasilevsky, William A Baumgartner, Jr, Melissa Haendel, Lawrence E Hunter. **Gold-standard ontology-based anatomical annotation in the CRAFT Corpus**. Database, Volume 2017, 1 January 2017, bax087, https://academic.oup.com/database/article/doi/10.1093/database/bax087/4780291  
--	Wang Q, ...,Vasilevsky N, Wang X, Chatr-Aryamontri A, Laulederkind SJ, Matis-Mitchell S, McEntyre J, Orchard S, Pundir S, Rodriguez-Esteban R, Van Auken K, Lu Z, Schaeffer M, Wu CH, Hirschman L, Arighi CN. **Overview of the interactive task in BioCreative V**. Database (Oxford). 2016 Sep 1;2016. pii: baw119. Print 2016.   
+- International Society for Biocuration (2018) **Biocuration: Distilling data into knowledge**. PLoS Biol 16(4): e2002846. https://doi.org/10.1371/journal.pbio.2002846. [Link here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002846)  
+- Michael Bada, Nicole Vasilevsky, William A Baumgartner, Jr, Melissa Haendel, Lawrence E Hunter. **Gold-standard ontology-based anatomical annotation in the CRAFT Corpus**. Database, Volume 2017, 1 January 2017, bax087, https://academic.oup.com/database/article/doi/10.1093/database/bax087/4780291. [Link  here](https://academic.oup.com/database/article/doi/10.1093/database/bax087/4780291)      
+-	Wang Q, ...,Vasilevsky N, Wang X, Chatr-Aryamontri A, Laulederkind SJ, Matis-Mitchell S, McEntyre J, Orchard S, Pundir S, Rodriguez-Esteban R, Van Auken K, Lu Z, Schaeffer M, Wu CH, Hirschman L, Arighi CN. **Overview of the interactive task in BioCreative V**. Database (Oxford). 2016 Sep 1;2016. pii: baw119. Print 2016. [Link here](https://www.ncbi.nlm.nih.gov/pubmed/27589961)  
 
 ## Attribution and Representing Researcher Expertise
 
