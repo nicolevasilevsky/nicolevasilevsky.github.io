@@ -5,17 +5,13 @@ excerpt: "About Me..."
 
 As part of the [Translational and Integrative Sciences Lab](https://tislab.org/), my research focuses on development and use of semantic technologies to facilitate new knowledge discovery and promote scientific reproducibility. My expertise is in biocuration, and the development of biomedical ontologies and data standards for phenotypes, diseases and other biomedical domains with the goal of improving disease diagnostics and health outcomes. Additionally, I am active in educational efforts in data management best practices and data science.
 
-## Current Interests and Projects:
+## Current Projects:
 
 ### Biocuration projects
 - [Monarch Inititative](https://monarchinitiative.org/): a system that allows for cross-species disease discovery
 - [Gabriella Miller Kids First Data Resource](https://kidsfirstdrc.org/): a data resource portal containing data about pediatric cancers and structural abnormalities
 - [CRAFT corpus](http://bionlp-corpora.sourceforge.net/CRAFT/): The Colorado Richly Annotated Full Text Corpus (CRAFT) is a manually annotated corpus consisting of 67 full-text biomedical journal articles.
 - [Center for Cancer Data Harmonization](https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh): The CCDH will work with the National Cancer Institute Cancer Research Data Commons to make cancer research data more useful and accessible.
-- [CD2H](https://ctsa.ncats.nih.gov/cd2h/workgroup/people-expertise-attribution/): a collaborative initiative to coordinate informatics efforts across the CTSA program.
-  - [LOINC2HPO project](https://github.com/TheJacksonLaboratory/loinc2hpoAnnotation): Extracting phenotype information from lab tests in Electronic Health Records (EHRs): 
-  - [Architecting Attribution](https://github.com/data2health/architecting_attribution): Creation of a computational representation of contributions
-
 
 ### Ontology development
 - [Monarch Disease Ontology (Mondo)](https://mondo.monarchinitiative.org/)
