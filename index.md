@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-As part of the [Translational and Integrative Science Lab](https://tislab.org/), my research focuses on development and use of semantic technologies to facilitate new knowledge discovery and promote scientific reproducibility. My expertise is in biocuration, and the development of biomedical ontologies and data standards for phenotypes, diseases and other biomedical domains with the goal of improving disease diagnostics and health outcomes. Additionally, I am active in educational efforts in data management best practices and data science.
+As part of the [Translational and Integrative Sciences Lab](https://tislab.org/), my research focuses on development and use of semantic technologies to facilitate new knowledge discovery and promote scientific reproducibility. My expertise is in biocuration, and the development of biomedical ontologies and data standards for phenotypes, diseases and other biomedical domains with the goal of improving disease diagnostics and health outcomes. Additionally, I am active in educational efforts in data management best practices and data science.
 
 ## Current Interests and Projects:
 
