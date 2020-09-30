@@ -6,6 +6,7 @@ excerpt: "Teaching"
 
 ## Ontologies
 
+- **Cell Ontology Tutorial** A virtual training on September 24 and October 01, 2020. [Link here](https://github.com/obophenotype/cell-ontology-training/blob/master/README.md)
 - **Introduction to Ontologies**. Computable Exposures Workshop, Oregon State University, September 09, 2019. [Link here](https://docs.google.com/presentation/d/1zyxh8PdPX__rqjntuQdJH0dgUOinv6QB/edit#slide=id.p1)
 - **Monarch Disease Ontology workshop**, Co-organizer, Broad Institute, Cambridge, MA, November 27-28, 2018.
 - **Ontology 101: A how-to guide to create, manage, and release an OBO ontology**, Co-instructor, Workshop at International Conference on Biological Ontology, Corvallis, OR, August 07, 2018. [Link here.](http://icbo2018.cgrb.oregonstate.edu/node/19)
