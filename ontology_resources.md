@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ontology Resources
+title: ontology_resources
 excerpt: "Ontology Resources"
 ---
 
