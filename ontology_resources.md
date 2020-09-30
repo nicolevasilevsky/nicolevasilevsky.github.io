@@ -24,7 +24,7 @@ excerpt: "Ontology Resources"
 - [Karma Data Integration](http://usc-isi-i2.github.io/karma/): A data integration tool
 - [Knotation: a notation for knowledge representation](https://knotation.org/)
 					
-## Relevant Publications
+## Select Publications
 
 - [An Intrepid Guide to Ontologies](http://www.mkbergman.com/date/2007/05/16/) by Mike Bergman, posted on May 16, 2007 in Adaptive Information, Description Logics, Ontologies, Semantic Web, Structured Web
 - [Monkeying around with OWL](https://douroucouli.wordpress.com/): a technical blog on ontologies and ontology engineering by Chris Mungall
@@ -36,4 +36,5 @@ excerpt: "Ontology Resources"
 - [Biomedical ontologies, data integration and annotation, British sense of humour:](http://drjamesmalone.blogspot.com/) a technical blog on ontologies and ontology engineering by James Malone
 - [ROBOT: A Tool for Automating Ontology Workflows](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3002-3) by Rebecca C. Jackson, James P. Balhoff, Eric Douglass, Nomi L. Harris, Christopher J. Mungall & James A. Overton, BMC Bioinformaticsvolume 20, Article number: 407 (2019)
 - [How to use Ontologies to unlock the full potential of your Scientific Data](https://www.scibite.com/news/how-to-use-ontologies-to-unlock-the-full-potential-of-your-scientific-data-part-1/)
+- [The Trouble with Ontologies, or, How to Build an Ontology](https://cthoyt.com/2020/05/12/building-an-ontology.html) by Charles Tapley Hoyt
 
