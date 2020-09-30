@@ -23,8 +23,9 @@ As part of the [Translational and Integrative Sciences Lab](https://tislab.org/)
 - [Contributor Role Ontology](https://data2health.github.io/contributor-role-ontology/)
 
 ### Education and Teaching
+- Ontologies 101 (see [Workshops page](https://nicolevasilevsky.github.io/teaching/))
 - [OHSU Library Data Science Institute](https://ohsulibrary-datascienceinstitute.github.io/)
 - [BD2K Open Educational Resources for Data Science](https://github.com/OHSUBD2K/)
 - [BD2K Data Science skills courses](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/research/bd2k.cfm)
-- Ontologies 101 (see [Workshops page](https://nicolevasilevsky.github.io/teaching/))
+
 
