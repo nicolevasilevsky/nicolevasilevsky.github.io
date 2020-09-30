@@ -9,14 +9,14 @@ As part of the [Translational and Integrative Sciences Lab](https://tislab.org/)
 
 ### Biocuration projects
 - [Monarch Inititative](https://monarchinitiative.org/): a system that allows for cross-species disease discovery
+- [Center for Cancer Data Harmonization](https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh): CCDH aims to facilitate harmonization of data available through NCI's [Cancer Research Data Commons (CRDC)](https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh).
 - [Gabriella Miller Kids First Data Resource](https://kidsfirstdrc.org/): a data resource portal containing data about pediatric cancers and structural abnormalities
+- [CRAFT corpus](http://bionlp-corpora.sourceforge.net/CRAFT/): The Colorado Richly Annotated Full Text Corpus (CRAFT) is a manually annotated corpus consisting of 67 full-text biomedical journal articles.
 - [Center for Cancer Data Harmonization](https://today.oregonstate.edu/news/oregon-state-help-lead-effort-make-cancer-research-data-more-useful-and-accessible): The CCDH will work with the National Cancer Institute Cancer Research Data Commons to make cancer research data more useful and accessible.
-- [Applying layperson synonyms to the Human Phenotype Ontology](https://phenotypr.com/)
 - [CD2H](https://ctsa.ncats.nih.gov/cd2h/workgroup/people-expertise-attribution/): a collaborative initiative to coordinate informatics efforts across the CTSA program.
   - [LOINC2HPO project](https://github.com/TheJacksonLaboratory/loinc2hpoAnnotation): Extracting phenotype information from lab tests in Electronic Health Records (EHRs): 
   - [Architecting Attribution](https://github.com/data2health/architecting_attribution): Creation of a computational representation of contributions
-  - [Edu-Harmonization](https://github.com/data2health/edu-harmonization): Educational resource and competency harmonization project
-- [N-Lighten](https://alaska.dev.eagle-i.net:8443/): An educational resource discovery tool
+
 
 ### Ontology development
 - [Human Phenotype Ontology](https://hpo.jax.org/app/)
