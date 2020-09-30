@@ -1,10 +1,8 @@
 ---
 layout: page
-title: ontology_resources
+title: Ontology Resources
 excerpt: "Ontology Resources"
 ---
-
-# Ontology Resources and Tutorials
 
 ##  Tutorials/Slides
 - [Introduction to Ontologies:</a> slides from Cold Spring Harbor workshop, October 2018](https://github.com/prog4biol/pfb2018/blob/master/workshops/Ontologies/IntroToOntologies_CSH_2018-10-28g.pdf)
