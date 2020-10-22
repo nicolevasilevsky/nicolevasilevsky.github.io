@@ -7,8 +7,8 @@ excerpt: "Ontology Resources"
 A curated list of relevant tutorials, tools and publications from the biomedical ontology community. 
 
 ##  Tutorials/Slides
-- [Introduction to Ontologies:</a> slides from Cold Spring Harbor workshop, October 2018](https://github.com/prog4biol/pfb2018/blob/master/workshops/Ontologies/IntroToOntologies_CSH_2018-10-28g.pdf)
-- [Ontology Development 101: A Guide to Creating Your First Ontology</a> by Natalya F. Noy and Deborah L. McGuinness](http://www.ksl.stanford.edu/people/dlm/papers/ontology101/ontology101-noy-mcguinness.html)
+- [Introduction to Ontologies: Slides from Cold Spring Harbor workshop, October 2018](https://github.com/prog4biol/pfb2018/blob/master/workshops/Ontologies/IntroToOntologies_CSH_2018-10-28g.pdf) by Nicole Vasilevsky
+- [Ontology Development 101: A Guide to Creating Your First Ontology by Natalya F. Noy and Deborah L. McGuinness](http://www.ksl.stanford.edu/people/dlm/papers/ontology101/ontology101-noy-mcguinness.html)
 - [Ontology 101 Tutorial](http://icbo2018.cgrb.oregonstate.edu/node/19) from International Conference on Biological Ontology (ICBO) 2018
 - [Ontology 101 Open Educational Resource](https://github.com/OHSUBD2K/BDK14-Ontologies-101) Funded by NIH BD2K Initiative
 - [Learning SPARQL](http://www.learningsparql.com/) by Bob DuCharme
