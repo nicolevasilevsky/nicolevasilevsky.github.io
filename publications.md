@@ -59,6 +59,7 @@ excerpt: "Publications"
 
 ## Biomedical Ontologies and Bioinformatics
 
+- Anne E. Thessen, Cynthia J. Grondin, Resham D. Kulkarni, Susanne Brander, Lisa Truong, Nicole A. Vasilevsky, Tiffany J. Callahan, Lauren E. Chan, Brian Westra, Mary Willis, Sarah E. Rothenberg, Annie M. Jarabek, Lyle Burgoon, Susan A. Korrick, and Melissa A. Haendel. **Community Approaches for Integrating Environmental Exposures into Human Models of Disease. Environmental Health Perspectives.** Vol. 128, No. 12. December 2020. [Link here](https://doi.org/10.1289/EHP7215)
 - Hotchkiss, J.; Manyisa, N.; Adadey, S.M.; Oluwole, O.G.; Wonkam, E.; Mnika, K.; Yalcouye, A.; Nembaware, V.; Haendel, M.; Vasilevsky, N.; Mulder, N.J.; Jupp, S.; Wonkam, A.; Mazandu, G.K. **The Hearing Impairment Ontology: A Tool for Unifying Hearing Impairment Knowledge to Enhance Collaborative Research.** Genes 2019, 10, 960 [Link here](https://www.mdpi.com/2073-4425/10/12/960)
 - Matentzoglu, Nicolas;... Vasilevsky, Nicole;   Zhang, Xingmin A.;   Haendel, Melissa A. **Phenotype Ontologies Traversing All The Organisms (POTATO) workshop aims to reconcile logical definitions across species.** Zenodo. http://doi.org/10.5281/zenodo.2382757
 - Diehl AD, Meehan TF, Bradford YM, Brush MH, Dahdul WM, Dougall DS, He Y, Osumi-Sutherland D, Ruttenberg A, Sarntivijai S, Van Slyke CE, Vasilevsky NA, Haendel MA, Blake JA, Mungall CJ. **The Cell Ontology 2016: enhanced content, modularization, and ontology interoperability.** J Biomed Semantics. 2016 Jul 4;7(1):44. doi: 10.1186/s13326-016-0088-7.
