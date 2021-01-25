@@ -15,6 +15,7 @@ A curated list of relevant tutorials, tools and publications from the biomedical
 - [ROBOT tutorial](https://github.com/rctauber/robot-tutorial) by Becky Jackson and James Overton
 - [Managing Ontologies with the Ontology Development Kit](https://www.slideshare.net/cmungall/ontology-development-kit-bioontologies-2019) by Chris Mungall</li>
 - [Pizza & Wine: The Need for Educational Tools for Foundational Ontologies](https://www.semanticscholar.org/paper/Pizza-%26-Wine%3A-The-Need-for-Educational-Tools-for-Schulz-Boeker/f11eeeb341e1a8fb5387eb7eff2f293953f902bc) by Stefan Schulz, Martin Boeker, Ludger Jansen
+- [Pizza Tutorial for Protégé for Protege 5](https://drive.google.com/file/d/1UqI19JiGnJwzKx_JQ7qRAz7bmCzyqZpj/view) by Michael DeBellis. More [info.](https://www.michaeldebellis.com/post/new-protege-pizza-tutorial).
 
 ## Ontology tools
 - [Protege](https://protege.stanford.edu/): An ontology development software application
