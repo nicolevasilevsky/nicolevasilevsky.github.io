@@ -24,6 +24,15 @@ excerpt: "Publications"
 -	Tudor Groza, ..., **Nicole Vasilevsky**, et al. **The Human Phenotype Ontology: Semantic unification of common and rare disease.** The American Journal of Human Genetics (2015). [Link here](http://dx.doi.org/10.1016/j.ajhg.2015.05.020)
 - Haendel MA, Vasilevsky N, Brush M, Hochheiser HS, Jacobsen J, Oellrich A, Mungall CJ, Washington N, Köhler S, Lewis SE, Robinson PN, Smedley D. **Disease insights through cross-species phenotype comparisons.** Mamm Genome. 2015 Jun 20. PMID: 26092691. [Link here](https://link.springer.com/article/10.1007%2Fs00335-015-9577-8)
 
+## Biomedical Ontologies and Bioinformatics
+
+- Lauren Chan, Nicole Vasilevsky, Anne Thessen, Julie McMurry, Melissa Haendel, **The landscape of nutri-informatics: a review of current resources and challenges for integrative nutrition research**, Database, Volume 2021, 2021, baab003, https://doi.org/10.1093/database/baab00
+- Anne E. Thessen, Cynthia J. Grondin, Resham D. Kulkarni, Susanne Brander, Lisa Truong, Nicole A. Vasilevsky, Tiffany J. Callahan, Lauren E. Chan, Brian Westra, Mary Willis, Sarah E. Rothenberg, Annie M. Jarabek, Lyle Burgoon, Susan A. Korrick, and Melissa A. Haendel. **Community Approaches for Integrating Environmental Exposures into Human Models of Disease. Environmental Health Perspectives.** Vol. 128, No. 12. December 2020. [Link here](https://doi.org/10.1289/EHP7215)
+- Hotchkiss, J.; Manyisa, N.; Adadey, S.M.; Oluwole, O.G.; Wonkam, E.; Mnika, K.; Yalcouye, A.; Nembaware, V.; Haendel, M.; Vasilevsky, N.; Mulder, N.J.; Jupp, S.; Wonkam, A.; Mazandu, G.K. **The Hearing Impairment Ontology: A Tool for Unifying Hearing Impairment Knowledge to Enhance Collaborative Research.** Genes 2019, 10, 960 [Link here](https://www.mdpi.com/2073-4425/10/12/960)
+- Matentzoglu, Nicolas;... Vasilevsky, Nicole;   Zhang, Xingmin A.;   Haendel, Melissa A. **Phenotype Ontologies Traversing All The Organisms (POTATO) workshop aims to reconcile logical definitions across species.** Zenodo. http://doi.org/10.5281/zenodo.2382757
+- Diehl AD, Meehan TF, Bradford YM, Brush MH, Dahdul WM, Dougall DS, He Y, Osumi-Sutherland D, Ruttenberg A, Sarntivijai S, Van Slyke CE, Vasilevsky NA, Haendel MA, Blake JA, Mungall CJ. **The Cell Ontology 2016: enhanced content, modularization, and ontology interoperability.** J Biomed Semantics. 2016 Jul 4;7(1):44. doi: 10.1186/s13326-016-0088-7.
+-	Terry Meehan*, Nicole A. Vasilevsky*, Christopher J. Mungall, Melissa A. Haendel, Judith A. Blake, Alexander D. Diehl (2013) **Ontology based molecular signatures for immune cell types via gene expression analysis**. BMC Bioinformatics 14:263. *These authors contributed equally to the work.
+
 ## Biocuration 
 
 - International Society for Biocuration (2018) **Biocuration: Distilling data into knowledge**. PLoS Biol 16(4): e2002846. https://doi.org/10.1371/journal.pbio.2002846. [Link here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002846)  
@@ -56,14 +65,6 @@ excerpt: "Publications"
 -	Bandrowski A, Brush M, Grethe JS, Haendel MA, Kennedy DN, Hill S, Hof PR, Martone ME, Pols M, Tan S, Washington N, Zudilova-Seinstra E, Vasilevsky N. **The Resource Identification Initiative: A cultural shift in publishing** [version 2; referees: 2 approved] F1000Research 2015, 4:134 (doi: 10.12688/f1000research.6555.2) http://f1000research.com/articles/4-134/v2
 -	Babette Haven, Elysia Heilig, Cristine Donham, Michael Settles, Nicole Vasilevsky, Katherine Owen, Reproducibility Project: Cancer Biology. **Registered report: A chromatin-mediated reversible drug-tolerant state in cancer cell subpopulations** (2016) eLife 2016;5:e09462
 -	Vita R, Vasilevsky N, Bandrowski A, Haendel M, Sette A, Peters B. (2016) **Reproducibility and Conflicts in Immune Epitope Data.** Immunology. 2016 Mar;147(3):349-54. doi: 10.1111/imm.12566. 
-
-## Biomedical Ontologies and Bioinformatics
-
-- Anne E. Thessen, Cynthia J. Grondin, Resham D. Kulkarni, Susanne Brander, Lisa Truong, Nicole A. Vasilevsky, Tiffany J. Callahan, Lauren E. Chan, Brian Westra, Mary Willis, Sarah E. Rothenberg, Annie M. Jarabek, Lyle Burgoon, Susan A. Korrick, and Melissa A. Haendel. **Community Approaches for Integrating Environmental Exposures into Human Models of Disease. Environmental Health Perspectives.** Vol. 128, No. 12. December 2020. [Link here](https://doi.org/10.1289/EHP7215)
-- Hotchkiss, J.; Manyisa, N.; Adadey, S.M.; Oluwole, O.G.; Wonkam, E.; Mnika, K.; Yalcouye, A.; Nembaware, V.; Haendel, M.; Vasilevsky, N.; Mulder, N.J.; Jupp, S.; Wonkam, A.; Mazandu, G.K. **The Hearing Impairment Ontology: A Tool for Unifying Hearing Impairment Knowledge to Enhance Collaborative Research.** Genes 2019, 10, 960 [Link here](https://www.mdpi.com/2073-4425/10/12/960)
-- Matentzoglu, Nicolas;... Vasilevsky, Nicole;   Zhang, Xingmin A.;   Haendel, Melissa A. **Phenotype Ontologies Traversing All The Organisms (POTATO) workshop aims to reconcile logical definitions across species.** Zenodo. http://doi.org/10.5281/zenodo.2382757
-- Diehl AD, Meehan TF, Bradford YM, Brush MH, Dahdul WM, Dougall DS, He Y, Osumi-Sutherland D, Ruttenberg A, Sarntivijai S, Van Slyke CE, Vasilevsky NA, Haendel MA, Blake JA, Mungall CJ. **The Cell Ontology 2016: enhanced content, modularization, and ontology interoperability.** J Biomed Semantics. 2016 Jul 4;7(1):44. doi: 10.1186/s13326-016-0088-7.
--	Terry Meehan*, Nicole A. Vasilevsky*, Christopher J. Mungall, Melissa A. Haendel, Judith A. Blake, Alexander D. Diehl (2013) **Ontology based molecular signatures for immune cell types via gene expression analysis**. BMC Bioinformatics 14:263. *These authors contributed equally to the work.
 
 ## Cancer immunology
 - Vasilevsky NA, Ruby CE, Hurlin PJ, Weinberg AD. **OX40 engagement stabilizes Mxd4 and Mnt protein levels in antigen-stimulated T cells leading to an increase in cell survival.** Eur J Immunol. 2011 Apr; 41(4):1024-34. Eur J Immunol. 2011 Apr;41(4):1024-34. 
