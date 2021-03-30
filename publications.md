@@ -21,7 +21,8 @@ excerpt: "Publications"
 -	Sebastian Köhler, Nicole A. Vasilevsky, ..., and Peter N. Robinson. **The Human Phenotype Ontology in 2017**. Nucl. Acids Res. first published online November 28, 2016 doi:10.1093/nar/gkw1039 [Link here](https://academic.oup.com/nar/article/45/D1/D865/2574174)
 -	Julie A. McMurry, ..., Nicole A. Vasilevsky, Zhou Yuan, Suzanna E. Lewis, Harry Hochheiser, Tudor Groza, Damian Smedley, Peter N. Robinson, Christopher J. Mungall, Melissa A. Haendel. **Navigating the Phenotype Frontier: The Monarch Initiative.** GENETICS August 1, 2016 vol. 203 no. 4 1491-1495; DOI: 10.1534/genetics.116.188870 [Link here](https://www.genetics.org/content/203/4/1491)
 -	Bone WP, ..., Vasilevsky N, Wahl C, Wolfe LA, Boerkoel CF, Brudno M, Haendel MA, Gahl WA, Smedley D. **Computational evaluation of exome sequence data using human and model organism phenotypes improves diagnostic efficiency.** Genetics in medicine: official journal of the American College of Medical Genetics, 2015 Nov 12. doi: 10.1038/gim.2015.137. [Link here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4916229/)
--	Tudor Groza, ..., **Nicole Vasilevsky**, et al. **The Human Phenotype Ontology: Semantic unification of common and rare disease.** The American Journal of Human Genetics (2015). [Link here](http://dx.doi.org/10.1016/j.ajhg.2015.05.020)
+-	Tudor Groza, ..., **Nicole Vasilevsky**, et al. **The Human Phenotype Ontology: Semantic unification of common and rare disease.** The American Journal of Human Genetics (2015). [Link here](http://dx.doi.org/10.1016/j.ajhg
+-	.2015.05.020)
 - Haendel MA, Vasilevsky N, Brush M, Hochheiser HS, Jacobsen J, Oellrich A, Mungall CJ, Washington N, Köhler S, Lewis SE, Robinson PN, Smedley D. **Disease insights through cross-species phenotype comparisons.** Mamm Genome. 2015 Jun 20. PMID: 26092691. [Link here](https://link.springer.com/article/10.1007%2Fs00335-015-9577-8)
 
 ## Biomedical Ontologies and Bioinformatics
@@ -54,6 +55,7 @@ excerpt: "Publications"
 
 ## Data Management, Data Standards and Altmetrics
 
+- Anja Füllgrabe, Nancy George, Matthew Green, Parisa Nejad, Bruce Aronow, Silvie Korena Fexova, Clay Fischer, Mallory Ann Freeberg, Laura Huerta, Norman Morrison, Richard H. Scheuermann, Deanne Taylor, Nicole Vasilevsky, Laura Clarke, Nils Gehlenborg, Jim Kent, John Marioni, Sarah Teichmann, Alvis Brazma, Irene Papatheodorou. Guidelines for reporting single-cell RNA-seq experiments. Nat Biotechnol (2020). https://doi.org/10.1038/s41587-020-00744-z. [Link here](https://www.nature.com/articles/s41587-020-00744-z).
 -	Nicole Vasilevsky, Jackie Wirz, Robin Champieux, Todd Hannon, Bryan Laraway, Kyle Banerjee, Chris Shaffer, Melissa Haendel. **Lions, Tigers, and Gummi Bears: Springing Towards Effective Engagement with Research Data Management**, (2014). Scholar Archive. Paper 3571. http://digitalcommons.ohsu.edu/etd/3571  
 - Haendel MA, Vasilevsky NA, and Wirz JA. (2012) **Dealing with Data: A case study on information and data management literacy.** PLoS Biol 10(5): e1001339. doi:10.1371/journal.pbio.1001339.  
 
