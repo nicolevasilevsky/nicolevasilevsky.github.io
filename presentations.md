@@ -5,6 +5,7 @@ excerpt: "Presentations"
 ---
 ## Semantic Phenotyping of Diseases
 
+- **Mondo Disease Ontology: harmonizing disease concepts around the world** Poster presentation and [Lightning Talk](https://www.youtube.com/watch?v=uDTuLZBW4yI) at Curating the Clinical Genome (virtual) conference. May 12, 2021.
 - **Mondo: The world's disease concepts, unified.** Presentation to ClinGen Biocurators Working Group meeting, October 22, 2020. [Link here](https://figshare.com/articles/presentation/Mondo_The_world_s_disease_concepts_unified/13132883)
 - **Mondo Disease Ontology: Harmonizing Disease Concepts Across the World**. Poster presentation at ICBO 2020, Virtual. [Poster here](https://icbo2020.inf.unibz.it/posters/). [Abstract here](http://www.informatik.uni-leipzig.de/~loebe/tmp/ICBO2020/abstractY.pdf).
 - **uPheno 2: Framework for standardised representation of phenotypes across species** Poster presentation at Biocuration 2019, Cambridge, UK, April 2019. Slides [here](https://f1000research.com/posters/8-403)
