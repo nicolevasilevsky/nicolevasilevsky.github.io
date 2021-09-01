@@ -167,15 +167,16 @@ Library Communications Committee, Oregon Health & Science University Library
 
 ##### Community Service:  
 
-`2020-present` Oregon Health & Science University, Department of Medical Informatics and Clinical Epidemiology Diversity Committee
+`2020-present` 
+Oregon Health & Science University, Department of Medical Informatics and Clinical Epidemiology Diversity Committee     
 `2018-present` 
-Women in Science, Communications Committee
+Women in Science, Communications Committee  
 `2013-2014`
 Chair, Overlook Neighborhood Association Board  
 `2011- 2012`
 Volunteer, Event planning committee, Open Meadow  
 `2009-2011`
-Board member, Portland Community College Bioscience Technology Advisory Board  
+Board member, Portland Community College Bioscience Technology Advisory Board   
 `2008-2010`
 Volunteer, Oregon Bioscience Association  
 
