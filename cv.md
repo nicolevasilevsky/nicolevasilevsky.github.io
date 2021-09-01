@@ -37,13 +37,13 @@ __Senior Research Associate__, Oregon Health & Science University
 
 - Biocurator
 - Biomedical ontologist
-- 
+
 `2010-2015`
 __Research Associate__, Oregon Health & Science University  
 
 - Biocurator
 - Biomedical ontologist
-- 
+
 `2011-2020`
 __Assistant Professor__, National University of Natural Medicine
 
