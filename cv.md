@@ -23,29 +23,29 @@ PhD, Cell Biology
 ## Professional Experience
 
 `Current` 
-__Visiting Research Associate Professor__, University of Colorado Anschutz Medical Campus 
+__Visiting Research Associate Professor__, University of Colorado Anschutz Medical Campus  
 
-- Lead Biocurator 
+- Lead Biocurator  
 
 `2016-2021`
 __Research Assistant Professor__, Oregon Health & Science University  
 
-- Lead Biocurator 
+- Lead Biocurator  
 
 `2015-2016`
 __Senior Research Associate__, Oregon Health & Science University  
 
-- Biocurator
-- Biomedical ontologist
+- Biocurator    
+- Biomedical ontologist    
 
 `2010-2015`
 __Research Associate__, Oregon Health & Science University  
 
-- Biocurator
-- Biomedical ontologist
+- Biocurator 
+- Biomedical ontologist   
 
-`2011-2020`
-__Assistant Professor__, National University of Natural Medicine
+`2011-2020`  
+__Assistant Professor__, National University of Natural Medicine  
 
 - Adunjct faculty, Master of Science in Integrative Medicine Research
 - Adunjct faculty, Undergratuate program
