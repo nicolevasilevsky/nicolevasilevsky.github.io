@@ -2,14 +2,13 @@
 layout: resume
 title: Currently
 ---
-Research Assistant Professor, [Department of Medical Informatics and Clinical Epidemiology](https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/)
+Visiting Research Associate Professor, [Center for Health AI](https://medschool.cuanschutz.edu/ai)
 
 Biocurator and Ontologist, [Translational and Integrative Sciences Lab](https://tislab.org/)  
-[Oregon Clinical & Translational Research Institute](https://www.ohsu.edu/xd/research/centers-institutes/octri/index.cfm)  
-[Oregon Health & Science University](https://www.ohsu.edu/xd/)  
-3181 SW Sam Jackson Park Road SN4N  
-Portland, OR 97239  
-vasilevs@ohsu.edu  
+[University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/)  
+Based in Portland, Oregon
+nicole@tislab.org
+
 
 ## Education
 
@@ -23,15 +22,23 @@ PhD, Cell Biology
 
 ## Professional Experience
 
-`Current`
-__Research Assistant Professor__, Oregon Health & Science University  
+`Current` 
+__Visiting Research Associate Professor__, University of Colorado Anschutz Medical Campus 
 
 - Biocurator
 - Biomedical ontologist
 
-`Current`
+`2015-2016`
+__Research Assistant Professor__, Oregon Health & Science University  
+
+`2010-2015`
+__Research Associate__, Oregon Health & Science University  
+
+`2011-2020`
 __Assistant Professor__, National University of Natural Medicine
 
+- Adunjct faculty, Master of Science in Integrative Medicine Research
+- Adunjct faculty, Undergratuate program
 - Member, Institional Review Board
 
 `2009-2010`
@@ -70,7 +77,7 @@ See [Teaching tab](https://nicolevasilevsky.github.io/teaching/)
 **Professional Societies:**
 
 `2011-present`
-International Society for Biocuration  
+International Society for Biocuration
 `2008-present`
 Oregon Bioscience Association  
 `2011` 
@@ -101,12 +108,14 @@ American Association of Cancer Research
 
 ##### International/National   
 
+`2020-present` 
+International Society for Biocuration, Executive Committee Chair  
 `2019- 2020`
 Scientific Committee, [Biocuration 2020 conference](https://www.jax.org/education-and-learning/education-calendar/2020/05-may/biocuration-2020-conference)  
 `2018- present` 
 Semantic Architecture Advisory Committee, National Cancer Institute  
 `2017-present` 
-International Society for Biocuration, Executive Committee (Three year elected position)  
+International Society for Biocuration, Executive Committee (Six year elected position)  
 `2017-present` 
 International Society for Biocuration, Executive Committee Secretary  
 `2017-present` 
@@ -148,6 +157,8 @@ Library Communications Committee, Oregon Health & Science University Library
 
 ##### Community Service:  
 
+`2018-present` 
+Women in Science, Communications Committee
 `2013-2014`
 Chair, Overlook Neighborhood Association Board  
 `2011- 2012`
