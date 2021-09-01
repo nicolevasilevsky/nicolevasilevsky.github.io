@@ -87,7 +87,7 @@ See [Teaching tab](https://nicolevasilevsky.github.io/teaching/)
 **Professional Societies:**
 
 `2011-present`
-International Society for Biocuration
+International Society for Biocuration   
 `2008-present`
 Oregon Bioscience Association  
 `2011` 
