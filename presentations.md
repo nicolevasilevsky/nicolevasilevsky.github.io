@@ -16,6 +16,7 @@ excerpt: "Presentations"
 
 ## Biomedical Ontologies and Bioinformatics
 
+- **Ontologies 101: Standardize your data using ontologies** Invited talk at Human Toxicology and Environmental Health Sciences Research Center research seminar, University of Iowa (virtual), September 10, 2021. [Slides here](https://docs.google.com/presentation/d/1t-ikIkfjbn6kRkmbmFqZNugf_CeemA1c/edit#slide=id.p5)
 - **Developing Semantic Technology for Toxicology Applications: Interdisciplinary Collaborations and Community Development** Thessen, Anne E, Callahan, Tiffany J, Chan, Lauren E, Willis, Mary, Vasilevsky, Nicole, Boyles, Rebecca, … Haendel, Melissa A. (2020). (Version 1). Zenodo. http://doi.org/10.5281/zenodo.3697160 [Abstract and poster here](https://zenodo.org/record/3697160#.Xl_uYJNKi-w)
 - **Mondo Disease Ontology: harmonizing disease concepts around the world.** Poster presentation at Childhood Cancer Data Initiative Symposium 2019, Washington, DC, July 29, 2019 and Rocky Bioinformatics, Snowmass, CO, Dec 06, 2019. [Link here](https://figshare.com/articles/Mondo_Disease_Ontology_harmonizing_disease_concepts_around_the_world/8980037)
 - **Phenotype Ontology workshop report**. International Conference on Biological Ontology, Corvallis, OR, August 08, 2018.
