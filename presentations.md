@@ -31,7 +31,6 @@ excerpt: "Presentations"
 
 ## Data Science Education and Training
 
-- **ICBO 2021 Tutorial**. Workshop at International Conference for Biomedical Ontologies (ICBO), Virtual, September 15, 2021. [Link here](https://oboacademy.github.io/obook/tutorial/icbo2021/)
 - **Introduction to Ontologies**. Invited presentation at Exposures Workshop, Oregon State University, September 09, 2019. [Link here](https://docs.google.com/presentation/d/1zyxh8PdPX__rqjntuQdJH0dgUOinv6QB/edit?dls=true)
 - **Teaching Data Science to Undergraduate Students**. Presentation at From Evidence to Scholarship Conference, Reed College, Portland, OR. March 16, 2018. [Link here](https://www.slideshare.net/NicoleVasilevsky/teaching-data-science-to-undergraduate-students)
 - **Data Science Resources for Anyone, Anywhere: Development of Skills Courses and Open Educational Resources**. Medical Library Association Conference, Seattle, WA, May 30, 2017. [Link here](https://doi.org/10.6084/m9.figshare.5056921.v1)
