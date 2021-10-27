@@ -5,7 +5,7 @@ excerpt: "Presentations"
 ---
 ## Semantic Phenotyping of Diseases
 
-- **Reclassification of Infectious Disease in the Mondo Disease Ontology** Poster presentation at International Conference for Biomedical Ontologies (ICBO), Virtual September 15, 2021. [Link here]() 
+- **Reclassification of Infectious Disease in the Mondo Disease Ontology** Poster presentation at International Conference for Biomedical Ontologies (ICBO), Virtual September 15, 2021. [Link here](https://figshare.com/articles/poster/ICBO_Poster_Mondo_Vasilevsky_2021-09-17_pdf/16892101) 
 - **Bridging the Phenotype Divide by Using Shared Patterns** Co-presentation with Sue Bello at WSBO2021 July 14, 2021. [Video here](https://youtu.be/L9Vfoxy1_2I)
 - **Mondo Disease Ontology: harmonizing disease concepts around the world.** Poster presentation and [Lightning Talk](https://www.youtube.com/watch?v=uDTuLZBW4yI) at Curating the Clinical Genome (virtual) conference. May 12, 2021.
 - **Mondo: The world's disease concepts, unified.** Presentation to ClinGen Biocurators Working Group meeting, October 22, 2020. [Link here](https://figshare.com/articles/presentation/Mondo_The_world_s_disease_concepts_unified/13132883)
