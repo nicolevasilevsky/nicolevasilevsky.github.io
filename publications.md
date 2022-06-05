@@ -131,3 +131,9 @@ excerpt: "Publications"
 26. Haendel MA, Torniai C, **Vasilevsky N**, Hoffmann S, Bourges-Waldegg D. eagle-i: ontology-driven federated search and data entry tools for discovering biomedical research resources. (2013) International Conference on Biomedical Ontology; July 7-13, 2013; Montreal, Canada.
 
 28. Torniai, C, Brush, M, **Vasilevsky, N**, Segerdell, E, Wison, M, Johnson, T, Corday, K, Shaffer, C, and Haendel, M. (2011) Developing an application ontology for biomedical resource annotation and retrieval: Challenges and lessons learned. International Conference on Biomedical Ontology 2011; July 26--30, 2011; Buffalo, NY.
+
+# Request for Information (RFIs)
+
+1. Monica Munoz-Torres, Melissa Haendel;  Sean Davis;  Lawrence Hunter;  Andrew Neumann;  Nicole Vasilevsky;  Tursynay Issabekova;  Janine Higgins; Judy Regensteiner;  Casey Greene;  Samuel Volchenboum;  Anita Walden;  Mary Ann Tuli;  Deepak Unni;  Halie Rando;  Shawn T. O'Neil;  Matthew H. Brush. Response to NOT-OD-21-066 - Racial EDI in Biomedical Research Workforce. https://zenodo.org/record/4677668#.YH5W2e9KiL9 
+2. Equality, Diversity and Inclusion Committee. (2019, May 17). Response to NIH Request for Information: Institutional Accountability to Promote Inclusive Excellence. Zenodo. http://doi.org/10.5281/zenodo.2875900
+3. International Society for Biocuration. (2018, April 2). ISB Response to NIH STRATEGIC PLAN FOR DATA SCIENCE - definition of Database vs KnowledgeBase. Zenodo. http://doi.org/10.5281/zenodo.2541266
