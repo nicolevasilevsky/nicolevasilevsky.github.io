@@ -107,54 +107,54 @@ American Association of Cancer Research
 
 **Ad hoc Reviewer:**  
 
-`2020`
-Accountability in Research
-`2020-2021`
-Advances in Medical Education and Practice
-`2014`
-Alternative Therapies in Health and Medicine
-`2020`
-Applied Sciences
-`2018`
-Biodiversity
-`2017`
-BMC Medical Informatics and Decision Making 
-`2015`
-BMJ
-`2016-present`
-Database
-`2018`
-Diagnostics
-`2016`
-eLife
-`2020-2021`
-F1000
-`2021`
-Human Mutation
-`2018`
-International Journal of Molecular Sciences
-`2017`
-Journal of Clinical Epidemiology
-`2020`
-Journal of Diabetes Research
-`2015`
-Mammalian Genome
-`2018`
-Methods of Information in Medicine
-`2018-2019`
-Nutrients 
-`2016-2020`
-PeerJ
-`2018`
-PLoS One Computational Biology
-`2017`
-PLoS One
-`2014-2019`
-Science and Engineering Ethics
-`2021`
-Scientific Data
-`2019-2020`
-Abstract review for AMIA conference
+`2020`  
+Accountability in Research  
+`2020-2021`  
+Advances in Medical Education and Practice  
+`2014`  
+Alternative Therapies in Health and Medicine  
+`2020`  
+Applied Sciences  
+`2018`  
+Biodiversity  
+`2017`  
+BMC Medical Informatics and Decision Making   
+`2015`  
+BMJ  
+`2016-present`  
+Database  
+`2018`  
+Diagnostics  
+`2016`  
+eLife  
+`2020-2021`  
+F1000  
+`2021`  
+Human Mutation  
+`2018`  
+International Journal of Molecular Sciences  
+`2017`  
+Journal of Clinical Epidemiology  
+`2020`  
+Journal of Diabetes Research  
+`2015`  
+Mammalian Genome  
+`2018`  
+Methods of Information in Medicine  
+`2018-2019`  
+Nutrients   
+`2016-2020`  
+PeerJ  
+`2018`  
+PLoS One Computational Biology  
+`2017`  
+PLoS One  
+`2014-2019`  
+Science and Engineering Ethics  
+`2021`  
+Scientific Data  
+`2019-2020`  
+Abstract review for AMIA conference  
 
 **Committees:**
 
