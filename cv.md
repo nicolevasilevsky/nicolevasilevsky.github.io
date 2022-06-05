@@ -2,12 +2,12 @@
 layout: resume
 title: Currently
 ---
-Visiting Research Associate Professor, [Center for Health AI](https://medschool.cuanschutz.edu/ai)
+Visiting Associate Research Professor, [Center for Health AI](https://medschool.cuanschutz.edu/ai)
 
 Biocurator and Ontologist, [Translational and Integrative Sciences Lab](https://tislab.org/)  
 [University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/)  
-Based in Portland, Oregon
-nicole@tislab.org
+Based in Portland, Oregon  
+
 
 
 ## Education
@@ -23,7 +23,7 @@ PhD, Cell Biology
 ## Professional Experience
 
 `Current` 
-__Visiting Research Associate Professor__, University of Colorado Anschutz Medical Campus  
+__Visiting Associate Research Professor__, University of Colorado Anschutz Medical Campus  
 
 - Lead Biocurator  
 
