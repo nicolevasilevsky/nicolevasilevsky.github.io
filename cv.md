@@ -88,7 +88,7 @@ See [Teaching tab](https://nicolevasilevsky.github.io/teaching/)
 
 `2011-present`
 International Society for Biocuration   
-`2008-present`
+`2008-2021`
 Oregon Bioscience Association  
 `2011` 
 Association of Biomolecular Resource Facilities  
@@ -97,22 +97,30 @@ American Association of Cancer Research
 
 **Ad hoc Reviewer:**  
 
-- Alternative Therapies in Health and Medicine
-- BMC Medical Informatics and Decision Making 
-- BMJ
-- Database
-- Diagnostics
-- eLife
-- International Journal of Molecular Sciences
-- Journal of Clinical Epidemiology
-- Mammalian Genome
-- Methods of Information in Medicine
-- Nutrients 
-- PeerJ
-- PLoS One
-- Science and Engineering Ethics
-- Abstract review for AMIA conference
-- NNLM Pacific Northwest Region (PNR) funding proposal review
+- 2020  Accountability in Research
+- 2020-2021  Advances in Medical Education and Practice
+- 2014  Alternative Therapies in Health and Medicine
+- 2020  Applied Sciences
+- 2018  Biodiversity
+- 2017  BMC Medical Informatics and Decision Making 
+- 2015  BMJ
+- 2016-present  Database
+- 2018  Diagnostics
+- 2016  eLife
+- 2020-2021  F1000
+- 2021 Human Mutation
+- 2018  International Journal of Molecular Sciences
+- 2017  Journal of Clinical Epidemiology
+- 2020  Journal of Diabetes Research
+- 2015  Mammalian Genome
+- 2018  Methods of Information in Medicine
+- 2018-2019  Nutrients 
+- 2016-2020  PeerJ
+- 2018  PLoS One Computational Biology
+- 2017  PLoS One
+- 2014-2019  Science and Engineering Ethics
+- 2021  Scientific Data
+- 2019-2020  Abstract review for AMIA conference
 
 **Committees:**
 
