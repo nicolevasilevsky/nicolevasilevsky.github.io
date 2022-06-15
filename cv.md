@@ -97,7 +97,7 @@ Translational and Integrative Sciences Laboratory | [https://tislab.org](https:/
 - Phenomics Workshop Series: [monarch-initiative.github.io/phenomics/](https://monarch-initiative.github.io/phenomics/) (GitHub)
 - Force11: [force11.org](https://force11.org/) (Drupal)
 - OHSU Data Science Institute: [ohsulibrary-datascienceinstitute.github.io/](https://ohsulibrary-datascienceinstitute.github.io) (GitHub)
-- CTSAconnect: [ctsaconnect.org](www.ctsaconnect.org](http://www.ctsaconnect.org/) (Drupal)
+- CTSAconnect: [ctsaconnect.org](http://www.ctsaconnect.org/) (Drupal)
 
 ## Select Publications
 
