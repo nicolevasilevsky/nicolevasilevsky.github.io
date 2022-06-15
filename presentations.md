@@ -6,8 +6,8 @@ International
 
 ### International: Invited Presentations
 
-1.  **Vasilevsky N**. "International Society for Biocuration Annual General Meeting", 14th International Society for Biocuration Conference, Virtual | October 05, 2021. F1000Research 2021, 10:1043 (slides) (doi: 10.7490/f1000research.1118824.1) [version 1; not peer reviewed]
-2.  **Nicole Vasilevsky**. "Systematically encoding cell type definitions in the Cell Ontology using classical and molecular criteria", Ontologies for Cell Type Cards Workshop, Virtual | June 30, 2021.
+1.  **Vasilevsky N**. "International Society for Biocuration Annual General Meeting", 14th International Society for Biocuration Conference, Virtual , October 05, 2021. F1000Research 2021, 10:1043 (slides) (doi: 10.7490/f1000research.1118824.1) [version 1; not peer reviewed]
+2.  **Nicole Vasilevsky**. "Systematically encoding cell type definitions in the Cell Ontology using classical and molecular criteria", Ontologies for Cell Type Cards Workshop, Virtual, June 30, 2021.
 3.  **Nicole Vasilevsky**. "LOINC2HPO: Improving Translational Informatics by Standardizing EHR Phenotypic Data Using the Human Phenotype Ontology", [Keynote address].  Rocky Bioinformatics 2018 | December 07, 2018, Snowmass, CO, USA. https://figshare.com/articles/LOINC2HPO_Improving_Translational_Informatics_by_Standardizing_EHR_Phenotypic_Data_Using_the_Human_Phenotype_Ontology/7439195  
 4.  **Nicole Vasilevsky**. "The Human Phenotype Ontology", Sickle Cell Disease Ontology Workshop | June 4, 2018, Cape Town, South Africa. <https://figshare.com/articles/Human_Phenotype_Ontology/6510257>
 
@@ -76,23 +76,24 @@ NATIONAL
 
 ### Invited Presentations
 
-1.  **Nicole Vasilevsky**. "Research, Development, and Other Opportunities", ClinGen Clinical Genomics Careers Panels Series, Virtual, | July 19, 2022 
-2.  **Vasilevsky, NA**, "The Mondo Disease Ontology." NHGRI Centers For Excellence In Genomic Science, Virtual, figshare. <https://doi.org/10.6084/m9.figshare.16821250.v1> | October 15, 2021
-3.  **Vasilevsky, NA**, "Ontologies 101: Standardize your data using ontologies."  Human Toxicology and Environmental Health Sciences Research Center research seminar, University of Iowa, bit.ly/ehsrcseminar | September 10, 2021 
-4.  Nara Sobreira, Orion Buske, Neethu Shah, Alex Wagner, **Nicole Vasilevsky** and Adriana Malheiro. "Research, Development, and Other Opportunities", ClinGen Clinical Genomics Careers Panels Series, Virtual, https://www.clinicalgenome.org/tools/genomics_careers_panel/research-development-and-other-opportunities/ | July 21, 2021
-5.  Bello, S and  **Vasilevsky, NA**, "Bridging the Phenotype Divide by Using Shared Patterns", ​​WSBO-2021: Workshop on Synergizing Biomedical Ontologies, Virtual, <https://github.com/OntoloBridge/WSBO/> , Recording: <https://youtu.be/L9Vfoxy1_2I>  | July 14, 2021
-6.  **Nicole Vasilevsky**. Mondo: The World's Disease Concepts, Unified. ClinGen Virtual Retreat 2021, https://mondo.monarchinitiative.org/pages/workshop/#june-2021 | June 24, 2021
-7.  **Nicole Vasilevsky**  and Chris Mungall. "Mondo: The world's disease concepts, unified", Presentation to ClinGen Biocurators Working Group meeting, <https://figshare.com/articles/presentation/Mondo_The_world_s_disease_concepts_unified/13132883> | October 22, 2020
-8.  Chris Mungall and **Nicole Vasilevsky**. "Introduction to Mondo", GA4GH Clinical & Phenotypic Data Capture & Exchange Work Stream  Webinar | June 18, 2020
-9.  **Nicole Vasilevsky**. "Data Harmonization and Common Data Elements", Planning a Virtual Down Syndrome Cohort Across the Lifespan Workshop (NIH), Potomac, MD, USA | September 23--24, 2019 <https://figshare.com/articles/Data_harmonization_and_common_data_elements/9897338>
-10. **Nicole Vasilevsky**. "Introduction to Ontologies", Exposures Workshop, Oregon State University, Corvallis, OR, USA. [figshare; 2019. doi:10.6084/m9.figshare.9793142.v1](https://figshare.com/articles/Introduction_to_Ontologies/9793142) | | September 09, 2019
-11. **Nicole Vasilevsky**. "Ontologies 101", CD2H Architecting Attribution meeting, Northwestern University | Chicago, IL, USA. <https://figshare.com/articles/Introduction_to_Ontologies/11338493> February 21, 2019
-12. Haendel M and **Vasilevsky N**. "Research Efficiency & Reproducibility: Leveraging Research Resources", Elsevier webinar, online | April 2014
+1.**Nicole Vasilevsky**. "Using ontologies to standardize rare disease data collection", Critical Path Institute RDCA-DAP Webinar series. June 14, 2022. Recording available [here](https://www.youtube.com/watch?v=vinZvwXqd_k) 
+2.   **Nicole Vasilevsky**. "Research, Development, and Other Opportunities", ClinGen Clinical Genomics Careers Panels Series, Virtual, | July 19, 2022 
+3.  **Vasilevsky, NA**, "The Mondo Disease Ontology." NHGRI Centers For Excellence In Genomic Science, Virtual, figshare. <https://doi.org/10.6084/m9.figshare.16821250.v1> | October 15, 2021
+4.  **Vasilevsky, NA**, "Ontologies 101: Standardize your data using ontologies."  Human Toxicology and Environmental Health Sciences Research Center research seminar, University of Iowa, bit.ly/ehsrcseminar | September 10, 2021 
+5.  Nara Sobreira, Orion Buske, Neethu Shah, Alex Wagner, **Nicole Vasilevsky** and Adriana Malheiro. "Research, Development, and Other Opportunities", ClinGen Clinical Genomics Careers Panels Series, Virtual, https://www.clinicalgenome.org/tools/genomics_careers_panel/research-development-and-other-opportunities/ | July 21, 2021
+6.  Bello, S and  **Vasilevsky, NA**, "Bridging the Phenotype Divide by Using Shared Patterns", ​​WSBO-2021: Workshop on Synergizing Biomedical Ontologies, Virtual, <https://github.com/OntoloBridge/WSBO/> , Recording: <https://youtu.be/L9Vfoxy1_2I>  | July 14, 2021
+7.  **Nicole Vasilevsky**. Mondo: The World's Disease Concepts, Unified. ClinGen Virtual Retreat 2021, https://mondo.monarchinitiative.org/pages/workshop/#june-2021 | June 24, 2021
+8.  **Nicole Vasilevsky**  and Chris Mungall. "Mondo: The world's disease concepts, unified", Presentation to ClinGen Biocurators Working Group meeting, <https://figshare.com/articles/presentation/Mondo_The_world_s_disease_concepts_unified/13132883> | October 22, 2020
+9.  Chris Mungall and **Nicole Vasilevsky**. "Introduction to Mondo", GA4GH Clinical & Phenotypic Data Capture & Exchange Work Stream  Webinar | June 18, 2020
+10.  **Nicole Vasilevsky**. "Data Harmonization and Common Data Elements", Planning a Virtual Down Syndrome Cohort Across the Lifespan Workshop (NIH), Potomac, MD, USA | September 23--24, 2019 <https://figshare.com/articles/Data_harmonization_and_common_data_elements/9897338>
+11. **Nicole Vasilevsky**. "Introduction to Ontologies", Exposures Workshop, Oregon State University, Corvallis, OR, USA. [figshare; 2019. doi:10.6084/m9.figshare.9793142.v1](https://figshare.com/articles/Introduction_to_Ontologies/9793142) | | September 09, 2019
+12. **Nicole Vasilevsky**. "Ontologies 101", CD2H Architecting Attribution meeting, Northwestern University | Chicago, IL, USA. <https://figshare.com/articles/Introduction_to_Ontologies/11338493> February 21, 2019
+13. Haendel M and **Vasilevsky N**. "Research Efficiency & Reproducibility: Leveraging Research Resources", Elsevier webinar, online | April 2014
 
 ### National: Conference Symposia, Papers, & Posters
 
-1.  **Nicole Vasilevsky**, Sabrina Toro, Nico A. Matentzoglu, Dazhi Jiao, Nomi L. Harris, Melissa A. Haendel, Peter N. Robinson, Chris Mungall. "Mondo Disease Ontology: Building a Community-Based Disease Resource" [Conference session]. AMIA 2022 Informatics Summit, Chicago, IL,, USA. | March 23, 2020
-2.  **Nicole Vasilevsky**, Nico Matentzoglu, Dazhi Jiao, Melissa Haendel, Peter Robinson, Chris Mungall. "Mondo Disease Ontology: harmonizing disease concepts across the world", [Poster presentation and Lightning Talk] Curating the Clinical Genome (virtual), <https://www.youtube.com/watch?v=uDTuLZBW4yI> |  May 12, 2021
+1. **Nicole Vasilevsky**, Sabrina Toro, Nico A. Matentzoglu, Dazhi Jiao, Nomi L. Harris, Melissa A. Haendel, Peter N. Robinson, Chris Mungall. "Mondo Disease Ontology: Building a Community-Based Disease Resource" [Conference session]. AMIA 2022 Informatics Summit, Chicago, IL,, USA., March 23, 2020
+1. **Nicole Vasilevsky**, Nico Matentzoglu, Dazhi Jiao, Melissa Haendel, Peter Robinson, Chris Mungall. "Mondo Disease Ontology: harmonizing disease concepts across the world", [Poster presentation and Lightning Talk] Curating the Clinical Genome (virtual), <https://www.youtube.com/watch?v=uDTuLZBW4yI> |  May 12, 2021
 3.  Callahan TJ, Wyrwa JM, **Vasilevsky NA**, Robinson PR, Haendel MA, Hunter LE, Kahn MG. "Ontologizing Health Systems at Scale: Making Translational Discovery a Reality." [Podium abstract] Virtual Joint Summits of the American Medical Informatics Association | 2021 
 4.  Allison P Heath, Yuankun Zhu, Michele Mattioni, Bailey Farrow, Jena Lilly, Yiran Guo, Jo Lynne Rokita, Phillip B Storm, Samuel L Volchenboum, Javad Nazarian, **Nicole Vasilevsky**, Jack DiGiovanna, Melissa Haendel, Robert L Grossman, Brandi Davis-Dusenbery, Deanne M Taylor, Vincent Ferretti, Adam Resnick. "EPID-14. Gabriella Miller Kids First Data Resource Center: Collaborative Platforms For Accelerating Research In Pediatric Cancers & Structural Birth Defects", Neuro-Oncology, Vol 22, Supplement_3, iii321-iii321 | December 2020
 5.  Leigh Carmody, Nico Matentzoglu, Lauren Chan, **Nicole Vasilevsky**, Hannah Blau, Michael Gargano and Peter Robinson. "Medical Action Ontology (MAxO) expansion to include COVID19 treatment terms. WCO-2020: Workshop on COVID-19 Ontologies", 8th Annual Workshop of the Clinical and Translational Science Ontology Group. Virtual conference | October 23, 2020 
