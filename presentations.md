@@ -158,13 +158,13 @@ REGIONAL AND LOCAL
 
 ### Regional and Local: Invited Presentations
 
-1.  **Vasilevsky, Nicole**.  "Data Science Resources for Anyone, Anywhere", NN/LM Pacific Northwest Region Rendezvous webinar, Figshare. https://doi.org/10.6084/m9.figshare.4892030.v1, April 19, 2017
-2.  **Vasilevsky N**., Wirz J. and Haendel MA. "Data Management 101", OHSU Program in Molecular and Cellular Biology Retreat| September 20, 2013, Welches, OR, USA. 
+1.  **Vasilevsky, Nicole**.  "Data Science Resources for Anyone, Anywhere", NN/LM Pacific Northwest Region Rendezvous webinar, Figshare. [Link here](https://doi.org/10.6084/m9.figshare.4892030.v1), April 19, 2017
+2.  **Vasilevsky N**., Wirz J. and Haendel MA. "Data Management 101", OHSU Program in Molecular and Cellular Biology Retreat, September 20, 2013, Welches, OR, USA. 
 3.  **Vasilevsky, N**. "eagle-i Software Demonstration." Western Association of Core Directors, Portland, OR, November 01, 2012
 
 ### Regional and Local: Conference Symposia, Papers, & Posters
 
-1.  **Vasilevsky, Nicole**; Keith, Daniel. "A match made in heaven: domain expert meets CSV; gives birth to ontologies", [Conference session]. csv,conf, v3, Portland, OR, USA, Figshare. <https://doi.org/10.6084/m9.figshare.4968119.v1>, May 03, 2017
+1.  **Vasilevsky, Nicole**; Keith, Daniel. "A match made in heaven: domain expert meets CSV; gives birth to ontologies", [Conference session]. csv,conf, v3, Portland, OR, USA, Figshare. [Link here](https://doi.org/10.6084/m9.figshare.4968119.v1), May 03, 2017
 2.  Erin Foster, Mark Engelstad, Chris Mungall, Peter Robinson, Sebastian Kohler, Melissa Haendel and **Nicole Vasilevsky**. "Empowering patients by increasing accessibility to clinical terminology", [Conference session]. Medical Library Association Pacific Northwest Chapter meeting, Portland, OR, USA, <http://www.slideshare.net/NicoleVasilevsky/empowering-patients-by-increasing-accessibility-to-clinical-terminology>, October 18, 2016
 3.  The Ontology Development Group. "The Ontology Development Group: A Visual Timeline", [Poster presentation]. OHSU BICC 25-year anniversary celebration. Portland, OR, USA. <https://dx.doi.org/10.6084/m9.figshare.4141797.v1>, October 28, 2016
 4.  **Nicole Vasilevsky**, Shannon McWeeney, William Hersh, David A. Dorr, Ted Laderas, Jackie Wirz, Bjorn Pederson, Melissa Haendel. "Improving Knowledge Discovery Through Development of Big Data to Knowledge Skills Courses and Open Educational Resources", [Poster presentation]. OHSU BICC 25-year anniversary celebration. Portland, OR, USA, <http://www.slideshare.net/NicoleVasilevsky/improving-knowledge-discovery-through-development-of-big-data-to-knowledge-skills-courses-and-open-educational-resources>, October 28, 2016
@@ -188,7 +188,7 @@ REGIONAL AND LOCAL
 3.  "Data and Donuts", Oregon Health & Science University, July 25, 2017.
 4.  "BD2K Clinical Risk Prediction Workshop", Oregon Health & Science University, May 15-16, 2017.
 5.  "Research Data Management Best Practices", OHSU Library Research Project Workshops, http://www.ohsu.edu/xd/education/library/Research-Project-Workshops.cfm , March 2017 
-6.  "Data and Donuts West", Oregon Health & Science University |  July 21, 2016.
+6.  "Data and Donuts West", Oregon Health & Science University, July 21, 2016.
 7.  "Data and Donuts", Oregon Health & Science University, https://dmice.ohsu.edu/bd2k/skillscourse/DonutsSchedule.html, June 28-29, 2016. 
 8.  "Advanced Data After Dark", Oregon Health & Science University, https://dmice.ohsu.edu/bd2k/skillscourse/May2016Schedule.html , May 23-26, 2016 
 9.  "Data After Dark", Oregon Health & Science University, https://dmice.ohsu.edu/bd2k/skillscourse/Jan2016Schedule.html, January 13-14, 2016 
