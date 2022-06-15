@@ -1,6 +1,8 @@
 PRESENTATIONS
 =============
 
+[SlideShare profile](https://www.slideshare.net/NicoleVasilevsky)
+
 International
 -------------
 
