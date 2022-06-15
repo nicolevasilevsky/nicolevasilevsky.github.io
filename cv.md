@@ -63,31 +63,34 @@ __Part-time Faculty__, Portland Community College, Bioscience Technology
 ## Project Webpages
 
 `2021 - Present`	
-Human Phenotype Ontology | [https://hpo.jax.org/app/](https://hpo.jax.org/app/)
+Human Phenotype Ontology | [hpo.jax.org/app](https://hpo.jax.org/app/)
 
 `2020 – 2022`	
-Center for Cancer Data Harmonization | [http://ccdh.cancer.gov](http://ccdh.cancer.gov)
+Center for Cancer Data Harmonization | [ccdh.cancer.gov](http://ccdh.cancer.gov)
 
 `2019 - 2022`	
-Kids First Data Resource Portal | [https://kidsfirstdrc.org/](https://kidsfirstdrc.org/)
+Kids First Data Resource Portal | [kidsfirstdrc.org](https://kidsfirstdrc.org/)
 
 `2016 - Present`	
-Mondo Disease Ontology | [https://mondo.monarchinitiative.org/](https://mondo.monarchinitiative.org/)
+Mondo Disease Ontology | [mondo.monarchinitiative.org](https://mondo.monarchinitiative.org/)
 
 `2015 - 2022`	
-CRAFT Corpus | [http://bionlp-corpora.sourceforge.net/CRAFT/](http://bionlp-corpora.sourceforge.net/CRAFT/)
+CRAFT Corpus | [bionlp-corpora.sourceforge.net/CRAFT](http://bionlp-corpora.sourceforge.net/CRAFT/)
+
+`2015 - Present`
+Force11 Attribution Working Group | [force11.org/groups/attribution-working-group](https://force11.org/groups/attribution-working-group/)
 
 `2014 - 2017` 	
-Big Data to Knowledge (BD2K) | [https://dmice.ohsu.edu/bd2k/](https://dmice.ohsu.edu/bd2k/)
+Big Data to Knowledge (BD2K) | [dmice.ohsu.edu/bd2k](https://dmice.ohsu.edu/bd2k/)
 
 `2012 – Present`	
-Monarch Initiative | [https://monarchinitiative.org](https://monarchinitiative.org) 
+Monarch Initiative | [monarchinitiative.org](https://monarchinitiative.org) 
 
 `2010 - 2012` 	
 eagle-i Network | [www.eagle-i.net](https://open.catalyst.harvard.edu/products/eagle-i/)
 
 `2010 – Present`	
-Translational and Integrative Sciences Laboratory | [https://tislab.org](https://tislab.org) 
+Translational and Integrative Sciences Laboratory | [tislab.org](https://tislab.org) 
 
 ## Website development
 
