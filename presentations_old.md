@@ -5,6 +5,7 @@ excerpt: "Presentations"
 ---
 ## Semantic Phenotyping of Diseases
 
+- **Using ontologies to standardize rare disease data collection**, Critical Path Institute RDCA-DAP Webinar series. June 14, 2022. Recording available [here](https://www.youtube.com/watch?v=vinZvwXqd_k) 
 - **Reclassification of Infectious Disease in the Mondo Disease Ontology** Poster presentation at International Conference for Biomedical Ontologies (ICBO), Virtual September 15, 2021. [Link here](https://figshare.com/articles/poster/ICBO_Poster_Mondo_Vasilevsky_2021-09-17_pdf/16892101) 
 - **Bridging the Phenotype Divide by Using Shared Patterns** Co-presentation with Sue Bello at WSBO2021 July 14, 2021. [Video here](https://youtu.be/L9Vfoxy1_2I)
 - **Mondo Disease Ontology: harmonizing disease concepts around the world.** Poster presentation and [Lightning Talk](https://www.youtube.com/watch?v=uDTuLZBW4yI) at Curating the Clinical Genome (virtual) conference. May 12, 2021.
