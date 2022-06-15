@@ -195,5 +195,5 @@ REGIONAL AND LOCAL
 10. "BD2K Skills Course", Oregon Health & Science University, July 2015
 11. "FOLIO Data Management Training", Oregon Health & Science University, 21 March 2015.
 12. "Data Wrangling workshop", OHSU, Portland, OR, May 2014.
-13. "Data Management 101", OHSU Program in Molecular and Cellular Biology Retreat, Welches, OR, September 20,  2013.
+13. "Data Management 101", OHSU Program in Molecular and Cellular Biology Retreat, Welches, OR, September 20, 2013.
 
