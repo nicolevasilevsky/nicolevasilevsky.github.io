@@ -1,7 +1,7 @@
 PRESENTATIONS
 =============
 
-[SlideShare profile](https://www.slideshare.net/NicoleVasilevsky)
+[Select presentations are available on SlideShare](https://www.slideshare.net/NicoleVasilevsky)
 
 International
 -------------
