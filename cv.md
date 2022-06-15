@@ -84,7 +84,7 @@ Big Data to Knowledge (BD2K) | [https://dmice.ohsu.edu/bd2k/](https://dmice.ohsu
 Monarch Initiative | [https://monarchinitiative.org](https://monarchinitiative.org) 
 
 `2010 - 2012` 	
-eagle-i Network | [www.eagle-i.net](www.eagle-i.net)
+eagle-i Network | [www.eagle-i.net](https://open.catalyst.harvard.edu/products/eagle-i/)
 
 `2010 – Present`	
 Translational and Integrative Sciences Laboratory | [https://tislab.org](https://tislab.org) 
