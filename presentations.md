@@ -1,5 +1,3 @@
-PRESENTATIONS
-=============
 
 [Select presentations are available on SlideShare](https://www.slideshare.net/NicoleVasilevsky)
 
