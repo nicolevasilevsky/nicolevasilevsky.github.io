@@ -91,13 +91,13 @@ Translational and Integrative Sciences Laboratory | [https://tislab.org](https:/
 
 ## Website development
 
-- International Society for Biocuration: [biocuration.org](biocuration.org) (Wordpress)
-- Women in Science PDX: [womeninsciencepdx.org/](https://womeninsciencepdx.org/) (Wordpress)
+- International Society for Biocuration: [biocuration.org](https://www.biocuration.org/) (Wordpress)
+- Women in Science PDX: [womeninsciencepdx.org](https://womeninsciencepdx.org/) (Wordpress)
 - Mondo Disease Ontology: [mondo.monarchinitiative.org](https://mondo.monarchinitiative.org/) (GitHub)
 - Phenomics Workshop Series: [monarch-initiative.github.io/phenomics/](https://monarch-initiative.github.io/phenomics/) (GitHub)
 - Force11: [force11.org](https://force11.org/) (Drupal)
 - OHSU Data Science Institute: [ohsulibrary-datascienceinstitute.github.io/](https://ohsulibrary-datascienceinstitute.github.io) (GitHub)
-- CTSAconnect: [ctsaconnect.org](www.ctsaconnect.org) (Drupal)
+- CTSAconnect: [ctsaconnect.org]([www.ctsaconnect.org](http://www.ctsaconnect.org/)) (Drupal)
 
 ## Select Publications
 
