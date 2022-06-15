@@ -4,6 +4,8 @@ title: Publications
 excerpt: "Publications"
 ---
 
+[Google scholar profile](https://scholar.google.com/citations?user=NqjaPaAAAAAJ&hl=en&oi=ao)
+
 ## Semantic Phenotyping of Diseases
 
 - Julius O. B. Jacobsen, Michael Baudis, Gareth S. Baynam, Jacques S. Beckmann, Sergi Beltran, Orion J. Buske, Tiffany J. Callahan, Christopher G. Chute, Mélanie Courtot, Daniel Danis, Olivier Elemento, Andrea Essenwanger, Robert R. Freimuth, Michael A. Gargano, Tudor Groza, Ada Hamosh, Nomi L. Harris, Rajaram Kaliyaperumal, Kevin C. Kent Lloyd, Aly Khalifa, Peter M. Krawitz, Sebastian Köhler, Brian J. Laraway, Heikki Lehväslaiho, Leslie Matalonga, Julie A. McMurry, Alejandro Metke-Jimenez, Christopher J. Mungall, Monica C. Munoz-Torres, Soichi Ogishima, Anastasios Papakonstantinou, Davide Piscia, Nikolas Pontikos, Núria Queralt-Rosinach, Marco Roos, Julian Sass, Paul N. Schofield, Dominik Seelow, Anastasios Siapos, Damian Smedley, Lindsay D. Smith, Robin Steinhaus, Jagadish Chandrabose Sundaramurthi, Emilia M. Swietlik, Sylvia Thun, Nicole A. Vasilevsky, Alex H. Wagner, Jeremy L. Warner, Claus Weiland, The GAGH Phenopacket Modeling Consortium, Melissa A. Haendel & Peter N. Robinson. **The GA4GH Phenopacket schema defines a computable representation of clinical data.** Nature Biotechnology, Vol 40, June 2022, 815–820 (2022). Preprint available [here](https://doi.org/10.1101/2021.11.27.21266944). Paper available [here](https://www.nature.com/articles/s41587-022-01357-4).
