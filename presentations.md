@@ -14,7 +14,7 @@ International
 
 ### International:  Conference Symposia, Papers, & Posters
 
-1.  Callahan TJ, Baumgartner WA, Matenzoglu NA, **Vasilevsky NA**, Hunter LE, Kahn MG. "Assessing ontology fitness for use with the Harmonized Data Quality Framework", Paper; Annual International Conference on Intelligent Systems for Molecular Biology, Madison, WI |  July 2022 
+1.  Callahan TJ, Baumgartner WA, Matenzoglu NA, **Vasilevsky NA**, Hunter LE, Kahn MG. "Assessing ontology fitness for use with the Harmonized Data Quality Framework", Paper; Annual International Conference on Intelligent Systems for Molecular Biology, Madison, WI,  July 2022 
 2.  **Nicole Vasilevsky**. "Curating clinical phenotypes in PHACE Syndrome to reveal disease mechanisms", [Poster presentation], Biocuration 2021, October 05, 2021
 3.  Sabrina Toro, Nico Matentzoglu, Melissa Haendel, Chris Mungall, **Nicole Vasilevsky**. "Reclassification and Axiomatization of Chromosomal Anomaly Diseases in the Mondo Ontology", [Poster presentation], Biocuration 2021, October 05, 2021
 4.  **Nicole Vasilevsky**, Sabrina Toro, Nicolas Matentzoglu, Dazhi Jiao, Melissa Haendel, Peter Robinson and Chris Mungall. "Reclassification of Infectious Disease in the Mondo Disease Ontology", [Flash talk and Poster presentation], International Conference on Biomedical Ontology (ICBO), September 17, 2021. http://ceur-ws.org/Vol-3073/paper14.pdf 
