@@ -1,5 +1,5 @@
 
-[Select presentations are available on SlideShare](https://www.slideshare.net/NicoleVasilevsky)
+Select presentations are available on [SlideShare](https://www.slideshare.net/NicoleVasilevsky) and [FigShare](https://figshare.com/authors/Nicole_Vasilevsky/445404)
 
 ## Semantic Phenotyping of Diseases
 
