@@ -5,7 +5,9 @@ excerpt: "Teaching"
 ---
 
 ## Ontologies
+- ** OBO Academy**. Biweekly trainings offered to members of the Monarch Initiative. 2021 - present. [Link here](https://oboacademy.github.io/obook/)
 - **ICBO 2021 Tutorial**. Workshop at International Conference for Biomedical Ontologies (ICBO), Virtual, September 15, 2021. [Link here](https://oboacademy.github.io/obook/tutorial/icbo2021/)
+- Ontology Engineering course, Critical Path Institute. Hired consultant to design and offer a tutorial for employees of the Critical Path Institute. April - July 2021. [Link here](https://github.com/OBOAcademy/obook/tree/master/archive_original_cpath_course )
 - **Cell Ontology Tutorial**. A virtual training on September 24 and October 01, 2020. [Link here](https://github.com/obophenotype/cell-ontology-training/blob/master/README.md)
 - **Introduction to Ontologies**. Computable Exposures Workshop, Oregon State University, September 09, 2019. [Link here](https://docs.google.com/presentation/d/1zyxh8PdPX__rqjntuQdJH0dgUOinv6QB/edit#slide=id.p1)
 - **Monarch Disease Ontology workshop**, Co-organizer, Broad Institute, Cambridge, MA, November 27-28, 2018.
