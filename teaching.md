@@ -5,7 +5,7 @@ excerpt: "Teaching"
 ---
 
 ## Ontologies
-- ** OBO Academy**. Biweekly trainings offered to members of the Monarch Initiative. 2021 - present. [Link here](https://oboacademy.github.io/obook/)
+- **OBO Academy**. Biweekly trainings offered to members of the Monarch Initiative. 2021 - present. [Link here](https://oboacademy.github.io/obook/)
 - **ICBO 2021 Tutorial**. Workshop at International Conference for Biomedical Ontologies (ICBO), Virtual, September 15, 2021. [Link here](https://oboacademy.github.io/obook/tutorial/icbo2021/)
 - Ontology Engineering course, Critical Path Institute. Hired consultant to design and offer a tutorial for employees of the Critical Path Institute. April - July 2021. [Link here](https://github.com/OBOAcademy/obook/tree/master/archive_original_cpath_course )
 - **Cell Ontology Tutorial**. A virtual training on September 24 and October 01, 2020. [Link here](https://github.com/obophenotype/cell-ontology-training/blob/master/README.md)
