@@ -59,6 +59,7 @@ excerpt: "Publications"
 
 ## Education and Training
 
+- Nicole Vasilevsky, James Overton, Rebecca Jackson, Sabrina Toro, Shawn Tan, Bradley Varner, David Osumi-Sutherland, & Nicolas Matentzoglu. (2022, August 3). **OBO Academy: Training materials for bio-ontologists.** 2022 ISMB Bio-Ontologies Community, Madison, WI. [Link here](https://doi.org/10.5281/zenodo.6955490)
 -	Ted Laderas, Nicole Vasilevsky, Bjorn Pederson, Melissa Haendel, Shannon McWeeney, David Dorr (2017): **Teaching data science fundamentals through realistic synthetic clinical cardiovascular data.** BioRxiv preprint: doi: https://doi.org/10.1101/232611  
 -	Nicole Vasilevsky, Morgan Schafer, Deanne Tibbitts, Kirsten Wright and Heather Zwickey. **Curriculum Development of a Research Laboratory Methodology Course for Complementary and Integrative Medicine Students**. (2015) Medical Science Educator. DOI:10.1007/s40670-015-0113-y
 
