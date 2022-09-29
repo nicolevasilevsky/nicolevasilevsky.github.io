@@ -3,6 +3,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Semantic Phenotyping of Diseases
 
+1. **Vasilevsky N**. “Standardizing Rare Disease Data Collection: It Takes an (Ontology) Village”, [Keynote address]. 4th U.S. Semantic Technologies Symposium, East Lansing, MI, USA | September 29, 2022. https://doi.org/10.5281/zenodo.7125341
 1.  Sabrina Toro, **Nicole Vasilevsky** and Nico Matentzoglu. Using the Mondo Disease Ontology for disease data curation, [Co-organizer], Workshop at Curating the Clinical Genome Conference, June 08, 2022 
 1. **Nicole Vasilevsky**, Sabrina Toro, Nico A. Matentzoglu, Dazhi Jiao, Nomi L. Harris, Melissa A. Haendel, Peter N. Robinson, Chris Mungall. "Mondo Disease Ontology: Building a Community-Based Disease Resource" [Conference session]. AMIA 2022 Informatics Summit, Chicago, IL,, USA., March 23, 2022
 1.  "Mondo Clinical Reclassification Workshop Part 2", Co-organizer, <https://mondo.monarchinitiative.org/pages/workshop/#november-2021>, November 17th, 2021
