@@ -63,6 +63,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Biomedical Ontologies and Bioinformatics
 
+1. James A. Overton, Rebecca Jackson, Chris Mungall, **Nicole Vasilevsky**, Nicolas Matentzoglu and Randi Vita, “OBO Tutorial: Using and Reusing Ontologies”, Ann Arbor, MI | September 26, 2022
 1.  Callahan TJ, Baumgartner WA, Matenzoglu NA, **Vasilevsky NA**, Hunter LE, Kahn MG. "Assessing ontology fitness for use with the Harmonized Data Quality Framework", Paper; Annual International Conference on Intelligent Systems for Molecular Biology, Madison, WI,  July 2022 
 1. **Nicole Vasilevsky**. "Using ontologies to standardize rare disease data collection", Critical Path Institute RDCA-DAP Webinar series. June 14, 2022. Recording available [here](https://www.youtube.com/watch?v=vinZvwXqd_k) 
 1. **Vasilevsky N**. "Ontologies 101: Standardize your data using ontologies", University of Colorado Lunch and Learn, Virtual, December 15, 2021.
