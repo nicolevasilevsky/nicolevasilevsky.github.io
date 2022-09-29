@@ -90,6 +90,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Biocuration 
 
+1. “Biocuration Careers Workshop, Lead organizer, virtual | September 21, 2022, https://zenodo.org/record/7102460#.YyuIBOzML6M
 1. **Nicole Vasilevsky**. "Research, Development, and Other Opportunities", ClinGen Clinical Genomics Careers Panels Series, Virtual, July 19, 2022 
 1.  **Vasilevsky N**. "International Society for Biocuration Annual General Meeting", 14th International Society for Biocuration Conference, Virtual, October 05, 2021. F1000Research 2021, 10:1043 (slides) (doi: 10.7490/f1000research.1118824.1) [version 1; not peer reviewed]
 1.  Equality, Diversity, and Inclusion in Biocuration Webinar, Biocuration 2021,  Co-organizer, August 17, 2021
