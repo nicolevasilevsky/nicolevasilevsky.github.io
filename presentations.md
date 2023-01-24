@@ -65,6 +65,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Biomedical Ontologies and Bioinformatics
 
+1. **Nicole Vasilevsky**, “Using Ontologies: Tutorial on Finding and Requesting Ontology Terms”, Environmental Health Language Collaborative 2023 Workshop: Sharing Your Environmental Health Sciences (EHS) Data: Metadata, Standards, and Tools, Virtual | January 19, 2023, Slides available [here](https://zenodo.org/record/7563499#.Y88xLezMJ6o)
 1. James A. Overton, Rebecca Jackson, Chris Mungall, **Nicole Vasilevsky**, Nicolas Matentzoglu and Randi Vita, “OBO Tutorial: Using and Reusing Ontologies”, Ann Arbor, MI | September 26, 2022
 1.  Callahan TJ, Baumgartner WA, Matenzoglu NA, **Vasilevsky NA**, Hunter LE, Kahn MG. "Assessing ontology fitness for use with the Harmonized Data Quality Framework", Paper; Annual International Conference on Intelligent Systems for Molecular Biology, Madison, WI,  July 2022 
 1. **Nicole Vasilevsky**. "Using ontologies to standardize rare disease data collection", Critical Path Institute RDCA-DAP Webinar series. June 14, 2022. Recording available [here](https://www.youtube.com/watch?v=vinZvwXqd_k) 
