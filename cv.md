@@ -2,10 +2,10 @@
 layout: resume
 title: Currently
 ---
-Visiting Associate Research Professor, [Center for Health AI](https://medschool.cuanschutz.edu/ai)
+Associate Director of Data Science, [Critical Path Institute](https://c-path.org/)
 
-Biocurator and Ontologist, [Translational and Integrative Sciences Lab](https://tislab.org/)  
-[University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/)  
+[Mondo Disease Ontology](https://mondo.monarchinitiative.org/) Lead Curator, [Translational and Integrative Sciences Lab](https://tislab.org/)  
+
 Based in Portland, Oregon  
 
 ## Education
