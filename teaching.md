@@ -5,6 +5,7 @@ excerpt: "Teaching"
 ---
 
 ## Ontologies
+- **OBO Tutorial: Using and Reusing Ontologies**, Ann Arbor, MI | September 26, 2022
 - **OBO Academy**. Biweekly trainings offered to members of the Monarch Initiative. 2021 - present. [Link here](https://oboacademy.github.io/obook/)
 - **ICBO 2021 Tutorial**. Workshop at International Conference for Biomedical Ontologies (ICBO), Virtual, September 15, 2021. [Link here](https://oboacademy.github.io/obook/tutorial/icbo2021/)
 - **Ontology Engineering course, Critical Path Institute**. Hired as a consultant to design and offer a tutorial for employees of the Critical Path Institute. April - July 2021. [Link here](https://github.com/OBOAcademy/obook/tree/master/archive_original_cpath_course )
@@ -22,6 +23,7 @@ excerpt: "Teaching"
 - **GitHub Tutorial**, Oregon Health & Science University Library Staff, February 08, 2017. 
 
 ## Biocuration
+- **Biocuration Careers Workshop**, virtual | September 21, 2022, [Link here](https://zenodo.org/record/7102460#.YyuIBOzML6M)
 - **Equality, Diversity and Inclusion Worksop**. Workshop at Biocuration 2018 conference, Cambridge, UK, April 07-10, 2019. Link [here](https://f1000research.com/slides/8-527)
 - **Careers in Biocuration: An overview of the current status, challenges and goals in the biocuration field**. Workshop at Biocuration 2018 conference, Shanghai, China, April 09, 2018. Link [here](https://doi.org/10.6084/m9.figshare.6146429.v1)
 - **Data annotation and curation**, Open Educational Resource. [Link here](https://github.com/OHSUBD2K/BDK12-Data-annotation-and-curation)
