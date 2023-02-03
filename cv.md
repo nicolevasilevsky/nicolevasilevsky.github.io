@@ -20,7 +20,10 @@ PhD, Cell Biology
 
 ## Professional Experience
 
-`Current` 
+`Current`
+__Associate Director of Data Science__, Critical Path Institute
+
+`2021-2023` 
 __Visiting Associate Research Professor__, University of Colorado Anschutz Medical Campus  
 
 - Lead Biocurator  
