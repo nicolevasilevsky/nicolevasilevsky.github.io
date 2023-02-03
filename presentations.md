@@ -4,10 +4,10 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 ## Semantic Phenotyping of Diseases
 
 1. Sabrina Toro, Kathleen R. Mullen, Nicolas Matentzoglu, Imke Tammen, Frank W. Nicholas, Halie M. Rando, **Nicole A. Vasilevsky**, Christopher J. Mungall and Melissa Haendel, “Harnessing veterinary data to drive precision medicine: Expanding the Mondo Disease Ontology and Creating the Vertebrate Breed Ontology”, [Poster Presentation] Biocuration 2023, Padua, Italy, April 2023
-1. **Vasilevsky N**. “Standardizing Rare Disease Data Collection: It Takes an (Ontology) Village”, [Keynote address]. 4th U.S. Semantic Technologies Symposium, East Lansing, MI, USA | September 29, 2022. https://doi.org/10.5281/zenodo.7125341
-1. **Nicole Vasilevsky**. “Using the Mondo Disease Ontology to Standardize Rare Disease Nomenclature”, FDA Office of Orphan Products Development, Virtual, | September 21, 2022, https://zenodo.org/record/7102403#.Yyt_s-zML6M 
+1. **Vasilevsky N**. “Standardizing Rare Disease Data Collection: It Takes an (Ontology) Village”, [Keynote address]. 4th U.S. Semantic Technologies Symposium, East Lansing, MI, USA, September 29, 2022. https://doi.org/10.5281/zenodo.7125341
+1. **Nicole Vasilevsky**. “Using the Mondo Disease Ontology to Standardize Rare Disease Nomenclature”, FDA Office of Orphan Products Development, Virtual, September 21, 2022, https://zenodo.org/record/7102403#.Yyt_s-zML6M 
 1. Sabrina Toro, **Nicole Vasilevsky** and Nico Matentzoglu. Using the Mondo Disease Ontology for disease data curation, [Co-organizer], Workshop at Curating the Clinical Genome Conference, June 08, 2022 
-1. “Comparative Veterinary Informatics Workshop”, Co-lead organizer, Aurora, CO, https://monarch-initiative.github.io/phenomics/pages/veterinary.html | May 23-24, 2022
+1. “Comparative Veterinary Informatics Workshop”, Co-lead organizer, Aurora, CO, https://monarch-initiative.github.io/phenomics/pages/veterinary.html, May 23-24, 2022
 1. **Nicole Vasilevsky**, Sabrina Toro, Nico A. Matentzoglu, Dazhi Jiao, Nomi L. Harris, Melissa A. Haendel, Peter N. Robinson, Chris Mungall. "Mondo Disease Ontology: Building a Community-Based Disease Resource" [Conference session]. AMIA 2022 Informatics Summit, Chicago, IL,, USA., March 23, 2022
 1.  "Mondo Clinical Reclassification Workshop Part 2", Co-organizer, <https://mondo.monarchinitiative.org/pages/workshop/#november-2021>, November 17th, 2021
 1. "uPheno Workshop", Biocuration 2021, Co-organizer, November 15, 2021
@@ -66,8 +66,8 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Biomedical Ontologies and Bioinformatics
 
-1. **Nicole Vasilevsky**, “Using Ontologies: Tutorial on Finding and Requesting Ontology Terms”, Environmental Health Language Collaborative 2023 Workshop: Sharing Your Environmental Health Sciences (EHS) Data: Metadata, Standards, and Tools, Virtual | January 19, 2023, Slides available [here](https://zenodo.org/record/7563499#.Y88xLezMJ6o)
-1. James A. Overton, Rebecca Jackson, Chris Mungall, **Nicole Vasilevsky**, Nicolas Matentzoglu and Randi Vita, “OBO Tutorial: Using and Reusing Ontologies”, Ann Arbor, MI | September 26, 2022
+1. **Nicole Vasilevsky**, “Using Ontologies: Tutorial on Finding and Requesting Ontology Terms”, Environmental Health Language Collaborative 2023 Workshop: Sharing Your Environmental Health Sciences (EHS) Data: Metadata, Standards, and Tools, Virtual, January 19, 2023, Slides available [here](https://zenodo.org/record/7563499#.Y88xLezMJ6o)
+1. James A. Overton, Rebecca Jackson, Chris Mungall, **Nicole Vasilevsky**, Nicolas Matentzoglu and Randi Vita, “OBO Tutorial: Using and Reusing Ontologies”, Ann Arbor, MI, September 26, 2022
 1.  Callahan TJ, Baumgartner WA, Matenzoglu NA, **Vasilevsky NA**, Hunter LE, Kahn MG. "Assessing ontology fitness for use with the Harmonized Data Quality Framework", Paper; Annual International Conference on Intelligent Systems for Molecular Biology, Madison, WI,  July 2022 
 1. **Nicole Vasilevsky**. "Using ontologies to standardize rare disease data collection", Critical Path Institute RDCA-DAP Webinar series. June 14, 2022. Recording available [here](https://www.youtube.com/watch?v=vinZvwXqd_k) 
 1. **Vasilevsky N**. "Ontologies 101: Standardize your data using ontologies", University of Colorado Lunch and Learn, Virtual, December 15, 2021.
@@ -95,7 +95,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 1. **Nicole Vasilevsky** and Randi Vita, “Careers in Biocuration”, Biocuration 2023, Padua, Italy, April 26, 2023.
 1. Ruth Lovering, Rama Balakrishnan, Susan Bello, Parul Gupta, Robin Haw, Tarcisio Mendes de Farias, Sushma Naithani, Federica Quaglia, Raul Rodriguez-Esteban, Mary Ann Tuli and **Nicole Vasilevsky**, “Join the International Society for Biocuration Community”, Biocuration 2023, Padua, Italy, April 2023
-1. “Biocuration Careers Workshop, Lead organizer, virtual | September 21, 2022, https://zenodo.org/record/7102460#.YyuIBOzML6M
+1. “Biocuration Careers Workshop, Lead organizer, virtual, September 21, 2022, https://zenodo.org/record/7102460#.YyuIBOzML6M
 1. **Nicole Vasilevsky**. "Research, Development, and Other Opportunities", ClinGen Clinical Genomics Careers Panels Series, Virtual, July 19, 2022 
 1.  **Vasilevsky N**. "International Society for Biocuration Annual General Meeting", 14th International Society for Biocuration Conference, Virtual, October 05, 2021. F1000Research 2021, 10:1043 (slides) (doi: 10.7490/f1000research.1118824.1) [version 1; not peer reviewed]
 1.  Equality, Diversity, and Inclusion in Biocuration Webinar, Biocuration 2021,  Co-organizer, August 17, 2021
