@@ -65,7 +65,7 @@ __Part-time Faculty__, Portland Community College, Bioscience Technology
 
 ## Project Webpages
 
-`2021 - Present`	
+`2021 - 2023`	
 Human Phenotype Ontology | [hpo.jax.org/app](https://hpo.jax.org/app/)
 
 `2020 – 2022`	
@@ -80,7 +80,7 @@ Mondo Disease Ontology | [mondo.monarchinitiative.org](https://mondo.monarchinit
 `2015 - 2022`	
 CRAFT Corpus | [bionlp-corpora.sourceforge.net/CRAFT](http://bionlp-corpora.sourceforge.net/CRAFT/)
 
-`2015 - Present`
+`2015 - 2022`
 Force11 Attribution Working Group | [force11.org/groups/attribution-working-group](https://force11.org/groups/attribution-working-group/)
 
 `2014 - 2017` 	
