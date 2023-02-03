@@ -3,6 +3,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Semantic Phenotyping of Diseases
 
+1. Sabrina Toro, Kathleen R. Mullen, Nicolas Matentzoglu, Imke Tammen, Frank W. Nicholas, Halie M. Rando, **Nicole A. Vasilevsky**, Christopher J. Mungall and Melissa Haendel, “Harnessing veterinary data to drive precision medicine: Expanding the Mondo Disease Ontology and Creating the Vertebrate Breed Ontology”, [Poster Presentation] Biocuration 2023, Padua, Italy, April 2023
 1. **Vasilevsky N**. “Standardizing Rare Disease Data Collection: It Takes an (Ontology) Village”, [Keynote address]. 4th U.S. Semantic Technologies Symposium, East Lansing, MI, USA | September 29, 2022. https://doi.org/10.5281/zenodo.7125341
 2. **Nicole Vasilevsky**. “Using the Mondo Disease Ontology to Standardize Rare Disease Nomenclature”, FDA Office of Orphan Products Development, Virtual, | September 21, 2022, https://zenodo.org/record/7102403#.Yyt_s-zML6M 
 3.  Sabrina Toro, **Nicole Vasilevsky** and Nico Matentzoglu. Using the Mondo Disease Ontology for disease data curation, [Co-organizer], Workshop at Curating the Clinical Genome Conference, June 08, 2022 
@@ -92,6 +93,8 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Biocuration 
 
+1. **Nicole Vasilevsky** and Randi Vita, “Careers in Biocuration”, Biocuration 2023, Padua, Italy, April 26, 2023.
+1. Ruth Lovering, Rama Balakrishnan, Susan Bello, Parul Gupta, Robin Haw, Tarcisio Mendes de Farias, Sushma Naithani, Federica Quaglia, Raul Rodriguez-Esteban, Mary Ann Tuli and **Nicole Vasilevsky**, “Join the International Society for Biocuration Community”, Biocuration 2023, Padua, Italy, April 2023
 1. “Biocuration Careers Workshop, Lead organizer, virtual | September 21, 2022, https://zenodo.org/record/7102460#.YyuIBOzML6M
 1. **Nicole Vasilevsky**. "Research, Development, and Other Opportunities", ClinGen Clinical Genomics Careers Panels Series, Virtual, July 19, 2022 
 1.  **Vasilevsky N**. "International Society for Biocuration Annual General Meeting", 14th International Society for Biocuration Conference, Virtual, October 05, 2021. F1000Research 2021, 10:1043 (slides) (doi: 10.7490/f1000research.1118824.1) [version 1; not peer reviewed]
