@@ -3,6 +3,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Semantic Phenotyping of Diseases
 
+1. Leigh C Carmody, Michael Gargano, **Nicole A Vasilevsky**, Sabrina Toro, Lauren Chan, Hannah Blau, Xingmin A. Zhang, Monica C Munoz-Torres, Chris Mungall, Nicolas Matentzoglu, Melissa Haendel, Peter Robinson. “Medical Action Ontology (MAxO) development and tool implementation for the annotation of Rare Disease (RD)”  [Presentation] Biocuration 2023, Padua, Italy, April 2023.
 1. Sabrina Toro, Kathleen R. Mullen, Nicolas Matentzoglu, Imke Tammen, Frank W. Nicholas, Halie M. Rando, **Nicole A. Vasilevsky**, Christopher J. Mungall and Melissa Haendel, “Harnessing veterinary data to drive precision medicine: Expanding the Mondo Disease Ontology and Creating the Vertebrate Breed Ontology”, [Poster Presentation] Biocuration 2023, Padua, Italy, April 2023
 1. **Vasilevsky N**. “Standardizing Rare Disease Data Collection: It Takes an (Ontology) Village”, [Keynote address]. 4th U.S. Semantic Technologies Symposium, East Lansing, MI, USA, September 29, 2022. https://doi.org/10.5281/zenodo.7125341
 1. **Nicole Vasilevsky**. “Using the Mondo Disease Ontology to Standardize Rare Disease Nomenclature”, FDA Office of Orphan Products Development, Virtual, September 21, 2022, https://zenodo.org/record/7102403#.Yyt_s-zML6M 
