@@ -130,6 +130,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Education and Training
 
+1. **Nicole Vasilevsky**, James Overton, Rebecca Jackson, Sabrina Toro, Shawn Tan, David Osumi-Sutherland, Nicolas Matentzoglu. “OBO Academy: Training materials for Bio-ontologists.” [Invited Virtual Talk], OntoCommons, Oslo, Sweden. June 14, 2023. 
 1. James Overton, Rebecca Jackson, Sabrina Toro, Shawn Tan, Bradley Varner, David Osumi-Sutherland, Nicolas Matentzoglu, **Nicole Vasilevsky**. “OBO Academy: Training materials for Bio-ontologists.” [Lightning talk and Poster presentation] ICBO, Ann Arbor, MI. September 27, 2022. https://zenodo.org/record/7116623#.YzMDz-zMJJE
 1. **Nicole Vasilevsky**, Teaching Data Science to Undergraduate Students. [Conference session]. From Evidence to Scholarship Conference, Reed College, Portland, OR. Slideshare: <https://www.slideshare.net/NicoleVasilevsky/teaching-data-science-to-undergraduate-students>, January 22-24, 2019
 1.  **Nicole Vasilevsky**, Shannon McWeeney, William Hersh, David A. Dorr, Ted Laderas, Jackie Wirz, Bjorn Pederson, Melissa Haendel. "Improving Knowledge Discovery Through Development of Big Data to Knowledge Skills Courses and Open Educational Resources", [Poster presentation]. OHSU BICC 25-year anniversary celebration. Portland, OR, USA, <http://www.slideshare.net/NicoleVasilevsky/improving-knowledge-discovery-through-development-of-big-data-to-knowledge-skills-courses-and-open-educational-resources>, October 28, 2016
