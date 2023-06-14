@@ -75,6 +75,7 @@ excerpt: "Publications"
 
 ## Open Science and Scientific Reproducibility
 
+- Harris NL, Hokamp K, Ménager H, Monica Munoz-Torres, Deepak Unni, Nicole Vasilevsky, Jason Williams. **BOSC 2022: the first hybrid and 23rd annual Bioinformatics Open Source Conference** [version 1; peer review: not peer reviewed]. F1000Research 2022, 11:1034 (https://doi.org/10.12688/f1000research.125043.1)
 - David B Resnik, Melissa Morales, Rachel Landrum, Min Shi, Jessica Minnier, Nicole A. Vasilevsky & Robin E. Champieux (2019) **Effect of Impact Factor and Discipline on Journal Data Sharing Policies**, Accountability in Research, DOI: 10.1080/08989621.2019.1591277. [Link here](https://www.tandfonline.com/doi/full/10.1080/08989621.2019.1591277)
 - Vasilevsky NA, Minnier J, Haendel MA, Champieux RE. (2017) **Reproducible and reusable research: Are journal data sharing policies meeting the mark?** PeerJ 5:e3208; DOI 10.7717/peerj.3208 (Preprint available at: https://doi.org/10.7287/peerj.preprints.2588v1)  
 -	Nicole A. Vasilevsky, Matthew H. Brusfh, Holly Paddock, Laura Ponting, Shreejoy J. Tripathy, Gregory M. LaRocca, Melissa A. Haendel (2013) **On the reproducibility of science: Unique Identification of Research Resources in the Biomedical Literature.** PeerJ. https://peerj.com/articles/148/ 
