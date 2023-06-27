@@ -67,6 +67,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Biomedical Ontologies and Bioinformatics
 
+1. Imke Tammen, Marius Mather, Sabrina Toro, Kathleen R. Mullen, Halie M. Rando, **Nicole Vasilevsky**, Nico Matentzoglu, Melissa Haendel, Zhi-Liang Hu, Carissa A. Park, Gregoire Leroy, Frank W. Nicholas. “OMIA: Introducing OMIA variant IDs and the Vertebrate Breed Ontology” [Poster Presentation] ISAG conference, July 2023.
 1. **Nicole Vasilevsky**, “Using Ontologies: Tutorial on Finding and Requesting Ontology Terms”, Environmental Health Language Collaborative 2023 Workshop: Sharing Your Environmental Health Sciences (EHS) Data: Metadata, Standards, and Tools, Virtual, January 19, 2023, Slides available [here](https://zenodo.org/record/7563499#.Y88xLezMJ6o)
 1. James A. Overton, Rebecca Jackson, Chris Mungall, **Nicole Vasilevsky**, Nicolas Matentzoglu and Randi Vita, “OBO Tutorial: Using and Reusing Ontologies”, Ann Arbor, MI, September 26, 2022
 1.  Callahan TJ, Baumgartner WA, Matenzoglu NA, **Vasilevsky NA**, Hunter LE, Kahn MG. "Assessing ontology fitness for use with the Harmonized Data Quality Framework", Paper; Annual International Conference on Intelligent Systems for Molecular Biology, Madison, WI,  July 2022 
