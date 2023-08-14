@@ -3,10 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a senior at Basis Tucson North and interested in STEM as well as sociology 
 
-## Current Interests and Projects:
+## Current Interests and Proj
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- data science
+- [GitHub Pages]
+- President of NAACP youth council
+- National honors society officer
+- Worship leader
+  
