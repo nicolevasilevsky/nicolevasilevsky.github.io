@@ -1,7 +1,7 @@
 ---
-layout: presentation-post-index
-title: Presentations
-excerpt: "Recent Presentations"
+layout: coursewrk-post-index
+title: Coursework
+excerpt: "Recent Coursework"
 ---
 
 # Senior year
