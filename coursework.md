@@ -1,5 +1,5 @@
 ---
-layout: coursewrk-post-index
+layout: page
 title: Coursework
 excerpt: "Recent Coursework"
 ---
