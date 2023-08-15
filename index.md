@@ -5,10 +5,10 @@ excerpt: "About Me..."
 
 I am a senior at Basis Tucson North and interested in STEM as well as sociology 
 
-## Current Interests and Proj
+## Current Interests and Projects
 
 - data science
-- [GitHub Pages]
+- Performed independent research in aging lab  at the University of Arizona
 - President of NAACP youth council
 - National honors society officer
 - Worship leader
