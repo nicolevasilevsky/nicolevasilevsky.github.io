@@ -6,3 +6,6 @@ excerpt: "Recent Coursework"
 
 # Senior year
 - Capstone pre-law
+- Cpstone Organic Chemistry
+- Capstone Financial Mathmatics
+- College counciling
