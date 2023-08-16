@@ -65,6 +65,9 @@ __Part-time Faculty__, Portland Community College, Bioscience Technology
 
 ## Project Webpages
 
+`2023 - Present`
+Rare Disease Cures Accelerator - Data and Analytics Platform (RDCA-DAP)|[https://c-path.org/programs/rdca-dap/](https://c-path.org/programs/rdca-dap/)
+
 `2021 - 2023`	
 Human Phenotype Ontology | [hpo.jax.org/app](https://hpo.jax.org/app/)
 
@@ -98,7 +101,7 @@ Translational and Integrative Sciences Laboratory | [tislab.org](https://tislab.
 ## Website development
 
 - International Society for Biocuration: [biocuration.org](https://www.biocuration.org/) (Wordpress)
-- Women in Science PDX: [womeninsciencepdx.org](https://womeninsciencepdx.org/) (Wordpress)
+- Women in Science PDX: [womeninsciencepdx.org](https://womeninsciencepdx.org/) (Wordpress, currently Squarespace)
 - Mondo Disease Ontology: [mondo.monarchinitiative.org](https://mondo.monarchinitiative.org/) (GitHub)
 - Phenomics Workshop Series: [monarch-initiative.github.io/phenomics/](https://monarch-initiative.github.io/phenomics/) (GitHub)
 - Force11: [force11.org](https://force11.org/) (Drupal)
