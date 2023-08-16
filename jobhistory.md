@@ -5,6 +5,12 @@ layout: resume
 `Current`
 __Data science intern__, Critical Path Institute
 
+`current`
+__Certified babysitter__
+
 `2022`
-__KEYS internship__, University of Arizona
+ __KEYSinternship__, University of Arizona
+
+`2021-2022`
+ __Chick-fil-a employee__
 
