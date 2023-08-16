@@ -66,7 +66,7 @@ __Part-time Faculty__, Portland Community College, Bioscience Technology
 ## Project Webpages
 
 `2023 - Present`
-Rare Disease Cures Accelerator - Data and Analytics Platform (RDCA-DAP)|[https://c-path.org/programs/rdca-dap/](https://c-path.org/programs/rdca-dap/)
+Rare Disease Cures Accelerator - Data and Analytics Platform (RDCA-DAP) | [https://c-path.org/programs/rdca-dap/](https://c-path.org/programs/rdca-dap/)
 
 `2021 - 2023`	
 Human Phenotype Ontology | [hpo.jax.org/app](https://hpo.jax.org/app/)
@@ -205,15 +205,17 @@ Abstract review for AMIA conference
 
 ##### International/National   
 
-`2020-present` 
-International Society for Biocuration, Executive Committee Chair  
+`2023-present`  
+[GA4GH](https://www.ga4gh.org/) Rare Disease Community Working Group, Co-Lead  
+`2020-present`  
+International Society for Biocuration, Executive Committee (Six year-elected position)
 `2019- 2020`
 Scientific Committee, [Biocuration 2020 conference](https://www.jax.org/education-and-learning/education-calendar/2020/05-may/biocuration-2020-conference)  
-`2018- present` 
+`2018-2019` 
 Semantic Architecture Advisory Committee, National Cancer Institute  
-`2017-present` 
-International Society for Biocuration, Executive Committee (Six year elected position)  
-`2017-present` 
+`2019-2021` 
+International Society for Biocuration, Executive Committee Chair  
+`2017-2019` 
 International Society for Biocuration, Executive Committee Secretary  
 `2017-present` 
 International Society for Biocuration Awards Committee, Chair  
@@ -236,8 +238,8 @@ Logistics Committee, Force2015 Conference
 
 ##### Regional  
 
-`2017-present` 
-Institutional Review Board committee, National University of Natural Medicine
+`2017-2020` 
+Institutional Review Board Committee, National University of Natural Medicine
 
 ##### Departmental  
 
@@ -254,7 +256,7 @@ Library Communications Committee, Oregon Health & Science University Library
 
 ##### Community Service:  
 
-`2020-present` 
+`2020-2021` 
 Member, Oregon Health & Science University, Department of Medical Informatics and Clinical Epidemiology Diversity Committee     
 `2018-present` 
 Member, Women in Science, Communications Committee  
@@ -269,6 +271,6 @@ Volunteer, Oregon Bioscience Association
 
 <!-- ### Footer
 
-Last updated: Dec 2018 -->
+Last updated: Aug 15, 2023 -->
 
 
