@@ -141,7 +141,7 @@ See [Teaching tab](https://nicolevasilevsky.github.io/teaching/)
 
 **Professional Societies:**
 
-`2011-present`
+`2017-2023`
 International Society for Biocuration   
 `2008-2021`
 Oregon Bioscience Association  
