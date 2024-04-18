@@ -2,6 +2,9 @@
 layout: resume
 ---
 ## Job history
+`current`
+__Behavioral Caretaker__, Althia Social Services
+
 `Current`
 __Data science intern__, Critical Path Institute
 
