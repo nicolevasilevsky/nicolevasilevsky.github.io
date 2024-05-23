@@ -50,6 +50,7 @@ excerpt: "Publications"
 
 ## Biocuration 
 
+- Vita, R., Aspromonte, M. C., Bello, S. M., Harris, N. L., Caufield, J. H., Haendel, M., Hoyt, C. T., Quaglia, F., Mujambere, J., Panossian, S. P., Reddy, T. B. K., Tuli, M. A., Khodiyar, V. K., & Vasilevsky, N. (2023). Careers in Biocuration: 2023 Workshop Report. 16th Annual International Biocuration Conference, Padova, Italy. Zenodo. [https://doi.org/10.5281/zenodo.10246586](https://doi.org/10.5281/zenodo.10246586)
 - Federica Quaglia, Rama Balakrishnan, Susan M Bello, Nicole Vasilevsky, **Conference report: Biocuration 2021 Virtual Conference**, Database, Volume 2022, 2022, baac027, <https://doi.org/10.1093/database/baac027>
 - International Society for Biocuration (2018) **Biocuration: Distilling data into knowledge**. PLoS Biol 16(4): e2002846. https://doi.org/10.1371/journal.pbio.2002846. [Link here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002846)  
 - Michael Bada, Nicole Vasilevsky, William A Baumgartner, Jr, Melissa Haendel, Lawrence E Hunter. **Gold-standard ontology-based anatomical annotation in the CRAFT Corpus**. Database, Volume 2017, 1 January 2017, bax087, https://academic.oup.com/database/article/doi/10.1093/database/bax087/4780291. [Link  here](https://academic.oup.com/database/article/doi/10.1093/database/bax087/4780291)      
