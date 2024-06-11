@@ -1,12 +1,67 @@
 __Github basic skills training__
 
 Gain basic knowledge about software and its functions
+GitHub is a web-based platform for collaborative software development and project management. 
+
+Did [OBO Academy training](https://oboacademy.github.io/obook/pathways/early-career-data-scientist/#4-learn-github) to learn: 
+
+How to uses Markdown 
+How to create issues 
+Create a pull request 
+Create a website 
 
 __Built personal website__
 
 Used skills learned about Github to contruct personal website
 
-__Skill set spreadsheet for team members__
+Performed a landscape analysis of the skills in the C-Path Data Science team that assessed competencies amongst the team members. 
+
+These included: 
+
+Microsoft office 
+Programming 
+Python programming 
+GitLab Continuous Integration/Continous Development (CI/CD) 
+Git (including GitHub or GitLab) 
+SQL 
+SPARQL 
+Cyberinfracture/ High-Performance Computing (HPC) 
+Natural Language processing 
+Machine learning 
+Biocuration 
+Data curation and cleaning  
+Scientific writing 
+Public speaking  
+Proposal preparation/ writing 
+Communication 
+SDTM 
+OMOP 
+FHIR 
+OBO Ontologies 
+Data Management  
+Developing and presenting training material 
+Developing documentation 
+Project management 
+Community standards 
+Biomedical ontology development 
+Ontology management 
+Makefiles 
+Automated ontology pipelines 
+ODK 
+Ontology mappings 
+Workflow design 
+Testing Apps/ Programs 
+Creating R Shiny Apps  
+Creating a statistical plan 
+Testing a statistical plan 
+Statistical consulting  
+Collaboration and teamwork 
+Outreach and community 
+Collaboration on coding projects 
+AWS Cloud Infra 
+Docker Containers 
+RESTful APIs 
+Jira 
 
 __Scientific Publication__
 
@@ -16,36 +71,33 @@ Vita, R., Aspromonte, M. C., Bello, S. M., Harris, N. L., Caufield, J. H., Haend
 
 __Ontology Training__
 
-__Mapping Assignment for ontologies__
+An ontology is a branch of metaphysics that studies the nature of being. Can also be refer to a formal description of knowledge as a set of consepts and relationships within a domain. 
 
-__COA mapping assignment__
+Did [OBO Academy ontology training](https://oboacademy.github.io/obook/pathways/early-career-data-scientist/#6-introduction-to-ontologies) 
 
-__Microsoft office__
+__Mapping of Rare Epilepsy Patient Data to Disease and Phenotype Ontologies__
 
-Has experience and comfort using most of the Office programs, such as those used to create documents and presentations and manage communications. 
+The Rare Epilepsy Network (REN) which connects over 125+ Rare Epilespy Organizations to promote awareness and advocacy. 
 
-__Programming__
+website: https://www.rareepilepsynetwork.org/) 
 
-Programming experience in one or more programming languages.
+In order to make the data from the REN more discoverable and interoperable with other datasets, we mapped the survey questions to disease or phenotype terms from biomedical ontologies.  
 
-__Python programming__
+The Mondo Disease Ontology is a semi-automatically constructed ontology that merges in multiple disease resources to yeild a coherent merged ontology.
 
-The ability to write, debug, and document code in python.
+website: https://mondo.monarchinitiative.org/
 
-__GitLab Continuous Integration/Continous Development (CI/CD)__
+The Human Phenotype Ontology is a standardized vocabulary of phenotypic abnormalities encountered in human disease.
 
-Setting up CI/CD tasks that automates your builds, testing, and deployment so you can ship code changes faster and more reliably. 
+website: https://hpo.jax.org/
 
-__Git (including GitHub or GitLab)__
+The annotated data will be incorporated into the C-Path Knowledge Graph and made available via the Rare Disease Cures Accelerator and Data and Analytics Platform (RDCA-DAP) to researchers and clinicians to reuse the data to advance drug discovery. 
 
-Experience using Git, including GitHub and/or GitLab. 
+__Mapping of Clinical Outcome Assessments (COAs) to Phenotype Ontologies__
 
-__SQL__
+A clinical outcome assessment (COA) is the patient assesment used in an endpoint and provides a rating that is intended to represent some aspect of a patient's health status.
 
-Experience using SQL, a common language of extracting and organizing data that is stored in a relational database. 
+To enhance the findability of relevant COAs for clinical trials, we annotated COAs in the C-Path COA Resource to ontology terms. 
 
-__Cyberinfracture/ High-Performance Computing (HPC)__
-
-The practice of aggregating computer power in a way that delivers much higher horsepower than traditional computers and servers, applied to genomics bioinformatics. 
 
 
