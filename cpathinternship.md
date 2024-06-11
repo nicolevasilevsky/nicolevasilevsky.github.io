@@ -19,3 +19,33 @@ __Ontology Training__
 __Mapping Assignment for ontologies__
 
 __COA mapping assignment__
+
+__Microsoft office__
+
+Has experience and comfort using most of the Office programs, such as those used to create documents and presentations and manage communications. 
+
+__Programming__
+
+Programming experience in one or more programming languages.
+
+__Python programming__
+
+The ability to write, debug, and document code in python.
+
+__GitLab Continuous Integration/Continous Development (CI/CD)__
+
+Setting up CI/CD tasks that automates your builds, testing, and deployment so you can ship code changes faster and more reliably. 
+
+__Git (including GitHub or GitLab)__
+
+Experience using Git, including GitHub and/or GitLab. 
+
+__SQL__
+
+Experience using SQL, a common language of extracting and organizing data that is stored in a relational database. 
+
+__Cyberinfracture/ High-Performance Computing (HPC)__
+
+The practice of aggregating computer power in a way that delivers much higher horsepower than traditional computers and servers, applied to genomics bioinformatics. 
+
+
