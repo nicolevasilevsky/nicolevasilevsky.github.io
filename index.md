@@ -28,6 +28,6 @@ drug development tools. My goal is to leverage my expertise in ontology developm
 - [Monarch Initiative](https://monarchinitiative.org/): a system that allows for cross-species disease discovery
 - [Gabriella Miller Kids First Data Resource](https://kidsfirstdrc.org/): a data resource portal containing data about pediatric cancers and structural abnormalities
 - [CRAFT corpus](http://bionlp-corpora.sourceforge.net/CRAFT/): The Colorado Richly Annotated Full Text Corpus (CRAFT) is a manually annotated corpus consisting of 67 full-text biomedical journal articles.
-- [Center for Cancer Data Harmonization](https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh): The CCDH will work with the National Cancer Institute Cancer Research Data Commons to make cancer research data more useful and accessible.
+- [Center for Cancer Data Harmonization](https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh): The CCDH worked with the National Cancer Institute Cancer Research Data Commons to make cancer research data more useful and accessible.
 
 
