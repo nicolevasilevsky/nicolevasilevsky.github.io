@@ -9,9 +9,12 @@ I am the Associate Director of Data Science at the [Critical Path Institute](htt
 
 - [Critical Path Institute Rare Diseases Cure Accelerator-Data Analysis Platform (RDCA-DAP)](https://c-path.org/programs/rdca-dap/)
 
+### Service
+- Co-Chair, [GA4GH Rare Disease Community of Interest](https://www.ga4gh.org/community/rare-disease/)
+- [OBO Foundry Operations Committee](https://obofoundry.org/docs/Membership.html) member
+
 ### Ontology development
 - [Monarch Disease Ontology (Mondo)](https://mondo.monarchinitiative.org/)
-- [Critical Path Application Ontology (CPONT)](https://gitlab.c-path.org/c-pathontology/critical-path-ontology)
 - [Human Phenotype Ontology](https://hpo.jax.org/app/)
 - [Cell Ontology](https://github.com/obophenotype/cell-ontology)
 - [Phenotype and Trait Ontology](https://github.com/pato-ontology/pato)
