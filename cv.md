@@ -68,6 +68,12 @@ __Part-time Faculty__, Portland Community College, Bioscience Technology
 `2023 - Present`
 Rare Disease Cures Accelerator - Data and Analytics Platform (RDCA-DAP) | [https://c-path.org/programs/rdca-dap/](https://c-path.org/programs/rdca-dap/)
 
+`2016 - Present`	
+Mondo Disease Ontology | [mondo.monarchinitiative.org](https://mondo.monarchinitiative.org/)
+
+`2012 – 2023`	
+Monarch Initiative | [monarchinitiative.org](https://monarchinitiative.org) 
+
 `2021 - 2023`	
 Human Phenotype Ontology | [hpo.jax.org/app](https://hpo.jax.org/app/)
 
@@ -76,9 +82,6 @@ Center for Cancer Data Harmonization | [ccdh.cancer.gov](http://ccdh.cancer.gov)
 
 `2019 - 2022`	
 Kids First Data Resource Portal | [kidsfirstdrc.org](https://kidsfirstdrc.org/)
-
-`2016 - Present`	
-Mondo Disease Ontology | [mondo.monarchinitiative.org](https://mondo.monarchinitiative.org/)
 
 `2015 - 2022`	
 CRAFT Corpus | [bionlp-corpora.sourceforge.net/CRAFT](http://bionlp-corpora.sourceforge.net/CRAFT/)
@@ -89,14 +92,8 @@ Force11 Attribution Working Group | [force11.org/groups/attribution-working-grou
 `2014 - 2017` 	
 Big Data to Knowledge (BD2K) | [dmice.ohsu.edu/bd2k](https://dmice.ohsu.edu/bd2k/)
 
-`2012 – Present`	
-Monarch Initiative | [monarchinitiative.org](https://monarchinitiative.org) 
-
 `2010 - 2012` 	
 eagle-i Network | [www.eagle-i.net](https://open.catalyst.harvard.edu/products/eagle-i/)
-
-`2010 – Present`	
-Translational and Integrative Sciences Laboratory | [tislab.org](https://tislab.org) 
 
 ## Website development
 
@@ -141,7 +138,7 @@ See [Teaching tab](https://nicolevasilevsky.github.io/teaching/)
 
 **Professional Societies:**
 
-`2017-2023`
+`2017-present`
 International Society for Biocuration   
 `2008-2021`
 Oregon Bioscience Association  
