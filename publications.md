@@ -4,7 +4,7 @@ title: Publications
 excerpt: "Publications"
 ---
 
-[Google scholar profile](https://scholar.google.com/citations?user=NqjaPaAAAAAJ&hl=en&oi=ao)
+[Google scholar profile](https://scholar.google.com/citations?hl=en&user=RiPIoR4AAAAJ)
 
 ## Semantic Phenotyping of Diseases
 
