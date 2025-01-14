@@ -4,7 +4,7 @@ title: Currently
 ---
 Associate Director of Data Science, [Critical Path Institute](https://c-path.org/)
 
-[Mondo Disease Ontology](https://mondo.monarchinitiative.org/) Lead Curator, [Translational and Integrative Sciences Lab](https://tislab.org/)  
+[Mondo Disease Ontology](https://mondo.monarchinitiative.org/) Curator, [Monarch Initiative](https://monarchinitiative.org/)
 
 Based in Portland, Oregon  
 
