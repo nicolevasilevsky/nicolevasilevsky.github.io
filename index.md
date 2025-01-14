@@ -3,8 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am the Associate Director of Data Science at the [Critical Path Institute](https://c-path.org/), which maximizes the value of rare disease patient-level data through curation, standardization and sharing of data; integration across data sources and types; and creation of
-drug development tools. My goal is to leverage my expertise in ontology development, data standards and annotation application to lead a team of data scientists to develop and implement a data curation pipeline utilizing the organization’s knowledge graph and proof-of-concept rare disease application ontology (CPONT). I am a curator for the [Mondo Disease Ontology](https://mondo.monarchinitiative.org/), a semantic standard for disease classifications and definitions. Additionally, I am active in educational efforts in data management best practices and data science, including the [OBO Academy](https://oboacademy.github.io/obook/).
+I am the Associate Director of Data Science at the [Critical Path Institute](https://c-path.org/), where we maximize the value of rare disease patient-level data through curation, standardization, and sharing; integration across diverse data sources; and the creation of drug development tools. My focus is on applying my expertise in ontology development, data standards, and annotation to lead a team of data scientists in creating and implementing a data curation pipeline using the organization’s knowledge graph. I am also a curator for the [Mondo Disease Ontology](https://mondo.monarchinitiative.org/), a semantic standard for disease classifications and definitions. Additionally, I actively contribute to educational initiatives on data management best practices and data science, including through the [OBO Academy](https://oboacademy.github.io/obook/).
 
 ## Projects:
 
