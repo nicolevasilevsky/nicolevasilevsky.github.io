@@ -3,6 +3,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Semantic Phenotyping of Diseases
 
+1. **Nicole Vasilevsky**. Making Rare Disease Data Available in the Rare Disease Cures Accelerator-Data and Analytics Platform (RDCA-DAP). Biocuration 2025. Kansas City, MO. April 07, 2025.
 1. Benjamin Berk, Moni Muñoz Torres, **Nicole Vasilevsky**. Exploring AI-Driven Innovation: Benchmarking Large Language Models for Rare Disease Diagnostics. GA4GH Connect. Cambridge, MA (hybrid). April 03, 2025.
 1. **Nicole Vasilevsky**. “Accelerating Rare Disease Treatment: The Role of Data Sharing in the  RDCA-DAP”, [Presentation] (RE)ACT Congress, Brussels, Belgium, March 05, 2025.
 1. Ramona Walls and **Nicole Vasilevsky**. “RDCA-DAP: Ontology Applications in Rare Epilepsies and Friedreich’s ataxia (FA)”, [Presentation] Rare and Orphan Disease Conference, Washington, DC, September 12, 2023. 
