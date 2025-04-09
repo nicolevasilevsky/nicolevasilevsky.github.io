@@ -100,6 +100,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Biocuration 
 
+1. **Nicole Vasilevsky** and Randi Vita, “Careers in Biocuration”, Biocuration 2025, Kansas City, MO, April 09, 2025.
 1. **Nicole Vasilevsky** and Sabrina Toro, “Collaborative Biocuration Workflows: Lessons learned from the OBO Academy ”, Biocuration 2025, Kansas City, MO, April 05, 2025.
 1. **Nicole Vasilevsky** and Randi Vita, “Careers in Biocuration”, Biocuration 2023, Padua, Italy, April 26, 2023.
 1. Ruth Lovering, Rama Balakrishnan, Susan Bello, Parul Gupta, Robin Haw, Tarcisio Mendes de Farias, Sushma Naithani, Federica Quaglia, Raul Rodriguez-Esteban, Mary Ann Tuli and **Nicole Vasilevsky**, “Join the International Society for Biocuration Community”, Biocuration 2023, Padua, Italy, April 2023
