@@ -71,6 +71,7 @@ Select presentations are available on [SlideShare](https://www.slideshare.net/Ni
 
 ## Biomedical Ontologies and Bioinformatics
 
+1. **Nicole Vasilevsky**, Managing Interoperable Ontologies: Lessons from the OBO Foundry. Earth Science Information Partners (ESIP) Conference, 2025-07-22
 1. Jade Hotchkiss, Victoria Nembaware, Wilson Mupfururirwa, **Nicole Vasilevsky**, Melissa Haendel, Ambroise Wonkam, Nicola Mulder. First layperson translation of the Sickle cell disease ontology: Making SCD-Centred eHealth Platforms More Accessible. [Poster Presentation] ISMB conference, July 2023.
 1. Imke Tammen, Marius Mather, Sabrina Toro, Kathleen R. Mullen, Halie M. Rando, **Nicole Vasilevsky**, Nico Matentzoglu, Melissa Haendel, Zhi-Liang Hu, Carissa A. Park, Gregoire Leroy, Frank W. Nicholas. “OMIA: Introducing OMIA variant IDs and the Vertebrate Breed Ontology” [Poster Presentation] ISAG conference, July 2023.
 1. **Nicole Vasilevsky**, “Using Ontologies: Tutorial on Finding and Requesting Ontology Terms”, Environmental Health Language Collaborative 2023 Workshop: Sharing Your Environmental Health Sciences (EHS) Data: Metadata, Standards, and Tools, Virtual, January 19, 2023, Slides available [here](https://zenodo.org/record/7563499#.Y88xLezMJ6o)
